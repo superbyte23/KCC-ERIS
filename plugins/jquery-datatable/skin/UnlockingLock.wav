@@ -1,0 +1,2175 @@
+/rdf:li>
+          <rdf:li>0.716672, 0.721360</rdf:li>
+          <rdf:li>0.719967, 0.718137</rdf:li>
+          <rdf:li>0.746771, 0.692036</rdf:li>
+          <rdf:li>0.763917, 0.666408</rdf:li>
+          <rdf:li>0.781781, 0.618120</rdf:li>
+          <rdf:li>0.785807, 0.603729</rdf:li>
+          <rdf:li>0.801792, 0.526168</rdf:li>
+          <rdf:li>0.811166, 0.483837</rdf:li>
+          <rdf:li>0.812947, 0.475654</rdf:li>
+          <rdf:li>0.817785, 0.448979</rdf:li>
+          <rdf:li>0.818187, 0.440881</rdf:li>
+          <rdf:li>0.820594, 0.423401</rdf:li>
+          <rdf:li>0.824989, 0.396592</rdf:li>
+          <rdf:li>0.827138, 0.374203</rdf:li>
+          <rdf:li>0.840697, 0.266965</rdf:li>
+          <rdf:li>0.844832, 0.234722</rdf:li>
+          <rdf:li>0.846620, 0.215404</rdf:li>
+          <rdf:li>0.849179, 0.188173</rdf:li>
+          <rdf:li>0.852655, 0.165497</rdf:li>
+          <rdf:li>0.855503, 0.144728</rdf:li>
+          <rdf:li>0.856425, 0.139328</rdf:li>
+          <rdf:li>0.858801, 0.124329</rdf:li>
+          <rdf:li>0.861934, 0.098853</rdf:li>
+          <rdf:li>0.865056, 0.086452</rdf:li>
+          <rdf:li>0.868469, 0.061515</rdf:li>
+          <rdf:li>0.871416, 0.050008</rdf:li>
+          <rdf:li>0.874655, 0.035617</rdf:li>
+          <rdf:li>0.880946, 0.016315</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.049233"
+        stCamera:RadialDistortParam1="-0.252272"
+        stCamera:RadialDistortParam2="0.177757"
+        stCamera:RadialDistortParam3="-0.080797">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.587519"
+         stCamera:VignetteModelParam2="1.617033"
+         stCamera:VignetteModelParam3="-3.030002">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005733, 1.000000</rdf:li>
+          <rdf:li>0.120401, 0.999789</rdf:li>
+          <rdf:li>0.242502, 0.970054</rdf:li>
+          <rdf:li>0.355516, 0.926163</rdf:li>
+          <rdf:li>0.472960, 0.854222</rdf:li>
+          <rdf:li>0.589869, 0.783388</rdf:li>
+          <rdf:li>0.647465, 0.764578</rdf:li>
+          <rdf:li>0.749758, 0.708181</rdf:li>
+          <rdf:li>0.757869, 0.696624</rdf:li>
+          <rdf:li>0.770601, 0.671596</rdf:li>
+          <rdf:li>0.779338, 0.640702</rdf:li>
+          <rdf:li>0.781781, 0.635503</rdf:li>
+          <rdf:li>0.785807, 0.621382</rdf:li>
+          <rdf:li>0.789979, 0.607138</rdf:li>
+          <rdf:li>0.805310, 0.519864</rdf:li>
+          <rdf:li>0.808487, 0.506007</rdf:li>
+          <rdf:li>0.812947, 0.490340</rdf:li>
+          <rdf:li>0.814159, 0.469474</rdf:li>
+          <rdf:li>0.815289, 0.467701</rdf:li>
+          <rdf:li>0.820594, 0.434207</rdf:li>
+          <rdf:li>0.823633, 0.422580</rdf:li>
+          <rdf:li>0.824989, 0.411884</rdf:li>
+          <rdf:li>0.833708, 0.354960</rdf:li>
+          <rdf:li>0.836857, 0.328738</rdf:li>
+          <rdf:li>0.846620, 0.261153</rdf:li>
+          <rdf:li>0.852655, 0.210271</rdf:li>
+          <rdf:li>0.856425, 0.182503</rdf:li>
+          <rdf:li>0.858801, 0.165712</rdf:li>
+          <rdf:li>0.862392, 0.132693</rdf:li>
+          <rdf:li>0.865056, 0.121417</rdf:li>
+          <rdf:li>0.868469, 0.090400</rdf:li>
+          <rdf:li>0.871416, 0.074909</rdf:li>
+          <rdf:li>0.874655, 0.054465</rdf:li>
+          <rdf:li>0.880946, 0.025502</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.049233"
+        stCamera:RadialDistortParam1="-0.252272"
+        stCamera:RadialDistortParam2="0.177757"
+        stCamera:RadialDistortParam3="-0.080797">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.434275"
+         stCamera:VignetteModelParam2="1.423237"
+         stCamera:VignetteModelParam3="-3.003894">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005733, 1.000000</rdf:li>
+          <rdf:li>0.120946, 0.999003</rdf:li>
+          <rdf:li>0.252334, 0.977218</rdf:li>
+          <rdf:li>0.344050, 0.953834</rdf:li>
+          <rdf:li>0.457701, 0.902940</rdf:li>
+          <rdf:li>0.574969, 0.847748</rdf:li>
+          <rdf:li>0.679955, 0.766437</rdf:li>
+          <rdf:li>0.763917, 0.708270</rdf:li>
+          <rdf:li>0.783713, 0.679298</rdf:li>
+          <rdf:li>0.789979, 0.668931</rdf:li>
+          <rdf:li>0.798752, 0.637827</rdf:li>
+          <rdf:li>0.803348, 0.612036</rdf:li>
+          <rdf:li>0.808081, 0.585970</rdf:li>
+          <rdf:li>0.812947, 0.555158</rdf:li>
+          <rdf:li>0.813594, 0.532239</rdf:li>
+          <rdf:li>0.817946, 0.514804</rdf:li>
+          <rdf:li>0.819231, 0.495117</rdf:li>
+          <rdf:li>0.823633, 0.468793</rdf:li>
+          <rdf:li>0.824989, 0.449312</rdf:li>
+          <rdf:li>0.828329, 0.429711</rdf:li>
+          <rdf:li>0.830865, 0.400275</rdf:li>
+          <rdf:li>0.840697, 0.327407</rdf:li>
+          <rdf:li>0.844832, 0.294945</rdf:li>
+          <rdf:li>0.849179, 0.243122</rdf:li>
+          <rdf:li>0.850571, 0.242383</rdf:li>
+          <rdf:li>0.852655, 0.219154</rdf:li>
+          <rdf:li>0.855503, 0.195323</rdf:li>
+          <rdf:li>0.858801, 0.173865</rdf:li>
+          <rdf:li>0.862392, 0.142108</rdf:li>
+          <rdf:li>0.865056, 0.131035</rdf:li>
+          <rdf:li>0.868469, 0.100567</rdf:li>
+          <rdf:li>0.871416, 0.085196</rdf:li>
+          <rdf:li>0.874655, 0.064013</rdf:li>
+          <rdf:li>0.880946, 0.030932</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.049233"
+        stCamera:RadialDistortParam1="-0.252272"
+        stCamera:RadialDistortParam2="0.177757"
+        stCamera:RadialDistortParam3="-0.080797">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.836685"
+         stCamera:VignetteModelParam2="2.26226"
+         stCamera:VignetteModelParam3="-3.345973">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005733, 1.000000</rdf:li>
+          <rdf:li>0.145157, 0.993830</rdf:li>
+          <rdf:li>0.287184, 0.959966</rdf:li>
+          <rdf:li>0.611217, 0.778049</rdf:li>
+          <rdf:li>0.808081, 0.651794</rdf:li>
+          <rdf:li>0.817946, 0.615940</rdf:li>
+          <rdf:li>0.818187, 0.603230</rdf:li>
+          <rdf:li>0.819231, 0.587806</rdf:li>
+          <rdf:li>0.823074, 0.582294</rdf:li>
+          <rdf:li>0.824989, 0.546710</rdf:li>
+          <rdf:li>0.829201, 0.530207</rdf:li>
+          <rdf:li>0.830865, 0.493965</rdf:li>
+          <rdf:li>0.833708, 0.493342</rdf:li>
+          <rdf:li>0.834890, 0.475828</rdf:li>
+          <rdf:li>0.839210, 0.442216</rdf:li>
+          <rdf:li>0.840697, 0.413661</rdf:li>
+          <rdf:li>0.844832, 0.378835</rdf:li>
+          <rdf:li>0.846620, 0.346150</rdf:li>
+          <rdf:li>0.850571, 0.311189</rdf:li>
+          <rdf:li>0.852655, 0.276043</rdf:li>
+          <rdf:li>0.855503, 0.245988</rdf:li>
+          <rdf:li>0.856425, 0.242263</rdf:li>
+          <rdf:li>0.858801, 0.217669</rdf:li>
+          <rdf:li>0.862392, 0.178107</rdf:li>
+          <rdf:li>0.865056, 0.164959</rdf:li>
+          <rdf:li>0.868469, 0.126306</rdf:li>
+          <rdf:li>0.871416, 0.108792</rdf:li>
+          <rdf:li>0.874655, 0.080541</rdf:li>
+          <rdf:li>0.880946, 0.038534</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.049233"
+        stCamera:RadialDistortParam1="-0.252272"
+        stCamera:RadialDistortParam2="0.177757"
+        stCamera:RadialDistortParam3="-0.080797">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.836685"
+         stCamera:VignetteModelParam2="2.26226"
+         stCamera:VignetteModelParam3="-3.345973">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005733, 1.000000</rdf:li>
+          <rdf:li>0.139617, 0.993877</rdf:li>
+          <rdf:li>0.287184, 0.960030</rdf:li>
+          <rdf:li>0.619019, 0.772818</rdf:li>
+          <rdf:li>0.808081, 0.651742</rdf:li>
+          <rdf:li>0.817946, 0.615900</rdf:li>
+          <rdf:li>0.818187, 0.602486</rdf:li>
+          <rdf:li>0.819231, 0.587500</rdf:li>
+          <rdf:li>0.823074, 0.581783</rdf:li>
+          <rdf:li>0.824989, 0.545805</rdf:li>
+          <rdf:li>0.829201, 0.529736</rdf:li>
+          <rdf:li>0.830865, 0.493725</rdf:li>
+          <rdf:li>0.833708, 0.492490</rdf:li>
+          <rdf:li>0.834890, 0.475203</rdf:li>
+          <rdf:li>0.839210, 0.441560</rdf:li>
+          <rdf:li>0.840697, 0.412635</rdf:li>
+          <rdf:li>0.844832, 0.378417</rdf:li>
+          <rdf:li>0.846620, 0.345636</rdf:li>
+          <rdf:li>0.850571, 0.310995</rdf:li>
+          <rdf:li>0.852655, 0.275660</rdf:li>
+          <rdf:li>0.855503, 0.245585</rdf:li>
+          <rdf:li>0.856425, 0.241695</rdf:li>
+          <rdf:li>0.858801, 0.217321</rdf:li>
+          <rdf:li>0.862392, 0.178045</rdf:li>
+          <rdf:li>0.865056, 0.164868</rdf:li>
+          <rdf:li>0.868469, 0.126235</rdf:li>
+          <rdf:li>0.871416, 0.108576</rdf:li>
+          <rdf:li>0.874655, 0.080362</rdf:li>
+          <rdf:li>0.880946, 0.038363</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="16"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.049233"
+        stCamera:RadialDistortParam1="-0.252272"
+        stCamera:RadialDistortParam2="0.177757"
+        stCamera:RadialDistortParam3="-0.080797">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.832537"
+         stCamera:VignetteModelParam2="1.784485"
+         stCamera:VignetteModelParam3="-2.674747">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005733, 1.000000</rdf:li>
+          <rdf:li>0.150494, 0.991045</rdf:li>
+          <rdf:li>0.275262, 0.963135</rdf:li>
+          <rdf:li>0.448121, 0.870350</rdf:li>
+          <rdf:li>0.625569, 0.751897</rdf:li>
+          <rdf:li>0.803348, 0.602263</rdf:li>
+          <rdf:li>0.812947, 0.593477</rdf:li>
+          <rdf:li>0.817946, 0.588789</rdf:li>
+          <rdf:li>0.818187, 0.578957</rdf:li>
+          <rdf:li>0.823074, 0.577406</rdf:li>
+          <rdf:li>0.823633, 0.563931</rdf:li>
+          <rdf:li>0.828329, 0.558771</rdf:li>
+          <rdf:li>0.829201, 0.544335</rdf:li>
+          <rdf:li>0.833708, 0.533897</rdf:li>
+          <rdf:li>0.834890, 0.512412</rdf:li>
+          <rdf:li>0.839210, 0.497302</rdf:li>
+          <rdf:li>0.840697, 0.465547</rdf:li>
+          <rdf:li>0.844832, 0.440318</rdf:li>
+          <rdf:li>0.846620, 0.402779</rdf:li>
+          <rdf:li>0.850571, 0.371126</rdf:li>
+          <rdf:li>0.852655, 0.329202</rdf:li>
+          <rdf:li>0.856425, 0.293855</rdf:li>
+          <rdf:li>0.858801, 0.262909</rdf:li>
+          <rdf:li>0.861934, 0.225657</rdf:li>
+          <rdf:li>0.862392, 0.219029</rdf:li>
+          <rdf:li>0.865056, 0.202081</rdf:li>
+          <rdf:li>0.868469, 0.156717</rdf:li>
+          <rdf:li>0.871416, 0.132635</rdf:li>
+          <rdf:li>0.874655, 0.098148</rdf:li>
+          <rdf:li>0.880946, 0.044453</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.030773"
+        stCamera:RadialDistortParam1="-0.240555"
+        stCamera:RadialDistortParam2="0.245412"
+        stCamera:RadialDistortParam3="-0.16066">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.934237"
+         stCamera:VignetteModelParam2="-0.435425"
+         stCamera:VignetteModelParam3="1.591464">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004587, 1.000000</rdf:li>
+          <rdf:li>0.211436, 0.962228</rdf:li>
+          <rdf:li>0.385310, 0.869982</rdf:li>
+          <rdf:li>0.472875, 0.776669</rdf:li>
+          <rdf:li>0.582150, 0.701972</rdf:li>
+          <rdf:li>0.631983, 0.675192</rdf:li>
+          <rdf:li>0.694775, 0.605627</rdf:li>
+          <rdf:li>0.704757, 0.578204</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.030773"
+        stCamera:RadialDistortParam1="-0.240555"
+        stCamera:RadialDistortParam2="0.245412"
+        stCamera:RadialDistortParam3="-0.16066">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.735213"
+         stCamera:VignetteModelParam2="0.434215"
+         stCamera:VignetteModelParam3="-1.615311">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004587, 1.000000</rdf:li>
+          <rdf:li>0.142188, 0.989051</rdf:li>
+          <rdf:li>0.322670, 0.933840</rdf:li>
+          <rdf:li>0.453434, 0.858538</rdf:li>
+          <rdf:li>0.548432, 0.777450</rdf:li>
+          <rdf:li>0.606295, 0.704425</rdf:li>
+          <rdf:li>0.675866, 0.598693</rdf:li>
+          <rdf:li>0.699724, 0.530430</rdf:li>
+          <rdf:li>0.704757, 0.508394</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.030773"
+        stCamera:RadialDistortParam1="-0.240555"
+        stCamera:RadialDistortParam2="0.245412"
+        stCamera:RadialDistortParam3="-0.16066">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.898202"
+         stCamera:VignetteModelParam2="0.749578"
+         stCamera:VignetteModelParam3="-1.355022">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004587, 1.000000</rdf:li>
+          <rdf:li>0.142188, 0.990299</rdf:li>
+          <rdf:li>0.278281, 0.946886</rdf:li>
+          <rdf:li>0.376137, 0.893979</rdf:li>
+          <rdf:li>0.504725, 0.788597</rdf:li>
+          <rdf:li>0.567214, 0.733015</rdf:li>
+          <rdf:li>0.619340, 0.708365</rdf:li>
+          <rdf:li>0.642678, 0.683957</rdf:li>
+          <rdf:li>0.671368, 0.635780</rdf:li>
+          <rdf:li>0.692045, 0.562280</rdf:li>
+          <rdf:li>0.704757, 0.503055</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.030773"
+        stCamera:RadialDistortParam1="-0.240555"
+        stCamera:RadialDistortParam2="0.245412"
+        stCamera:RadialDistortParam3="-0.16066">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.921501"
+         stCamera:VignetteModelParam2="0.82735"
+         stCamera:VignetteModelParam3="-1.58134">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004587, 1.000000</rdf:li>
+          <rdf:li>0.142188, 0.987341</rdf:li>
+          <rdf:li>0.311929, 0.931080</rdf:li>
+          <rdf:li>0.422001, 0.859776</rdf:li>
+          <rdf:li>0.628646, 0.676589</rdf:li>
+          <rdf:li>0.658459, 0.649491</rdf:li>
+          <rdf:li>0.675866, 0.612958</rdf:li>
+          <rdf:li>0.692045, 0.546321</rdf:li>
+          <rdf:li>0.704757, 0.478375</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="20"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.030773"
+        stCamera:RadialDistortParam1="-0.240555"
+        stCamera:RadialDistortParam2="0.245412"
+        stCamera:RadialDistortParam3="-0.16066">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.907217"
+         stCamera:VignetteModelParam2="0.555244"
+         stCamera:VignetteModelParam3="-0.931974">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.004587, 1.000000</rdf:li>
+          <rdf:li>0.169708, 0.982424</rdf:li>
+          <rdf:li>0.311929, 0.929628</rdf:li>
+          <rdf:li>0.422001, 0.858667</rdf:li>
+          <rdf:li>0.608235, 0.693591</rdf:li>
+          <rdf:li>0.675866, 0.623370</rdf:li>
+          <rdf:li>0.677296, 0.611927</rdf:li>
+          <rdf:li>0.680457, 0.610398</rdf:li>
+          <rdf:li>0.682124, 0.595544</rdf:li>
+          <rdf:li>0.685140, 0.594317</rdf:li>
+          <rdf:li>0.687041, 0.580068</rdf:li>
+          <rdf:li>0.689914, 0.576186</rdf:li>
+          <rdf:li>0.692045, 0.564306</rdf:li>
+          <rdf:li>0.697133, 0.544999</rdf:li>
+          <rdf:li>0.699724, 0.539488</rdf:li>
+          <rdf:li>0.704757, 0.511914</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.018137"
+        stCamera:RadialDistortParam1="-0.204406"
+        stCamera:RadialDistortParam2="0.32012"
+        stCamera:RadialDistortParam3="-0.290932">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.027186"
+         stCamera:VignetteModelParam2="-1.644255"
+         stCamera:VignetteModelParam3="3.319138">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003822, 1.000000</rdf:li>
+          <rdf:li>0.122372, 0.983706</rdf:li>
+          <rdf:li>0.259941, 0.929849</rdf:li>
+          <rdf:li>0.321092, 0.890097</rdf:li>
+          <rdf:li>0.388537, 0.817176</rdf:li>
+          <rdf:li>0.504146, 0.693390</rdf:li>
+          <rdf:li>0.552801, 0.626317</rdf:li>
+          <rdf:li>0.576704, 0.578734</rdf:li>
+          <rdf:li>0.587297, 0.545445</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.018137"
+        stCamera:RadialDistortParam1="-0.204406"
+        stCamera:RadialDistortParam2="0.32012"
+        stCamera:RadialDistortParam3="-0.290932">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.994801"
+         stCamera:VignetteModelParam2="0.507529"
+         stCamera:VignetteModelParam3="-4.363582">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003822, 1.000000</rdf:li>
+          <rdf:li>0.126134, 0.985052</rdf:li>
+          <rdf:li>0.275229, 0.928596</rdf:li>
+          <rdf:li>0.397532, 0.845117</rdf:li>
+          <rdf:li>0.452336, 0.786352</rdf:li>
+          <rdf:li>0.503392, 0.703985</rdf:li>
+          <rdf:li>0.560465, 0.597161</rdf:li>
+          <rdf:li>0.580944, 0.531332</rdf:li>
+          <rdf:li>0.587297, 0.504720</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.018137"
+        stCamera:RadialDistortParam1="-0.204406"
+        stCamera:RadialDistortParam2="0.32012"
+        stCamera:RadialDistortParam3="-0.290932">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.185457"
+         stCamera:VignetteModelParam2="3.187325"
+         stCamera:VignetteModelParam3="-8.376226">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003822, 1.000000</rdf:li>
+          <rdf:li>0.118490, 0.988822</rdf:li>
+          <rdf:li>0.253683, 0.945261</rdf:li>
+          <rdf:li>0.383770, 0.867235</rdf:li>
+          <rdf:li>0.518602, 0.769460</rdf:li>
+          <rdf:li>0.526653, 0.758333</rdf:li>
+          <rdf:li>0.538720, 0.742887</rdf:li>
+          <rdf:li>0.559474, 0.696599</rdf:li>
+          <rdf:li>0.587297, 0.562564</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.018137"
+        stCamera:RadialDistortParam1="-0.204406"
+        stCamera:RadialDistortParam2="0.32012"
+        stCamera:RadialDistortParam3="-0.290932">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.092605"
+         stCamera:VignetteModelParam2="1.505665"
+         stCamera:VignetteModelParam3="-4.22882">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003822, 1.000000</rdf:li>
+          <rdf:li>0.152172, 0.980375</rdf:li>
+          <rdf:li>0.291119, 0.924266</rdf:li>
+          <rdf:li>0.436557, 0.820171</rdf:li>
+          <rdf:li>0.529530, 0.725524</rdf:li>
+          <rdf:li>0.548716, 0.706256</rdf:li>
+          <rdf:li>0.563221, 0.680389</rdf:li>
+          <rdf:li>0.574928, 0.630318</rdf:li>
+          <rdf:li>0.587297, 0.557280</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.018137"
+        stCamera:RadialDistortParam1="-0.204406"
+        stCamera:RadialDistortParam2="0.32012"
+        stCamera:RadialDistortParam3="-0.290932">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.005233"
+         stCamera:VignetteModelParam2="-0.238569"
+         stCamera:VignetteModelParam3="0.118047">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003822, 1.000000</rdf:li>
+          <rdf:li>0.130013, 0.983523</rdf:li>
+          <rdf:li>0.264730, 0.935873</rdf:li>
+          <rdf:li>0.359312, 0.875988</rdf:li>
+          <rdf:li>0.459958, 0.782369</rdf:li>
+          <rdf:li>0.567047, 0.657288</rdf:li>
+          <rdf:li>0.578979, 0.618123</rdf:li>
+          <rdf:li>0.587297, 0.582776</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.012302"
+        stCamera:RadialDistortParam1="-0.189942"
+        stCamera:RadialDistortParam2="0.428052"
+        stCamera:RadialDistortParam3="-0.504385">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.851368"
+         stCamera:VignetteModelParam2="-2.465487"
+         stCamera:VignetteModelParam3="-4.149893">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003276, 1.000000</rdf:li>
+          <rdf:li>0.091792, 0.989883</rdf:li>
+          <rdf:li>0.279555, 0.926730</rdf:li>
+          <rdf:li>0.321954, 0.890043</rdf:li>
+          <rdf:li>0.379772, 0.810165</rdf:li>
+          <rdf:li>0.440343, 0.714178</rdf:li>
+          <rdf:li>0.456430, 0.678142</rdf:li>
+          <rdf:li>0.483783, 0.591553</rdf:li>
+          <rdf:li>0.503398, 0.518746</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.012302"
+        stCamera:RadialDistortParam1="-0.189942"
+        stCamera:RadialDistortParam2="0.428052"
+        stCamera:RadialDistortParam3="-0.504385">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.908057"
+         stCamera:VignetteModelParam2="3.878052"
+         stCamera:VignetteModelParam3="-27.27815">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.029486, 1.000000</rdf:li>
+          <rdf:li>0.244226, 0.954635</rdf:li>
+          <rdf:li>0.336112, 0.915119</rdf:li>
+          <rdf:li>0.371139, 0.884732</rdf:li>
+          <rdf:li>0.412035, 0.822099</rdf:li>
+          <rdf:li>0.442386, 0.770244</rdf:li>
+          <rdf:li>0.459056, 0.725487</rdf:li>
+          <rdf:li>0.482761, 0.635018</rdf:li>
+          <rdf:li>0.503398, 0.543681</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.012302"
+        stCamera:RadialDistortParam1="-0.189942"
+        stCamera:RadialDistortParam2="0.428052"
+        stCamera:RadialDistortParam3="-0.504385">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.471407"
+         stCamera:VignetteModelParam2="8.122187"
+         stCamera:VignetteModelParam3="-34.936378">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003276, 1.000000</rdf:li>
+          <rdf:li>0.062592, 0.999832</rdf:li>
+          <rdf:li>0.227573, 0.949671</rdf:li>
+          <rdf:li>0.328946, 0.885252</rdf:li>
+          <rdf:li>0.442386, 0.789178</rdf:li>
+          <rdf:li>0.456430, 0.764862</rdf:li>
+          <rdf:li>0.464541, 0.735994</rdf:li>
+          <rdf:li>0.485245, 0.628014</rdf:li>
+          <rdf:li>0.503398, 0.528918</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.012302"
+        stCamera:RadialDistortParam1="-0.189942"
+        stCamera:RadialDistortParam2="0.428052"
+        stCamera:RadialDistortParam3="-0.504385">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.260413"
+         stCamera:VignetteModelParam2="4.318012"
+         stCamera:VignetteModelParam3="-20.364717">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003276, 1.000000</rdf:li>
+          <rdf:li>0.162660, 0.975472</rdf:li>
+          <rdf:li>0.282230, 0.920668</rdf:li>
+          <rdf:li>0.413128, 0.815836</rdf:li>
+          <rdf:li>0.458635, 0.756207</rdf:li>
+          <rdf:li>0.467398, 0.745150</rdf:li>
+          <rdf:li>0.479549, 0.709865</rdf:li>
+          <rdf:li>0.503398, 0.547884</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="28"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.012302"
+        stCamera:RadialDistortParam1="-0.189942"
+        stCamera:RadialDistortParam2="0.428052"
+        stCamera:RadialDistortParam3="-0.504385">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.152416"
+         stCamera:VignetteModelParam2="1.559627"
+         stCamera:VignetteModelParam3="-8.587968">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003276, 1.000000</rdf:li>
+          <rdf:li>0.157429, 0.974095</rdf:li>
+          <rdf:li>0.278786, 0.922555</rdf:li>
+          <rdf:li>0.406264, 0.820445</rdf:li>
+          <rdf:li>0.449033, 0.764076</rdf:li>
+          <rdf:li>0.476405, 0.728497</rdf:li>
+          <rdf:li>0.486041, 0.701938</rdf:li>
+          <rdf:li>0.499803, 0.629523</rdf:li>
+          <rdf:li>0.503398, 0.600231</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006573"
+        stCamera:RadialDistortParam1="-0.15663"
+        stCamera:RadialDistortParam2="0.617653"
+        stCamera:RadialDistortParam3="-0.812813">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.452578"
+         stCamera:VignetteModelParam2="-8.659647"
+         stCamera:VignetteModelParam3="-12.166551">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002621, 1.000000</rdf:li>
+          <rdf:li>0.217604, 0.965332</rdf:li>
+          <rdf:li>0.242224, 0.950666</rdf:li>
+          <rdf:li>0.262843, 0.934250</rdf:li>
+          <rdf:li>0.305891, 0.870624</rdf:li>
+          <rdf:li>0.341381, 0.807287</rdf:li>
+          <rdf:li>0.369408, 0.740942</rdf:li>
+          <rdf:li>0.386209, 0.679678</rdf:li>
+          <rdf:li>0.402718, 0.605669</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006573"
+        stCamera:RadialDistortParam1="-0.15663"
+        stCamera:RadialDistortParam2="0.617653"
+        stCamera:RadialDistortParam3="-0.812813">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.10358"
+         stCamera:VignetteModelParam2="23.296656"
+         stCamera:VignetteModelParam3="-139.72159">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002621, 1.000000</rdf:li>
+          <rdf:li>0.210479, 0.944577</rdf:li>
+          <rdf:li>0.355613, 0.844094</rdf:li>
+          <rdf:li>0.371633, 0.803797</rdf:li>
+          <rdf:li>0.388196, 0.715991</rdf:li>
+          <rdf:li>0.402718, 0.631071</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006573"
+        stCamera:RadialDistortParam1="-0.15663"
+        stCamera:RadialDistortParam2="0.617653"
+        stCamera:RadialDistortParam3="-0.812813">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.836098"
+         stCamera:VignetteModelParam2="11.286778"
+         stCamera:VignetteModelParam3="-66.27934">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002621, 1.000000</rdf:li>
+          <rdf:li>0.140778, 0.967837</rdf:li>
+          <rdf:li>0.238047, 0.923864</rdf:li>
+          <rdf:li>0.330253, 0.849062</rdf:li>
+          <rdf:li>0.364654, 0.805072</rdf:li>
+          <rdf:li>0.383639, 0.770414</rdf:li>
+          <rdf:li>0.391509, 0.728356</rdf:li>
+          <rdf:li>0.402718, 0.647537</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.006573"
+        stCamera:RadialDistortParam1="-0.15663"
+        stCamera:RadialDistortParam2="0.617653"
+        stCamera:RadialDistortParam3="-0.812813">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-1.804032"
+         stCamera:VignetteModelParam2="6.665158"
+         stCamera:VignetteModelParam3="-29.53715">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002621, 1.000000</rdf:li>
+          <rdf:li>0.223337, 0.932103</rdf:li>
+          <rdf:li>0.340857, 0.832692</rdf:li>
+          <rdf:li>0.388832, 0.768409</rdf:li>
+          <rdf:li>0.402718, 0.704894</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.00436"
+        stCamera:RadialDistortParam1="-0.147457"
+        stCamera:RadialDistortParam2="0.910755"
+        stCamera:RadialDistortParam3="-1.404255">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-0.476973"
+         stCamera:VignetteModelParam2="-16.027387"
+         stCamera:VignetteModelParam3="-26.002718">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002293, 1.000000</rdf:li>
+          <rdf:li>0.125549, 0.983549</rdf:li>
+          <rdf:li>0.213084, 0.954005</rdf:li>
+          <rdf:li>0.230718, 0.937383</rdf:li>
+          <rdf:li>0.266710, 0.874015</rdf:li>
+          <rdf:li>0.302488, 0.799107</rdf:li>
+          <rdf:li>0.321339, 0.745849</rdf:li>
+          <rdf:li>0.336279, 0.686062</rdf:li>
+          <rdf:li>0.352378, 0.604998</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.00436"
+        stCamera:RadialDistortParam1="-0.147457"
+        stCamera:RadialDistortParam2="0.910755"
+        stCamera:RadialDistortParam3="-1.404255">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.670853"
+         stCamera:VignetteModelParam2="42.833749"
+         stCamera:VignetteModelParam3="-343.43766">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.009456, 1.000000</rdf:li>
+          <rdf:li>0.101557, 0.979668</rdf:li>
+          <rdf:li>0.209951, 0.935730</rdf:li>
+          <rdf:li>0.296517, 0.870409</rdf:li>
+          <rdf:li>0.309670, 0.850687</rdf:li>
+          <rdf:li>0.325179, 0.802578</rdf:li>
+          <rdf:li>0.352378, 0.637816</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.00436"
+        stCamera:RadialDistortParam1="-0.147457"
+        stCamera:RadialDistortParam2="0.910755"
+        stCamera:RadialDistortParam3="-1.404255">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.406503"
+         stCamera:VignetteModelParam2="24.786255"
+         stCamera:VignetteModelParam3="-184.734819">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002293, 1.000000</rdf:li>
+          <rdf:li>0.131603, 0.965913</rdf:li>
+          <rdf:li>0.209951, 0.929465</rdf:li>
+          <rdf:li>0.289190, 0.862318</rdf:li>
+          <rdf:li>0.321077, 0.823106</rdf:li>
+          <rdf:li>0.335684, 0.786422</rdf:li>
+          <rdf:li>0.352378, 0.658603</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="40"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="1.00436"
+        stCamera:RadialDistortParam1="-0.147457"
+        stCamera:RadialDistortParam2="0.910755"
+        stCamera:RadialDistortParam3="-1.404255">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-2.557691"
+         stCamera:VignetteModelParam2="16.904988"
+         stCamera:VignetteModelParam3="-83.033457">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.002293, 1.000000</rdf:li>
+          <rdf:li>0.211697, 0.919840</rdf:li>
+          <rdf:li>0.311600, 0.828200</rdf:li>
+          <rdf:li>0.340228, 0.787819</rdf:li>
+          <rdf:li>0.352378, 0.725496</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995353"
+        stCamera:RadialDistortParam1="-0.07397"
+        stCamera:RadialDistortParam2="1.822751"
+        stCamera:RadialDistortParam3="-2.180119">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.657646"
+         stCamera:VignetteModelParam2="38.837959"
+         stCamera:VignetteModelParam3="-660.512809">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001835, 1.000000</rdf:li>
+          <rdf:li>0.070891, 0.981846</rdf:li>
+          <rdf:li>0.165945, 0.917305</rdf:li>
+          <rdf:li>0.193583, 0.888135</rdf:li>
+          <rdf:li>0.225815, 0.820919</rdf:li>
+          <rdf:li>0.244453, 0.776203</rdf:li>
+          <rdf:li>0.257960, 0.729732</rdf:li>
+          <rdf:li>0.270719, 0.664020</rdf:li>
+          <rdf:li>0.281903, 0.593160</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995353"
+        stCamera:RadialDistortParam1="-0.07397"
+        stCamera:RadialDistortParam2="1.822751"
+        stCamera:RadialDistortParam3="-2.180119">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.720951"
+         stCamera:VignetteModelParam2="92.434165"
+         stCamera:VignetteModelParam3="-1302.771982">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001835, 1.000000</rdf:li>
+          <rdf:li>0.091899, 0.976569</rdf:li>
+          <rdf:li>0.191520, 0.919169</rdf:li>
+          <rdf:li>0.219250, 0.891847</rdf:li>
+          <rdf:li>0.239923, 0.844734</rdf:li>
+          <rdf:li>0.250170, 0.814272</rdf:li>
+          <rdf:li>0.260143, 0.768496</rdf:li>
+          <rdf:li>0.281903, 0.608487</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995353"
+        stCamera:RadialDistortParam1="-0.07397"
+        stCamera:RadialDistortParam2="1.822751"
+        stCamera:RadialDistortParam3="-2.180119">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-4.188588"
+         stCamera:VignetteModelParam2="102.691633"
+         stCamera:VignetteModelParam3="-1274.473878">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001835, 1.000000</rdf:li>
+          <rdf:li>0.161087, 0.940009</rdf:li>
+          <rdf:li>0.255601, 0.838873</rdf:li>
+          <rdf:li>0.258586, 0.827849</rdf:li>
+          <rdf:li>0.265344, 0.782810</rdf:li>
+          <rdf:li>0.281903, 0.611054</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:AutoScale="False"
+       stCamera:Lens="E PZ 16-50mm F3.5-5.6 OSS"
+       stCamera:LensInfo="160/10 500/10 35/10 56/10"
+       stCamera:CameraPrettyName="Sony"
+       stCamera:LensPrettyName="Sony E 16-50mm F3.5-5.6 OSS"
+       stCamera:ProfileName="Adobe (Sony E 16-50mm F3.5-5.6 OSS)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ScaleFactor="0.995353"
+        stCamera:RadialDistortParam1="-0.07397"
+        stCamera:RadialDistortParam2="1.822751"
+        stCamera:RadialDistortParam3="-2.180119">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:VignetteModelParam1="-3.898615"
+         stCamera:VignetteModelParam2="59.149753"
+         stCamera:VignetteModelParam3="-592.032117">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001835, 1.000000</rdf:li>
+          <rdf:li>0.162045, 0.933685</rdf:li>
+          <rdf:li>0.263384, 0.824435</rdf:li>
+          <rdf:li>0.272183, 0.788096</rdf:li>
+          <rdf:li>0.281903, 0.679885</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       /*************************************************************************
+ * ADOBE CONFIDENTIAL
+ * ___________________
+ *
+ *  Copyright 2015 Adobe Systems Incorporated
+ *  All Rights Reserved.
+ *
+ * NOTICE:  All information contained herein is, and remains
+ * the property of Adobe Systems Incorporated and its suppliers,
+ * if any.  The intellectual and technical concepts contained
+ * herein are proprietary to Adobe Systems Incorporated and its
+ * suppliers and are protected by all applicable intellectual property
+ * laws, including trade secret and copyright laws.
+ * Dissemination of this information or reproduction of this material
+ * is strictly forbidden unless prior written permission is obtained
+ * from Adobe Systems Incorporated.
+ **************************************************************************/
+
+define(['main/utils/constants',
+  'main/singleton/Main',
+  'main/view/main',
+  'main/utils/utils',
+  'interface/events',
+  'jquery',
+  'interface/session'
+], function(k, Main, MainView, utils, Events, $, session) {
+  "use strict";
+
+  return {
+    action: function(params) {
+      var type = params.type, msg = params.msg;
+
+      switch (type) {
+        case k.MSG_TYPE_INIT:
+          // loading css file
+          utils.shared.loadCss(k.CSS_PATH + "main_base.css");
+          // creating Assets container
+          var v_main = new MainView({model: Main, el: $('#' + Main.entity.get("id"))});
+          v_main.$el.addClass('main');
+		  break;
+		  
+		case k.MSG_TYPE_SHOW_FS_VIEW:
+			Events.trigger(k.EVT_SHOW_FS, {
+	        subscriber: Main.entity.get("id"),
+	        $viewEl: PreferencesView.$el,
+	        title: "Preferences"
+	      });
+          break;
+      }
+    }
+  };
+});
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   INDX( 	 5èm~          (   È  è       (       Ñ~           nÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó P     G             C A 6 8 C F ~ 1 . L C P D   ( )Û    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑMÙ€ÓþGBf€Ó à     zÒ             C A 6 9 A 9 ~ 1 . L C P D   ( Ù    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñî Ê€Ó83f€Ó       B             C A 6 C 3 8 ~ 1 . L C P D   ( Jâ    p Z     fõ     à5³¸Ñ à5³¸ÑÓó‘€Ó	)þf€Ó `      [\              C A 6 C E 3 ~ 1 . L C P D    Gâ    p Z     fõ     à5³¸Ñ à5³¸ÑÓó‘€Ó	)þf€Ó `      Š_              C A 6 F 6 0 ~ 1 . L C P D   ( ŸÛ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€Óef€Ó @     Ž0             C A 7 0 A 2 ~ 1 . L C P D   ( øÚ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑMÙ€Óâ?f€Ó 0     ’#             C A 7 1 0 3 ~ 1 . L C P D   ( —Û    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑMÙ€ÓþGBf€Ó       Q             C A 7 6 1 5 ~ 1 . L C P D   ( ÛÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñq[Ò€ÓÑÐ7f€Ó Ð    £Í             C A 7 9 D E ~ 1 . L C P D   ( ]Ú    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñô×€Óâ?f€Ó ð      çç              C A 7 E E 6 ~ 1 . L C P D   ( ‰Þ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó P      ~K              C A 7 F B 8 ~ 1 . L C P D   ( {Ú    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñô×€Óâ?f€Ó P     6@             C A 8 0 7 B ~ 1 . L C P D   ( ÛÚ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñô×€Óâ?f€Ó à     ìÒ             C A 8 4 E B ~ 1 . L C P D   ( ÿÚ    p Z    fõ     ³è3³¸Ñ ³è3³¸ÑMÙ€Óâ?f€Ó ð      õæ              C A 8 7 1 3 ~ 1 . L C P D   ( OÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑBƒÌ€Ó83f€Ó 0     m*             C A 8 8 7 F ~ 1 . L C P D   ( #â    p Z     fõ     à5³¸Ñ à5³¸Ñ7Í	‘€Óö Øf€Ó        	              C A 8 A 9 1 ~ 1 . L C P D   ( oâ    p Z     fõ     à5³¸Ñ à5³¸ÑÀp‘€Ó²íg€Ó P     QI             C A 8 B F A ~ 1 . L C P D   ( óØ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑŸÀÇ€ÓÏ©0f€Ó       =Š             C A 8 D 4 4 ~ 1 . L C P D   ( HÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑBƒÌ€Ó83f€Ó 0      ¨               C A 9 6 6 C ~ 1 . L C P D   ( :â    p Z     fõ     à5³¸Ñ à5³¸Ñ1’‘€Ó§Æûf€Ó ð      eå              C A 9 6 9 3 ~ 1 . L C P D   ( ÷á    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ-	ä€Ó<	­f€Ó À     G¹             C A 9 6 9 5 ~ 1 . L C P D   ( éá    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ-	ä€Ó<	­f€Ó 0      $!              C A 9 6 A A ~ 1 . L C P D   ( â    p Z     fõ     à5³¸  à5³¸Ñ=0ë€ÓûÍf€Ó 0     Û.             C A 9 7 A 4 ~ 1 . L C P D   ( ‘Ú    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñô×€Óâ?f€Ó p     Øk             C A 9 C 5 F ~ 1 . L C P D   (  â    p Z     fõ     à5³¸Ñ à5³¸Ñ²j‘€ÓÈÒ×f€Ó °      ë¡              C A A 2 0 D ~ 1 . L C P D   ( GÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñî Ê€Ó83f€Ó 0      g!              C A A 3 D A ~ 1 . L C P D   ( ­Ù    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñq[Ò€Óon5f€Ó °      ö¤              C A A 4 3 3  1 . L C P D   ( Oâ    p Z     fõ     à5³¸Ñ à5³¸Ñó/h‘€Ó	)þf€Ó        —              C A A 5 A 3 ~ 1 . L C P D   ( Û    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑMÙ€Óâ?f€Ó p     åh             C A A 8 D 1 ~ 1 . L C P D   ( má    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€Ó<	­f€Ó `     x_             C A A 8 E 7 ~ 1 . L C P       â    p Z     fõ     à5³¸Ñ à5³¸Ñ§î€ÓT]Ðf€Ó Ð      ‹Â              C A A 9 D 3 ~ 1 . L C P                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   INDX( 	 ól~          (   @
+  è       Ña   Ó8 a           ›Û    Ð ¼     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€ÓþGBf€Ó ð     ï             =C a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   7 0 - 2 0 0 m m   f 4 L   I S   U S M )   -   R A W . l c p   
+ žÛ    È ¶     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€Óef€Ó       O“             :C a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   7 0 - 2 0 0 m m   f 4 L   U S M )   -   R A W . l c p   ŸÛ    Ø Æ     fõ     ³è3³¸Ñ ³è3³¸ «ãÛ€Óef€Ó @     Ž0             BC a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   7 0 - 3 0 0 m m   f 4 - 5 . 6   L   I S   U S M )   -   R A W . l c p l íÛ    à Ì     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€Ó´ògf€Ó       °             EC a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   7 0 - 3 0 0 m m   f 4 . 5 - 5 . 6   D O   I S   U S M )   -   R A W . l c p     OÝ    Ð ¼     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€Ó´ògf€Ó      Ú€             =C a n o n   E O S   5 D   M  r k   I I   ( C a n o n   E F   7 5 - 3 0 0 m m   f 4 - 5 . 6   U S M )   -   R A W . l c p   
+ QÝ    È ¸     fõ     ³è3³¸Ñ ³è3³¸ÑFÞ€ÓÓTjf€Ó 0     >,             ;C a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   8 5 m m   f 1 . 2 L   I I   U S M )   -   R A W . l c p RÝ    È ²     fõ     ³è3³¸Ñ ³è3³¸Ñc”Þ€ÓÓTjf€Ó 0     8)             8C a n o n   E O S   5 D   M a r k   I I   ( C a n o n   E F   8 5 m m   f 1 . 2 L   U S M )   -   R A W . l c p 7 - 3 TÝ     ê    fõ     ³è3³¸Ñ ³è3³¸ÑšâÞ€ÓÓTjf€Ó à     šÐ             TC a n o n   E O S   5 D   M a r k   I I   ( T A M R O N   S P   A F   A s p h e r i c a l   D i   L D   I F   1 7 - 3 5 m m   f 2 . 8 - 4   o 7 7 )   -   R A W . l c p ù}ÓZÝ    à Ê     fõ     ³è3³¸Ñ ³è3³¸Ñ1ß€ÓÓTjf€Ó       û             DC a n o n   E O S   5 D   M a r k   I I I   ( C a n o n   E F   2 0 0 - 4 0 0 m m   f 4   L   I S   U S M   E X T )   -   R A W . l c p ²     [Ý    Ø Â     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€ 	mf€Ó p      l             @C a n o n   E O S   5 D   M a r k   I I I   ( C a n o n   E F   2 0 0 - 4 0 0 m m   f 4   L   I S   U S M )   -   R A W . l c p     ^Ý    Ð ¼     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Óÿ¡mf€Ó @     }3             =C a n o n   E O S   7 D   ( C a n o n   E F - S   1 8 - 1 3 5   m m   f 3 . 5 - 5 . 6   I S   S T M )   -   R A W . l c p     _Ý    Ð º     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Óÿ¡mf€Ó @     X5             <C a n o n   E O S   7 D   ( C a n o n   E F - S   1  - 1 3 5 m m   f 3 . 5 - 5 . 6   I S   U S M )   -   R A W . l c p                     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Óÿ¡mf€Ó 0     9&             8C a n o n   E O S   7 D   ( C a n o n   E F - S   1 8 - 2 0 0 m m   f 3 . 5 - 5 . 6   I S )   -   R A W . l c p C A N               o n   E O S - 1 D   M a r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M )   -   R A W . l c p (–    À ¬     fõ     ©O?‰#Î ©O?‰#Î+!ù}Ó$v²}Ó P      K              5C a n o n   E O S - 1 D   M  r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M ) . l c p     .–   
+ À ¬     fõ     ©O?‰#Î ©O?‰#ÎDy!ù}Ó7’˜²}Ó 0      ƒ!              5C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 5 m m   f 2 . 8 )   -   R A W . l c p     /–   
+ °       fõ     ©O?‰#Î ©O?‰#Îã³!ù}ÓG›²}Ó 0      $!              /C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 5 m m   f 2 . 8 ) . l c p y•    p Z     fõ     |>‰#Î |>‰#Îÿ;\ø}ÓFöy±}Ó `    ñP             C A N O N E ~ 1 . L C P       ~•    p Z     fõ     |>‰#Î |>‰#Îÿ;\ø}ÓúC‰±}Ó P      áF              C A N O N E ~ 2 . L C P       •   	 p Z     fõ     |>‰#Î |>‰#Î·aø}Ó_UŠ±}Ó                    C A N O N E ~ 3 . L C P       …•   	 p Z     fõ     |>‰#Î |>‰#Îznø}Ó¢b–±}Ó P      »O              C A N O N E ~ 4 . L C P                                                                                                                                    INDX( 	 É#m~   	       (   8  è       ÓA   R   E Î        dÝ    À °     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Óÿ¡mf€Ó À     ì±             7C a n o n   E O S   7 D   ( C a n o n   E F - S   6 0 m m   f 2 . 8   M a c r o   U S M )   -   R A W . l c p gÝ    È ²     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Ó¼pf€Ó €     »p             8C a n o n   E O S   M   ( C a n o n   E F - M   1 1 - 2 2 m m   f 4 - 5 . 6   I S   S T M )   -   R A W . l c p c p N iÝ    È ¶     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Ókrf€  p     c             :C a n o n   E O S   M   ( C a n o n   E F - M   1 8 - 5 5 m m   f 3 . 5 - 5 . 6   I S   S T M )   -   R A W . l c p  mÝ    ° ž     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Ó¯+ f€Ó €     z             .C a n o n   E O S   M   ( C a n o n   E F - M   2 2 m m   f 2   S T M )   -   R A W . l c p   nÝ    Ð º     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó P     G             <C a n o n   E O S   M 1 0   ( C a n o n   E F - M   1 5 - 4 5 m m   f 3 . 5 - 6 . 3   I S   S T M )   -   R  W . l c p . l c oÝ    Ð ¼     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó       `             =C a n o n   E O S   M 1 0   ( C a n o n   E F - M   5 5 - 2 0 0 m m   f 4 . 5 - 6 . 3   I S   S T M )   -   R A W . l c p l c qÝ    Ø Â     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó @     3             @C a n o n   E O S   R E B E L   T 1 i   ( C a n o n   E F   1 5 - 8 5 m m   f 3 . 5 - 5 . 6   I S   U S M )   -   R A W . l c p ¬     ‰Þ    È ¸     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓŽ¢f€Ó P      ~K             ;C a n o n   E O S - 1 D   M a r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M )   -   R A W . l c p ®Þ    À ¬     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓPð¤f€Ó P      K              5C a n o n   E O S - 1 D   M a r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M ) . l c p                   fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓPð¤f€Ó P     MJ             =C a n o n   E O S - 1 D s   M a r k   I I   ( C a n o n   E F   1 6 - 3 5 m m   f 4 L   I S   U S M )   -    A W . l c p     	ß    ð à     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓPð¤f€Ó À     @¹             OC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 0 0 - 4 0 0 m m   f 4 . 5 - 5 . 6 L   I S   I I   U S M   + 1 . 4 x )   -   R A W . l c p Dá    ð à     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓÑR§f€Ó À     Ôº             OC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 0 0 - 4 0 0 m m   f 4 . 5 - 5 . 6 L   I S   I I   U S M   + 2 . 0 x )   -   R A W . l c p má    è Ô    fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€Ó<	­f€Ó `     x_             IC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 0 0 - 4 0 0 m m   f 4 . 5 - 5 . 6 L   I S   I I   U S M )   -   R A W . l c p ‰#Î£á    È ¸     fõ     ³è3³¸Ñ ³è3³¸Ñ-	ä€Ó<	­f€Ó                    ;C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 1 - 2 4 m m   f 4 L   U S M )   -   R A W . l c p Çá    À ¬     fõ     ³è3³¸Ñ ³è3³¸Ñ-	ä€Ó<	­f€Ó 0      ƒ!              5C a n o n    O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 5 m m   f 2 . 8 )   -   R A W . l c p     éá    °       fõ     ³è3³¸Ñ ³è3³¸Ñ-	ä€Ó<	­f€Ó 0      $!              /C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 5 m m   f 2 . 8 ) . l c p 2–   
+ Ð º     fõ     ©O?‰#Î ©O?‰#Îã³!ù}ÓÇ“¤²}Ó `     ]             <C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M )   -   R A W . l c p N E ~ 3–   
+ À ®     fõ     ©O?‰#  ©O?‰#Îã³!ù}Ón§²}Ó P      ¸H              6C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   1 7 - 4 0 m m   f 4   L   U S M ) . l c p   6–   
+ Ø Â     fõ     ©O?‰#Î ©O?‰#ÎQP"ù}Ó?¶À²}Ó ð     Êå             @C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 4 - 1 0 5 m m   f 4   L   I S   U S M )   -   R A W . l c p . L C                                                                                                                                      INDX( 	 -fm~   
+       (   °  è       ÑE    f ÑM          â    È ¶     fõ     à5³¸Ñ à5³¸Ñ‚kæ€Ó«˜Ëf€Ó P      ¾J              :C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 4 - 1 0 5 m m   f 4   L   I S   U S M ) . l c p . â    Ð ¾     fõ     à5³¸Ñ à5³¸ÑàÍè€Ó«˜Ëf€Ó 0     ™+             >C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 4 - 7 0 m m   f 2 . 8   L   U S M )   -   R A W . l c p 	 â    È ²     fõ     à5³¸Ñ à5³¸ àÍè€ÓûÍf€Ó P      M              8C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 4 - 7 0 m m   f 2 . 8   L   U S M ) . l c p A W . â    Ð ¾     fõ     à5³¸Ñ à5³¸Ñ=0ë€ÓûÍf€Ó 0     Û.             >C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 4 - 7 0 m m   f 4 L   I S   U S M )   -   R A W . l c p A â    Ø Â     fõ     à5³¸Ñ à5³¸Ñ=0ë€ÓûÍf€Ó       èñ             @C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n    F   2 4 - 8 5 m m   f 3 . 5 - 4 . 5   U S M )   -   R A W . l c p . l c 
+â    à Ê     fõ     à5³¸Ñ à5³¸Ñ=0ë€ÓT]Ðf€Ó €     ¥q             DC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 8 - 1 3 5 m m   f 3 . 5 - 5 . 6   I S   U S M )   -   R A W . l c p ¨     â    Ð ¾     fõ     à5³¸Ñ à5³¸Ñ=0ë€ÓT]Ðf€Ó P      zM              >C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   2 8 - 1 3 5 m m   f 3 . 5 - 5 . 6   I S   U S M ) . l c p  â    à Ð     fõ     à5³¸Ñ à5³¸Ñ–’í€ÓT]Ðf€Ó                    GC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   3 0 0 m m   f 2 . 8 L   I S   I I   U S M   + 1 . 4 x )   -   R A W . l c p â    à Ð     fõ     à5³¸Ñ à5³¸Ñíàí€ÓT]Ðf€Ó       v             GC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   3 0 0 m m   f 2 . 8 L   I S   I I   U S M   + 2 . 0 x )   -   R A W . l c p               fõ     à5³¸Ñ à5³¸Ñ§î€ÓT]Ðf€Ó Ð      ‹Â             AC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   3 0 0 m m   f 2 . 8 L   I S   I I   U S M )   -   R A W . l c p ‰#Îâ    Ð ¼     fõ     à5³¸Ñ à5³¸ÑÌiî€Ó—¿Òf€Ó      b             =C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   3 5 m m   f 1 . 4 L   I I   U S M )   -   R A W . l c p    â    ¸ ¨     fõ     à5³¸Ñ à5³¸Ñc
+‘€Ó°"Õf€Ó ð      Ÿî              3C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   3 5 m m    2 )   -   R A W . l c p â    à Ð     fõ     à5³¸Ñ à5³¸Ñc
+‘€Ó°"Õf€Ó ð      pê              GC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   4 0 0 m m   f 2 . 8 L   I S   I I   U S M   + 1 . 4 x )   -   R A W . l c p â    à Ð     fõ     à5³¸Ñ à5³¸Ñ²j‘€Ó°"Õf€Ó ð      à              GC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   4 0 0 m m   f 2 . 8 L   I S   I I   U S M   + 2 . 0 x )   -   R A W . l c p â    Ø Ä     fõ     à5³¸Ñ à5³¸ ²j‘€Ó°"Õf€Ó ð      'ë              AC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   4 0 0 m m   f 2 . 8 L   I S   I I   U S M )   -   R A W . l c p      â    à Ð     fõ     à5³¸Ñ à5³¸Ñ²j‘€ÓÈÒ×f€Ó °      ë¡              GC a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   4 0 0 m m   f 4   D O   I S   I I   U S M   + 1 . 4 x )   -   R A W . l c p P–    È ´     fõ     ©O?‰#Î ©O?‰#Î‚COù}Ó—ï³}Ó `     žW             9C a n o n   E O S - 1 D s    a r k   I I I   ( C a n o n   E F   5 0 m m   f 1 . 4   U S M )   -   R A W . l c p A N S–   	 ¸ ¨     fõ     ©O?‰#Î ©O?‰#Î%~Où}Ó—ï³}Ó 0      ì!              3C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   5 0 m m   f 1 . 4   U S M ) . l c p U–   
+ Ð À     fõ     ©O?‰#Î ©O?‰#Î%~Où}Ó—ï³}Ó 0     s%             ?C a n o n   E O S - 1 D s   M a r k   I I I   ( C a n o n   E F   7 0 - 2 0 0 m m   f 2 . 8   L   U S M )   -   R A W . l c p                              INDX( 	 6åm~          (   X  è       (       Ñ~           â    p Z     fõ     à5³¸Ñ à5³¸Ñ=0ë€ÓT]Ðf€Ó P      zM              C A 3 0 9 C ~ 1 . L C P D   ( úá    p Z     fõ     à5³¸Ñ à5³¸Ñ-	ä€Óô5Éf€Ó P      ¸H              C A 3 2 2 9 ~ 1 . L C P D   ( ZÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ1ß€ÓÓTjf€Ó       û             C A 3 4 0 B ~ 1 . L C P D   ( øá    p Z     fõ     à5³¸Ñ à5³¸Ñ-	ä€Ó<	­f€Ó `     ]             C A 3 4 4 B ~ 1 . L C P D    Sâ    p Z     fõ     à5³¸Ñ à5³¸Ñmóh‘€Ó	)þf€Ó P      L              C A 3 5 8 7 ~ 1 . L C P D   ( *â    p Z     fõ     à5³¸Ñ à5³¸Ñ¦‘€Ó•5Ýf€Ó       †              C A 3 5 F 0 ~ 1 . L C P D   ( â    p Z     fõ     à5³¸Ñ à5³¸Ñc
+‘€Ó°"Õf€Ó ð      Ÿî              C A 3 6 E C ~ 1 . L C P D   ( WÚ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñô×€Óš•<f€Ó p     Òj             C A 3 7 E D ~ 1 . L C P D   ( ;â    p Z     fõ     à5³¸Ñ à5³¸Ñ1’‘€Ó§Æûf€Ó 0    s%             C A 3 9 7 8 ~ 1 . L C P D   ( OÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ«ãÛ€Ó´ògf€Ó      Ú€             C A 3 B 7 B ~ 1 . L C P D   ( â    p Z     fõ     à5³¸Ñ à5³¸Ñíàí€ÓT]Ðf€Ó       v             C A 3 C 0 C ~ 1 . L C P D   ( ÿá    p Z     fõ     à5³¸Ñ à5³¸Ñ‚kæ€Óô5Éf€Ó ð     Êå             C A 3 F B 6 ~ 1 . L C P D   ( gÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Ó¼pf€Ó €     »p             C A 4 0 D 7 ~ 1 . L C P D   ( _Ý    p Z    fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Óÿ¡mf€Ó @     X5             C A 4 2 4 B ~ 1 . L C P D   ( ñØ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑŸÀÇ€ÓÏ©0f€Ó P      ªK              C A 4 4 9 0 ~ 1 . L C P D   ( QÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñc‚Ï€Óon5f€Ó      Ý             C A 4 4 F D ~ 1 . L C P D   ( 	ß    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑÙ¦á€ÓPð¤f€Ó À     @¹             C A 4 9 3 8 ~ 1 . L C P D   ( iÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑJDß€Ókrf€Ó p     c            C A 4 A 0 F ~ 1 . L C P D   ( OÚ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑR½Ô€Óš•<f€Ó P     qN             C A 4 C 8 F ~ 1 . L C P D   ( 'â    p Z     fõ     à5³¸Ñ à5³¸Ñ7Í	‘€Ó3ÓÚf€Ó       ˆ              C A 4 E 0 D ~ 1 . L C P D   ( TÝ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑšâÞ€ÓÓTjf€Ó à     šÐ             C A 4 E F 2 ~ 1 . L C P D   ( Lâ    p Z     fõ     à5³¸Ñ à5³¸ÑŒ”e‘€Ó	)þf€Ó ð     ‚ê             C A 5 2 0 9 ~ 1 . L C P D   ( lâ    p Z     fõ     à5³¸  à5³¸ÑÀp‘€Ó²íg€Ó °      0§              C A 5 7 E 6 ~ 1 . L C P D   ( ^Ù    p Z     fõ     ³è3³¸Ñ ³è3³¸Ñ¦÷Ï€Óon5f€Ó p     ;o             C A 5 9 A 3 ~ 1 . L C P D   ( LÙ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑBƒÌ€Ó83f€Ó à     …Ú             C A 5 B 2 7 ~ 1 . L C P D   ( éØ    p Z     fõ     ³è3³¸Ñ ³è3³¸ÑÐwa€ÓÔf€Ó @     ©4             C A 5 F D 4 ~ 1 . L C P D   ( â    p Z     fõ     à5³¸Ñ à5³¸Ñ²j‘€Ó°"Õf€Ó ð      à              C A 6 0 A 5  1 . L C P D   ( ,â    p Z     fõ     à5³¸Ñ à5³¸ÑS‘€Ó•5Ýf€Ó Ð      !Á              C A 6 4 6 0 ~ 1 . L C P D   ( Vâ    p Z     fõ     à5³¸Ñ à5³¸Ñmóh‘€Ó	)þf€Ó P       L              C A 6 4 8 6 ~ 1 . L C P D   ( Câ    p Z     fõ     à5³¸Ñ à5³¸Ñ1’‘€Ó§Æûf€Ó €     fp             C A 6 5 A D ~ 1 . L C P D   (                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ÿØÿà JFIF  H H  ÿÛ „ ÿÂ  ðh ÿÄ           	
+ ÿÚ     Ó«w´%Áõuî	
+ü®NKÈ]ŸÉŠŠ]$Í™ïv×‘­ÕÕ°$OOßžëFdŠLßô­±;®à£"÷÷‡…ÎÄfgÎŠÎ´nZbsÑº"p_©7b]_ŸøH›áóøŸ>Œ½	žŸ3(w¦ép»Ñ+çe%¦½+ÝNºb·¥+ƒãÓ¯
+èÛŽÍÞ9„ÞýóÀ±ÈíÓ7œ’ŽœŽýçã¼ø°´Ó§›Ôí‰ËG·>õ°¦pq[Å7ÖçÆ9FßõôdXÿ ÙéÕwŸ/ó]3w~â¢G'*2ê`N_VèÞèì}¹Õ~øÜZÔ¬‘÷Ê@úØ»SË–¬Î¦FÄorT†Ü½ƒi˜˜Ë¥¾¨uÑý¶Ùÿ ¬_ää{øóS œ=Ï­¬Ú#X#BŸBa-™XÙÎÆW=IÄF²G{s\ñ¤û3´Å¾1¬[ùâöL$½À¬ÞAy8.{wœï==˜¤È\	.z‘?=™1ÖH´›\ÙuœÈç¨+~Ü~&ö«‘bB	6`~M•zÕ[™Å'?)&–§™b]Éù®½K›+xØÔ£[.›‘äþõŸAH²I-c„NJ2­okDgÒbW‰NÍ9þl2Q3Ñ×[{'«p(”TA+XY¾OH‡C®²Zx÷ÑkºˆS¸¦ÄÜÞênþ¡ItÈYù×ÉÄÒ{çPû.ÈHñÂà*§)ÓXg¯ADÔ·aj~,Záå*×µÙ–—!àVV˜/Köãö
+6ê@U›*§æêßZG$Çìb\°Ì%ÂØ8æG’,Ž>²zÅåøˆ—9Rb¼o;†¾P”ärPõ›2åñ»žä7†Æ§½Ij>ÁYÍÇ´³ä~÷õÉvv¦ŒDç†_žì¾úZçÒ¶·àK¾Ëd@«2µÐ6»ËUâÃr¸è]*n–ä±7)NØ­Ñc;F©’Cüòæ%ë÷éªþƒ­qD¦pøðæ²ºk>Ryq|Ï¨m@¡™ªÞù¶¾$Õ€dqÝçîŽ¥²q —ç2½!"Ø,“~$iró‘?=¸W­WOïæê¹úÕ4ø/íçkcÍƒ‰^27»=»”„~yÒ»¿‚MÃÉ6aÛm”Rí¸HN°>¤¬;q‰«ï8ú{±‘Vï·-Œ—ž–©‹ß@T¦³9ä¬¼š[Þ¥Ìd0žŸ-¾B£¥ºåäUût©½FíNèÃü[)©zq-[”Ó}±,•&ÞZÉ{FÈ]¡(T  ¾ªÂ¶²ÜTWU8iø†è´§Œ€Î_;¥)A™¤uföë ËiN.=› íºH
+×BšHÐ™©cé˜¶¸·©°¢óËa]D‡$—Ü^IJiæI!ä0œì]ñlÎÂÞõÏ³+åîÒ>ÿ ÿ W²ŠPþméGs7wùDÙ0¼Gð¼PE!+öyU?79+©vãömNªLùzíå²FÐ÷ixŽ%¦ê‡iVŠ4­ÞµÞuÁ#ÈŽc€1ê5àñDf? ÄŸiú‡Ît–É\ôÞ¶ßíFØUíî„¬Œî@C[`w°U.¥^[C°G1p××ŠëÂÙþgG-¹ô¨"8]ÏU³¼:Ûžæ*ñ´ÒRIÁ´šôã¯°ëÒv±ñ[C8P@èÓs±›êºÃÉþEïÛBém¡ÓŸ+™¼1¯•´@[} /´ ÏšÒå“¯Rõü”?&@Pv“†L~û®Ž'Ž•ªÙgG)=èón‹ùÇVØ1QŒxŠâš'È?j·$^5È¥Ff@FcÉrK&v×g¹×«¿àA£Ë»·Å«¾¤«V¹eGVyPëæÙ‹‹'\¸‰óëZ_‹]É©/(G
+Ö©¹ûÄdøÏ§›¡³2Sb–ñz§‘Cúô0G4TÜŸï+ÌBBD¾Ô.qË-Qj7-÷
+mPÚ{üFvôÜ1¶9¿2D¼ôô¯lr6Ž(YÝÓØ0®
+ƒ¢’ÅëÔØÉ|Ï©Ë%~:¹¦dÿÄ            	 ÿÚ    ˜™±-LÚ>öEKµ¥²mè A5·µjŒs¹ÚÚ[8¬kN¨¯ ©¹9žñéÛ”}µ÷¸yº]ðÞ0i
+ØÈÈßŒ³w£KccWœÕN3ž«® ?9¸¸;zBënyô+h²Þ ÂûF ±Fµ†õ™¹½¯ÎšÇE7éŠÎ¸]ÍÅÍ×»L9Xë ;ú}Â4d±‡n©ˆõciÙoZ™[Ckóò¨û+t$
+¹çG7.ËUßèû"Ez§Áô«ž‚":’£| 0»zÎÄÜgÔßekÂ%Î3¬õrÕ´õŸƒhS[ÁA|$še˜%°ëè³#x|9Më¢÷Tf)”rBÝA»«äšýÜ5µàVvË«ú‰˜²±×Qð„`VF>¦Ã{º5ûmJ/ß¥ôgy¶–@ÚYÀoƒR·Û[cLF0Ûú[Äb®©+xty6=ÂbäîÃÜhVÎqò„hª®
+¨¬,ýêMê\ `3 Ã€i¯x8Ä'®¸Mbq÷Î…è ¡··µ¼ú·>+§ÜS4Å6vë·åtuP}ÑsUu3@CAHõ~*H|kI¨ Úªã¶GIY’	èI©fv„HƒU×]pB	a$ÃÔ¸|^ª‘¨TL$¾ÛDÐ]æFÛºå*¯Z×¦ve–@‘O*£xºŸê4F-U¡MT*1€–VÂ?/&rnÉ{£bß5j#Ña¶XaòYëŒÜ9¾§BDNI™IêîY*}¯ÇÊŒEÖtëÄã±¾b’nV… Y<ÂnËÕ>›	Ë—	´7³üÚåÚqª9GkŽíBgò4h²s5~+: §ú§Ìx‹sûQôíÜì†µÓ=/qV’ˆ-)Ë.%é®ùöÏÕ¸bE…Ä°º¿hÚA9!®çÛL""=}uÕ³N…½˜á¢*ânMR“z¹Ý@¸ž‰Ž‡=%s¦\®X®Rz4òW)H òœÕ=<¹li†9è&=WgäîQce}†F4x¾ïÇGwyÛ<ÛÊ)g¹rïQ¨#{h-­‡ßŒ2T|Û@òÁ–ÀMÆ:»ÛnnEú•ªFöýKÃÃý®»”M…ê¬uvJþ»ªª+‚,$SQŸú[šU”´:ÚôòúŒæ €“öV]uR°ýbŽª3?4süÖ}¬ë˜NRCÕ<™•6Ó6GRu‡’ð¾$½KåTs1ËO}j*|·Ä).èÔàÍmvë¾1e¶Sk—Ô#ëÌê±ÓUÖ8²{?×¸¾È%ÌYíÝ•[Ð=&áe’rcz®IÖç¨¾SV¨|‘î±…–›ccbW¯²QŸ‘›üþ0ìvWÇ$•fXsî.&-ä™½½5òž¢B«8:¨ÃŒ·“ÑžÌÇÑG<åçÓ±$v•5Çz“”HqÐXÖ²'{‡×Oë7µ“KMÍz^/„³ëÒÞÍF·Æ´¹”ãØô¿$7ŽÞ²òÜh–]‰³}Yò>¯xw/`“|*˜mÍ-WÇ¯¬ãêKˆWvëZc™Ø[{–é¨kž]éç•µ‹¡Ÿ7Ž;`f;8š;EÍé»"zmTñNJ+¬*¾{lb ×£×»8Íý!ó:£ÔÇWL"š#åÁÜ±˜®/@Z¾OJóŠs¶½{[s÷Ãˆ»ÿÄ             ÿÚ    ïòi¶Ñå#ˆ1 ÄÑÊinìÍsæÆ†ÇÕf(YEÍ]
+eI’Ö´Ðí´×5¹3…eç%evÖBüôè’XzX¥‚AÓ±ZZ¡B”t™ó6ÒÅ
+b`Ñpºi–!Ã­‚ûr~V,Œ=H‡Ö¦|½ZµUX·’l«9!ªÒâ?³>û,÷Q»[ÃÇÖ957·š¿`ûJ^bf½1HPáµ±E›YÉßTÑŸy¾>0ßÚ¥Ô¾Êpxµ×ø©Ä ý¦fŽ=¾TsÆ.ûcíd³XÚÙ§ó=¦XìVÂ`OÄ4ÛP‡²I6‹åŸá£fûéÂÇ&c‹ï²š½}Šg½Ò°†êë8Àøø@ºXò´BHñ®‹åÂÄ¤fÁçË}Ð´•þSpOo°ÈWÛÝQñ±³¼#ZÄVZ	 ¢ä`D…XPÃ¾Ý.”Ôy]YwGLÜ~¹Íêrkôq;]MÔ¨ŠhJP4qÊIÅ9°ÜjünÜ0C™Ì}ikVE^¬Í%:<‚¬,p/’4è0a1äK)öwœ2á ¥Ü§vpâÍoeP ©-Ô‰ŠSÙyÒ`G©+ÚMó9L™óKóF3ü,S18 þ£Õ|üØ’)2æ÷ê_VåCt†X˜Iž‡3¶Ä“Ê´Š;§¤üäËuJdê‰îÕ~_ÍÕö£ì\ ‡	ŽÅ£j°kÖ¦öe¼ëo³w_GùÉ˜‹€¼Ú*cdóZˆºBbZ.íŸŸ5éø®Ez¯õ“Ô˜H£ºúÎ™x:db§bÓ…Ö•¯LûCç5hvœ§©‹\‡©²²?v76›aa¶÷¯>†;1nŒSl‚ðÚúPÔã|‡+vLs.œ§¨‹Y×¼Ø,c)éô:Å°w^;åãóª}³‹ótêÎ4¨T¢Ý¼›“ô<k§§E7kê°¥Ì<ÂiÆwÙyìj…F«¬ÖDÄ„šä„üWê—åUg·>Ëaž@;'–dšwÂ¹X,ö`+	°, yV”¬}¾cÕO¢««V}’6­\òjù¹eÔ¹ÏÙ9Ù›Êìú©Ï¶t£	wÑ«QTå÷dg[éÖ)á¸R+æ0gÑë Ä7½B¹VôžzºÛÐ‹×®€¤~w½¡ùÍµ‘„u»JYMØô0ˆŒ¬ÓzßK\ª‚æÒÜXR Bûùë ¤{áú}d|S1>)­ÕôÑ ˜Ðr®Ç¨zB²BOŒ –¦R ßyÏ¥(„Û»´KÒH^ífíT†2Òq^Äæ]"¯N¦³p*Ú¯”::±d·5"V6ß´p#ë{Û9èÎvYçŽí¾’ c^†±ƒ¡Z3^çž&¾‹Ûí€O§èÄ
+Â3I7´}¸p.U›}Bb8Ÿ#‚¡övŽ€R¾cá”  zÁ!+¤#‚%”®¹¼q@n<Ùê«•Ñ7*àl0çnoâ.ˆ‹oFŠ[ùÙžxúnÚ*€uóg¢nŠ1ngL¯@‘Ly¨y*çËmVÍ52Ô^ý!¸é{|Dk‡ÌvÙcn(’ãH!ê†iQóU—Qã´Ü19G|“9?ÿÄ $          ÿÚ  Æ1† ±:*Ð‚Ô7PCq€˜B	¨&«PkCq…F‚:# ¬ì*ÌÁšè®ºà Ö³ÏÏÍ±„A5Y[¨Â¡Xt:×Muk4¨a\yžzë¨`f¾zjÆ±‹ÃÄDAÕaXÆ0­ ·ñ¦¥¡ŒŒ3IØWkš[¦š†k®šÆ"nº–µM\qŒåhEškŒ/=mf˜¨\X8j¦˜é£DI‡`žÖ ‚	«Œþx³,k®ºë§Ÿ˜Mt©c—oŸ˜f„aÖˆ…(¡eó+¦¿4M\]àôêÍøÂÇžî©5ÿ ê›÷Ùê¹_¥¶á÷o»ýÐóù…O)û/ÚþÈî@o·Ø0u–¡ÓX#âã°§eóøEE0·²ÏþxÓx˜áÿ Pú{¸Ä–±ÄYÄÃÛÄ™Å!âQñ–q¨ì2ÚÚËU=U»‘Ãykt
+SlCó–ñïñEµ”m…g#ðAºë«Z  Fæ=Žj¨,C¦¹’ÑZ%¦ŠJ;ÌwÐ-Ð¹¹ü PcŽ±Œc¢5,Ð³MA©®ñº¤ÇÐA5pâå5·üGÚü[$WFÞUäcÆº†5¤u#ðzÆ  tQI[+A2{Ÿ¶ÁÛIJëY·º6¾*èî 5˜+³OSÉ!äLÆ5ÇaXX‚¥+‰'; ‚a:ž¶™¯jhE8kQ-]ÒŠk•ªŠÞQXÂÆ1ØAV˜š©d[qO#nqÌý\Sèž¯×:öEOo˜T±Ø=NZš€ªLMYlþ¼=••ÉµÕ‚?7BÂÔPWzƒq¥•ªÓ-¶|ó¶ÙØ’SThŠ²ÄÞ²ÅÆîàY™;ã’dwvL(:åS6zwÍW*ã(£Ù9;l Ö†,Ö¦&“QeÌpÂÊz× ðìæê˜VÀ ¹±£Têèêx8Õ"wG­C5!­Ó+›˜‚Êj¡Žš>E%Ttòµni‡)¨&¯3Ñ'OGMCM«†­´¿ÉüÏ€ÄÈÃ4ˆ„7æ7ðÃÇ@lJŒÜilÒÊÐ‚
+æ˜KCZ Ç+¡ŠúxÝˆ>1ü®¥òfôoÏåŽåòóº}ìü„~DwÈÒ|YÎ€å5p†ÖSµê9á¨ÌGwDÂ~@ÈGäCò#þC®æ7+}uî[Ìwìösjâ§5WW–·ùYmm‰¼i¼E¼¿Öp1ÖcTÑñkm]\-©‚¢
+§ÔÒKœææXæñÂÇÿ ÎÇÇ?D kç³ñ!Ã‡‹ÃÅÛÆ[Æ¿Èu0MsNrÊÞÕ”ÇÅ4r6ýK4&†:ëw…š£m³s-;ç§uÉf¦–ub `(ÓIOOjwHf¶~S ì x„2q©ìe‘Ü©yb,íp,;µíwWËUç<ÙG¦í‰rw[>GJf÷ŠnM6{†<—)lµNd´·š~_T”·ƒÃƒšQ\¹bÃ#$Û!áþ†GJdô2¾G9y´rw÷xy.s¶kîGŽ)lU…´×zÎCO @„ÕÜîTUŒµûú	þæs1œÎfô@,r³Ðè.&ââíƒª_Çˆ|Ìx¨´Ki(<9†5*ÝÏåE%•úúº§ú=ýÌ®”ÍìÉðí¶åÎüÆ^_¿¤¯ãÎß}ó—·ÃRù#ª93šëO»ªSëëëëè^ä\É7¯§-à.:Lž›ú=Ö'	}ÎÅþžžž¿ÒeÞüå`$—NPAk¦˜ÛÔL&äòõž¬n2oé¹6g	~åæOOOMËÌž—‡®>ýË‰ÎAØ¿rç=Ò=D¼ŽT?—o¶Ù&ÔíšöÉêe2<ï°q.v÷G+¶Ü¢ïA/¯·¿¿¹•ÒìÈ^‡âÚs²Ê¶;pÿ MÌ›ÿ ÿÄ Y 
+
+
+	    !1A "2Qaqr±²#$0Rb‘¡Á%3@Bst‚’³ÂCEc¢ÃÑÒÓá&DSdƒ„“”ðT£ñ4U…´âÿÚ  ?Ù÷‡y1W(ÆÑãç§«üþ c Æ>dXú}ulvÆ1W'Ûã»ÃÜƒ«”b¬8=÷ãŒ0qâ1‰ã;s˜ÿ ®v;cÇíŠ•òGOŽïp6¾ˆÅ\£Ó¤—ó•õøâ=¶<gc[._ß´VÇn®3Ó[œ½ã¼cäWÕ1¶_,ôÀüçÎœê7ð¢ù
+ê˜ÇÓ±­’ÏÊ=×Ø÷Åò•Ö1Wœù/¼6uÙø,ÇÈ¯«uòÕÓæ¹ó§:ü±Þ?šs¨¨ÇcîK,ÿ [cGå¯®cÂòG¬Ÿà³"çTÇ|s–®˜­˜¿:xiu¬i+¯/X]7*ú¦92éâmgÙôÓè¹û±5®]ÑÆ’:iFîâ9n²Ž²Ä2ÜÌ¢xæå¿‹c{»FDšhõTbÄK.¤O²¥œHª¶ÊB€Õ¿œPæÆ¶e)¹˜tqÔ!\Ùì|%ï”s®cÂOÉ+¥;6Ó»šO*Ð’¯‰º´ì¤ÿ òçª¥E–3¶,¿¢ú×ÔeQc$ãkÊ}çWÑ+”X	Î×IäHÏ+¥¤GcÃò„Â¸Sg®Ÿ¦òLv<ŸÆÚ
+äÉ²+õ¦Å"ÉRÓO¬8…¡Js¹Ú»TÐP!OWò ‚²éDÐ§~³çœSk~â’ÊXJ¯¦îÙWVMÚ”¢°Þ‰jácTk
+žw>0Ê}Þ«[‚³s‡¡I¯ª'2EV3
+§ÖEb|;†ÎÙq\?íãŠœJtx¹I5ÍºV;ÙãÒ
+JL’Pâ/¡MÈJP‚Jp*f´¨#mCžôvBÓ¥ÛŒÞ(¾™9K·°9÷>ñWì€Š~trPÊ}ihE¸­Õ§7{QÒ¨tR-•gjNâkÿ ¨{÷âÔswhNž9§ÿ ‰ªÝMÌž7œ=*‡Nn,ñ¨ÂËÏÎ 	Ö UïF×amJÊäŸDÁxøKµà4G³b®é{ïŽpüs~I~Íž÷ò…oúâ˜ÖRIMvª©öçÏÜž8'r…Ÿ OEb`å/0x˜týÈ´R3‡ŠUÿ Ü‹\š¦Ë_¥œ¡ç E´£µ²¦Ç:T"ÝWäçG)l'¥Ø·OõD'•2Çï˜¶¾3R£Ži?tµëqÐÖ§N­¯{©æ¯4Z4ÛLH§‹LV"eÄJ¡s2ÉîdmRê¯^UêâNN0eªÍF‰­%4%*UVx ‘)«!:çÏ4¸þ,KÔóüÌ¶=¦$uÍÎôGÜ1fÆÎñþY:û¬ÿ ˜ýˆaë—y\s/{‹7¢î+ÍÖõÅ?0Euþ6,åeÊó…«¬³2r²äÛ¶zA‹52Ólùø;ô¤«Ù+ÌŒvµJò±ŽçN‰ÙFÊ	ª‹TiUßÀ]'›ž,©ŒŸS*?äÐWz¢¾¸K‰¼Ó:<Åƒ
+¤Žn×„½Ë_XÇ„¯D¯fÎÅ“˜<­"º\‹!;›6OýžšÅœ2“åšýØ–™YqMæýØldÛc‰	)–¨á0~à³?7ì—ú{dAã‰ùÙ^ë–i.7|¢Ä‡j	Úªï”5ÄÄ¹£ì:ÑóÐ¤úÈ¡æ0¶ˆ(Z“Â’GDZþ;H§ Wÿ ¯\{ôªOœÙ§«ùÆ‘ÕnÔÖñ8z!A¥ÒáÍ_›Ü\P¤êñíÓà•›ù¬ÇØ®1æØû¯;Ôn5f7ŽQg½»–l)¾ô¯ûtõˆhYyi¯Åp¬.ž˜šFA1XýURkßZœ“Ó”)8Ô§ˆÄÛŒ¼Ÿ%xÀW¾Ë§¼H;øÅ4|ñ„bÛ¯ˆÂ†­ž?¤{Ÿ<¹M}‚ãnÛ®b”a¿—L8Öé4áÕérßÓjõ´ÞÊ]ÝÓIãNÐú¡¿Åº¤ð+mû"a9]_$û8Òžh#"G¤M#'	àVÛ¦ãZJ¸°ÙW´Äª/¾°«ZS™€x•$j[×º¨ÇˆCÕ:i)>SamŸ¤—0â¡Æ›a›Íª¸åE…o-'=cðsçÇ÷)¯±\m»A×RCÍ ,]P¨1rBm>Láö‘â˜stÒxÀ¡õB%Û¾Õh£B	Ë‹Ä"R]Ù‡w"÷Ô‘Ê8pCóŽ­Ò¢	ýù(àN\9šÖØ¾Î‘S&ýÓT±å-(5Ž<œânnãoZ)n)6–Ò.g†±¹Þ8ðÅ³$â’ÜÇsË©(ªJV—j=ñmâTº×2‘Ãðù¤ÏØ®6Ãµ¢t(å¹<ñ\FFyF€F’Fu_ß?V˜m‘}Õ\1(¬Š¸éOl2ï½¸•Vè8ú<Gƒ}4ì÷òß†Ë’2­ L—^š^Ü¤¤L¸“Dªâýíµ›¥¯(zODb]×” #W*Î	XMÛ®âRBwÀ¤YóË–(zq»ÊjêStíÑQt-@T„‘C¸‰çed&eœ–{J¤iz˜8kE ·£fˆ~.®hiHCˆ¸Û‰SŸ5T? ð9¿šL}Šãl;n£r²ö¨[›µtBÞ²­&›uL8§“qäæ…°4æÇƒ,buµÌHÎ>°ãjïýKÇ4©;b1ºi†tTL.‰Ûu!;®ÛS.âaŠª•Œ·T¦öGt²jISf•9”üZðïìé-6ãž0ØÒ-f»·ºôÊÑ*Èåšºªð6¦ÚßšH½4êÖÛ8í%å›ºÚSæ©@iLU
+KiCñ.(¸µŠÝ8•×QÞÖÂ©¾ä®Šaµ­ãF^)P]¡b±Ü–r·ŠÒ½2œ?Dí€ÕŽUà‡9ÜÉI[H•£ë¨Ú¾«®0U¿´
+Ë†¾;!¿&ê…ÌE$gO÷9¯±\m†Å›Íœzh(‡žGr6Ùõ¶•(u6ƒu+^@š
+œ!Ùù§*J\˜unUDÒóŠ*Ô¦©6”™òG½â´“åfFYÐE•2’Ñy­ÌÖ[+<T)Ç$Ò±fÙ²þ§yk	Ûâ«À¹¥ok»ž¡	X¼ƒTïâ= ÐƒÀEvIîLu-4ãÙ´”h¸Ä”û¨N¤¾íÖ™Yß!´< 8 -–l&®ºw	*9]RëåÐ^×OD+s›z†¬½G\3$¦K‹j*¥1§qãÂ»3Oé«.÷y’¦yÅ‘¶)Ì“‰­1 kŠNJ¢õõ»*”LpJ¤×œiBž•–>"I©51î|ÿ Ì¦¾Áq¶•c
+aŸ?m+‘²ÏÎÁ5ÂòY¡â”Î/;…Ü8Ðg–Ô
+ú}péÄLËF§¿ê]iÍÅžãŠ¼›Â¡ö*ïO37µs½¼6·¨UÀr
+à®#Q‚Ú®Ÿüì|\¤tìÐË‰u>þYd×Ì
+yF„ò£O#¥xÕZUîŽè×µÞµÔëòueÿ 8b]s52§.ËP†ÛMKÕ8¢¹‚Eã'Š>òX˜Mn8¶›¢['ÁÙ¼A¼§*"3VëA+4òjV%ZÐ%ÕyÇ¥=6æ»yÕ„Ž[#ˆ»eZJÞ‘šûFÙ;LX©Fn54êÅqVÕC˜ZõÅ;áU~.°?æ;ø@¥8 ƒÀ}Q¤jâ±ÕHT¤Éq=ñ+À¶wWÆ §›T	¹{Â·“’U»Íþol||héŽ‘B¬÷nÞBÛy’2Æ¡CX‹òÉA½
+Ô•ˆ¼º(a¿«p¦Š\*
+N* êçæ‡&g–ZJæ]Dù;F­±vî@ T•¨Ñ­+Xm†jeE­Üt¶ƒÙ©ÒwE²½Ísƒ3M$”÷×”\Y9ÐäŸ¼xLîÕb½±âKv®ªe!1Ô§Db6%É{A¡ñ4/õ›>ÈRUNÖ÷¢.ÝP¶2/¥9ßI8ïaQTÔBØR½ñ
+SnW>÷K•úqÀ¹+l8+«aàNý˜³86ÝbÌb¹_
+A$&·7h¼¬R×]ô¤LL&PÎŠ÷1˜ÐÞ®n„_VÖê†ØÅQ MëÕªè5o':ÂžC»yY¥QT´µ~}Woò¾ÕnåömÓi^l„_:4)m³Ôß¢MÔê@Âõ(E	y´>ÈS¬¸›u(]Õ¥Y(^ ãÂ‰Ÿì•|`‘Æ´½·ŠÞa;÷¦ý8³»´¬ÔñÏKÖE†Þv½™]á6Ù?£X°“Š­Y0ðµ«ªÜv6šû­+JyD×z‚^ž¾hìo]¦Ÿ£-4£öb;O¾£ó½¤Gcµ'ºæÔI~?[º=‘Øà””iªY+ÎüX©­$íïc.Šú×L8âÌ¦ÖÎŸÿ q.?UßÌš®Î tKÂÕ¹²é½Yç‡Q	‰¹¦—î	t¡ä)+™xÝVx-ûœÅ$Eã[ˆO'ÿ ;ó6‹jUÊ'_çGíæ…ÊÌ”Îh>Rnü]á¬ ¦öGþgû`·BŸå Ž1	¨ÚïR”¾•ZdoïpB ´dPžcM‡€½ôzÑÓ¢”²®Tõ5ù²Ð>%ŠÈåN>pæJ?œ>76LÓrsøÑiÔÝ³ìÀ0¢Ks+•©©™©½¬å†¸¶Íi-e îj>‚§ÉlÚ¸ÄÏp-§@
+OpKäSv ””œB†Û†&4j”qWØ$ºiSÓ£$§kKÉUZ´Šp€¡æí“Ó,>™{&rj]¤…6°ÒÖÊVî‘uÀ]®1hºÛ‰™œyåéQïÎ)Å]HVJ'¯oª-%„—'g.’&]CmDŽhšÖûçÕšúL-y©GŒÖšI¬.ñtV‡t1Á[üð¤¸
+’bÏU’Ì²XBfQR§«Š«Áý•£Ã¯z"eX†W%—OÜ‹A[‰)Õre&+öql+ò]£þÊc÷"ÞVæÈ´ÀeœO­Wc²EådMý „õœÙ:¿&(rŸ•O§¿Çdêþ¦ÊyS²ÞÅ˜ì‚FNfza2ifU¥<åÙ«ë¸œî¥(ÄóŽ=€Ö+é‰G)¤Qg„Þ¨•–›\Ë3í¸`¶YÑ©$”ª¸àºÝ ¡Ã†4è¸ëdëJ“šxD*Q×8ÝÅ<(9¾7ãFkºËz¾5Fõrã‚Ûfª §*å
+˜RÝN'sÃL’¡Ã«QÊ4’Ì¯Êm?óÙ°ðø‡XGLvD%LŽR¥ÓÖxGdGúÞ\Ô¨ýiŽÈUý^\r§™öV-óŸp'Žn½VŒ[jÎOø«¡ˆŸ×hÈó"dýÑÙéTó–Œ»ˆ•BœSIaÀ\ÂíÛÊ]yÐÀSí(²ƒôÞHèƒ¦tÝÛé#Šù‰IùYÙ—æR¹„itH xÝÅIQ5HñÅ•‘\áÿ ´õY‹~.dñÍ/ØX©þ¬µr¦_?|Eƒ®ÎB¹NÌ+¥Øì{ÿ g‘5ÎówúÊ1Øê76%˜?Ê4zÀÅ’DYvrG”·ðâQ½Ä¬²y2í„BFIHâJG²üó²§c6Ö¿pzT‘Ú¯GjŸLR…§$ç£2Úç]Ûí‰*%I’`è=±Þ”§ ²»Î¼Mj2m4Ã:”ãS‰"x^i—žÈ{ã`ÔŠ€R‹ÊO¢,âºnSl‚š
+òÅkÏC¹¦”ø»¶†Ø)>R8Fö½Q¥æìeCBaÅËh^ñªÝW–Šã_=Ñ\'^ÃÀŸâac³ÐYo¼ë-sT­Cô#B¶×R;úU†ó(*¯Ö»N£ÏÎ9ëQ0?Ù»ÝÄÇPxÑÚáíF­Ÿ™«®ˆËa”KÌÎM32Êo¹+uÁz‡JÞ)Ö Äª.¼ã/]ÛS¾´Uå]UÞJÅ"}­ÆŽa-º¯¨ºz”aÙuíÒã+T)æËÕH5+Òü®ØýmÕxÉ„£™§
+pè#LñÒ²þÕbn¨\±A¥	×¹ß‡›*)Ñ8Û€¤ ;\¶ér£aHÁI)ãíøü^Ñ«ŒìÜ¶%ÃO!•6ö–®«h¤ÓkˆÎµ¡‰‹:]JšmÆÐ—.¤¤‡\¿|6?³ ÁJ!DÌÞV1îU›ó6z¿þZúë+OK­•-7G—&ç©mžÚV.¸”­;ËCÐbIüP,¯Í¯UOÕ»²ÝSE+I^0ª
+úcÁÆ-	ZhæA…Åm“ÅŒ!@"vXb6ËE<“DèôkòT ?EYýq8¤‡¾0‚$¦*ëžÀ˜áíŸÀë§öí×€]sÛsG¹mèÙèñ•í{´øZB}/µ²¥ª~jÿ ÜØeÌWQ[þ2ÇV©—Zq!hr]@¥@«u[ÐÂ˜mHïo.,6o^o åÃ•ÓBFI;Ðü´É•Xï—®åWrRr¢µcÁ²««JšPòI‰él˜XO’£y>¸˜˜–2å)MúiTŸŽìkNh/
+…¥;õØav©Œ_±œùf~ÿ kÜ›;æ¨öìi±áíV+°§cÖ
+Y™†ö#ý_¶)j›¿ÐÆòëç½èÒ˜ðÅ|ŠºGi§…×[C€‹Â´#"bè£ˆJÆò…b]ÃVÉc€m“ëÊ&›Ü]xy»¯ªamà ¤âíí„µ€ã‹–;ªÏ¿1_Ò„:š¤ñb=Ê³õx:}°Gl'Æÿ G§¸{Ÿÿ °ßo†¼]ºZ­ü‹ýMJx4£¾“íWÈ«¤l›s•Ž]…uãÚ¦$Ò/Q~Æ|~qŽ¼Ð¦ ïˆWàk6öÛÁ‡YPãP…ñxƒ²÷s•/öèÙRÔgäÞû3±Ç^µ¤ÊþHô¿(Á9šö«dÌñµöƒµî-ò¬_Œ¦Æ¶$Ðó¥þÙOj–‹'ÍsìÎÇÅ÷Œw÷>OÚ<ulÉž$}¢cƒùG¸ò<¨Ý\WÄŸ¹÷X§_fÊ“ì}.¢¶¸äýãuÎG·gElù‘æº{^äÊrWö«ñ\;?si¾û4ý#²¤ì¿/Øv#žO´ÇWÉûvÿÄ '        !1AQaq‘ð¡±ÁÑáñ ÿÚ  ?24™z£F¨~£s®‚€<ÃÒƒ„0àÃBAK¡ô©“¯ ¸|¸¦„!üÏ‚âJ1¹EË‹ã>sÛÔï;~ñû!6ÄM%¸ }?àé Ú‚b¿„õŸøexÇüï} ôñ àð¿*œ¸#¹¯·šÕ¢íÃÑúãˆè‚l˜£ôœ± l"À±ü/GS1ñžGˆ8Iô·Å^  …swÃëûŒžH˜/ˆ¿#sº]Q×ž.
+	Än“Ym¼õÔÁq!\N˜ HŸlc(,ìŸï‚œsÃø¡S"‘‰äæb¯¹¸> àg)ùÚ©ªx
+l®hÞh E§J‰û„”Ni`òÁÿ ázš`ƒ†b)&¯VBCÿ  —´Ã„¶ÿ e«Ì”üG&zŸùJ z¢Â€Œs:*Ø€Ùšýÿ gªž_~?à’™dyœÄ+üG‰îóm$c­ k¨|ì€MJH}{öâ&£Wøñ —r‚†¤ÁéCŒ\Ã^·`+e>x ðÎPÏ¿Çà¯Õë¼â¦€£kÃÃ£„ÆaÛiÛž5¨š°9º©úP‘‚ö>D.GtïC£ÑùGæ!˜ºå”É1ÈÔ \fög^NA¥;-ËáÎ„ hDÌ`ªœÜ#dÝiÝ~	Ög·YQ>ˆ½úI6Œ@`µy„ÕèÃ °ØP‹Ö`yâÐ¨ 4e Ì¡hMpÙšª$Åˆî±üL˜ ¨+½|Ì”À†+ë5§?à¤
+yÏ·Ì:ÿ ²Óòÿ pÏ…¢£pE¿†781Þ&ÿ 3ÓX¿#÷ÑYeù—¬z  ó¡€@c™ˆ.]|˜kÐ¹(ãà8jˆóE–ÊIgÛ‹ˆ €NHÞðu‹R@²”“X¸ÂA ó7´˜¤y-6å¤ÜòµL
+)®Þ?kç@DƒQCÈÍh0ru9•>úoÁÒ"Dù=bB00)ŒæHôÕl~”#PÏ'
+ˆhUfå[³$+a RƒÔùË…Ÿnåô² KêCõ-'Öñ(mtâ„ +/LŽ´Á@âïUÝÞòìy#Ÿ,A¤ƒpAW‘q‡­áO—â O¶Y V¨bJP¨!•ºÔ€ç:Û’ð	û‡æ/8•Qü{X ©O¶J8ã…æ²ûÐaƒÏ±—Ã'†óˆ€‚¢üyôž¼6amák:™ÖépLPcþF'ýç?¼âD_%Cà<N˜âeF x=ˆ—­ÝYmá7X2Å7„l…Ôá«ãVù!k}¤®ˆ@ÈêO¡	ÀÌX&ç@8‚¦³À¡Öá&LsÓâ<qÇ”v6ý¨1ÎžeÜ«…'Ü!î~¥»M7þo0ÓiK]b‹oÏ1,ÄýÞÄVÒÇ0aåââÚK­¢Éôcà5±v¢`†[ =ÀÑŽI~™ê2zóãÏi£öŽå—à™ÌC\S±¦eÿ …B¬@WÜ\4õä©X6"[gcæ ‘t_öeÏ¨¿® DLw~¸j¯Ž™Þ æ§J ¤>uéÿ ë.&|?rÿ p}ÞŠc·
+ÎÓÛû6Jà5ÖP™2 œN_Sw¡ð_.Ñžµx*úgðpŒ€Ø„"Øâ;ÌêTy|h@ù÷4ÇÐ?Ü£çÄ×œ|Ë³¼Ï¤Â¿AA÷»å‰§Ö‘ïˆPGmÃg×ÝÅY#Ü&ˆ–švüH‚l¥R‚k£˜0LuÑ©f"vG½òˆpt÷œúæ`è¥¿0¼øO§é›œ
+(fy¡,[_Ñžpfû;œò”¥U $ÜíÎnŸÃ'ÿ ›»Á™jOôJ`™3:Ü>L€ž%”¼âêèL¹*\òÇ»Hf&’NÑlia3sÐb‚`€³žWC¬vacU´2”w0™L»d1|ƒ¦z¬@÷÷äß¦`Ú ÷ê.ÛÞ\
+b7@\ Hu@þO£öŒ%Ùv»òš,/¤|°Î»BïÎ¶jú‰m¨³°ÌÈa¸0äZU¯2#rÀáQ@8?G	Ä‡F³¬H µ ,“¢úBŸŽ¬”†*ˆ
+ ô¡CàaHHbo÷’„7Qæ5Â(%JÐs” NáøÆá˜/,M´^æƒƒŸ‚9ˆ\ˆ^û¯œ’À¼‡èÂƒ›ó¡n®Àq
+Å6‡ðÇÄ ‘5Ô=’ÅÅ†ŠÒZ¶á’
+ÓðMmXm\«0là@°µL!å5‹¬üP°]?æÈ~Ú§Ì3,þÿ ô÷Ýçåçý€ríûP¢{ 6XRU„„Ïøô8bw©s‘Û&¦»Ä79Ð ¬–H%h`FFzÒ˜
+Kw58D‚áP!mð$»— M ÷X“/ˆ?H8ßöx>`?ì($M¹?ØLQVi9Eý¸^_Ä*ú‚¸(dËHm9ÁA•£)V ­BúÝ€-.å#ä°lð#’\©S`(?˜ &É¨Œ»a,ØpÚ…öá	(øX9÷sR¾æcïß{p[9÷¤ÀkS>óÒuÁÓÂõg6ˆH¹"ä†42ƒdÁ)˜ˆhÚÚx†B°À’0Æ”V¡R
+öMq‚®ãMk’nº¾jÂàJ÷Û…×ßÔû;b'1öáŽ‰Ž„gät‰’NzeM0ü¿ˆ r°úžs 1`jTNH
+¶½ã…@ÞÞXÄîÐ4Îüï¯> 1¦y’€½hÞ;ÁÉC3f»cô•8J‰Šˆwie@û,7Öy!ƒ iÆ³47x:î~áçïCêƒ›ßÄqÝ¦^k¡¯¼¶Ç6Ò¡ˆVÁê˜ÅEP~T‡qÀ•Æ¶…%f+RÂrÓ‡ ¤‰‚nXîÀ^‚"ÆÐRœ0ƒp]X›"¡+çða>s»(ÂaÀH”9<‹Ÿ0B §Ú8nU¢@rTîMâä;Ãš-Ùô%Hì«§(L„ÉÕ½í,3ÐY_RïP,†Ó5{„š¡yO­Û|!C0¸ã¥þPöTçï˜&}%Á5-¼qa€¨ï	Ùà(?ADì²ó†¬ÊS‚„Å3œn›gËi1²}ä¡ôo£hwS-\ ûó¢7Oˆ7E¤VŠânŽáyP›@ÕÍ.Dˆö"~!ù„„qË%Ö,:ã9¢K¡ŽÄæº¿¸òä‹mZ 0€"9–ÀV/ÛÝBÏxdr'É"°Ï‹p†O¡Ë„¸>g×§¨úé
+Çßµ0úø„ª[~¦¬8}1‚†$ØBÔ	)ÄU›` °³y•°ÈDYÈJ\r#¢tèHÔ(˜.	-‹HPå`F³|‘õCNft(Ý‡È´¶6-‹ËNzM^hrÏ¥\ªï‡r·š{À‰M"z2´&BCß-»Á·ePæí‹Á|„ÂÀÞÉ²ž+1Bh†4SbÞF¦(} 5•œ‹å)1¿-¯xÔp£bYæ0?q±N(m†s[üP–ò·ú~*1­±6P†pJSS(Hƒq ¸;â
+†sGXIÝÝ©é¤Ç$¾¨F'®‘&¤€@ü _(ÏÉþ%LÓ(»ÛB.çç›\æ,†Û:r!ê5iH 0¼T¬õL‚†^ÇÌËþ¼$v9Y*÷¡xÒd†€	L•3Hƒ¿c‡ñ¸YEm„ÊaöZaS7ÁÙš±Ø†»o¯àim“À‡›h3ê‰L–zV€À¸ØFk­÷ák:|CÓiw“qìèe÷Èï˜%˜Aa±!
+déÏh£Ê@­¥FË:ë™`‘»Laoà¡0,fÔ1%è¬>î	¶î%@ûü<
+³¿ÞSóVÅGbëíÞ$Úpç!:#1Ô@W‡­>ŒN«U¾D/2úzÀzÀ $IIB7<^(tÍ‚™ŸÖ'ô F HÎC«¨@ENHàÅHá&qÁÅÂžh"ýUÆY†(òd‚<x8Q2uMÏB—y¦ý-GÂ/÷YûÙúá”ÓÞ'‘¤§„_HÙ˜S5EgþbäªÑ$ vÔj?‡3¢+`P vñ(™ª±)otmA%ù‹	12÷&ÝejLÎ§Ô±Êö`Pä°¿o¤	ŽÌþ ÆÞLü'>Ñì…c¨ŒA–¨öÛ ŽkÅ@5\ØïDu†0F!¨1°(2Z6ÁÆñÝM”Æ¤%q4…‡q‰,g‚˜õb‡9Œ0S7†u‹œ‚$ÙêP£þô•”GñÀN£’ZQ’Lü¾È‘`?ðÎ¨¼ËÄ-ú–ýPHK¡Si\ñ_õ% *cÉòûÀÂµæŽMQÎ8âˆ™ºˆ9‡kÎþaü‡ÜmõŽ¡¨Î<C Æ¤È˜4°Ã³4G€Tƒ½A4ÂÕx×\NL+çf²ëË©Ì5ä-HF‡QËSÐ…gQz.q$$&]ô›3	&Åï €ÉEw$$\„°^	mºeIÂó8 †Ú(O0n¡œL
+Åˆè
+@	ºío¿á5Á@8ÁãÉ¦÷5„žaX¹Sz—ÝNÐCP hÏù*åù…€aê¤‘Þ$6pÂ—M.‹ÔØðhJ†8Cä2`)€Ð0ë•X†Ê®@|ó—e¶BôÀ
+mTæoÑ€·0Ø0Giaó1±œgòsÐ¸a­þÄÇªÙ;+Àd,Þ! ˆ¥üŠÆ%ž1Ÿ:ç7Í…Ø<8Ú>#Â9.®G›‡ì­#·'Î|Á÷,BÀƒiäE­d B›f7¸Ñ¦KA€i!`1˜Š!å—zÛs"Å'‡Ïñ:ÌývR„¼è.’%Ê óc·2`je  K 5û•;TVóÔ}m7àç\wø‰¿[Îo]øÀ·€D0)qÂø€ÃB7†Ñ¹tÐN«³—×=e¢ö‹ŒØNŒÎ
+Ý›ågúõb @@D<Ç¬(×0¾óVñŽÍ
+? nXõN€Æ×<6tF#“šc¢ÄhŸÂBEC:@;Jß˜~qÌa<{pÙÃª=eËwÁ}g>Cïæ6ûÌ^x]\Ô`¥“›”|¼½Öë |àø=PX^²ë¯Øïtµ–#ñ…§´¿¯ƒž+X  ¢ùéu€t¸LôÃ–ç¬´._ÑŒ x"=!„Èòh°šMï‚	“¹‡SN_¹Õ:àçƒžhÀaœF!‚œÙÌ€N±h¾<Ü?PA	NÌ#Îˆa]xH¡°
+<¯¨üæs!ojsÿ ã:§tÜe˜R¤~þ¨%o6-}Lžqñ:a8D.4Û;ášð@ByÎësX*áAúF¶ÂÓv÷Ñw€Í>§á}O££Ã;À–‘ŠŒæÝ3Ÿ9¼Jõ”Öup0Ó¡ËãöÁƒ“oP¿[È—øÓ#â–wâ(§háÎÌàˆÃú}#…÷ó:s0-¯’=_\5ö]0sÎf"xÏWùÎ¨sxè¶g58>£€Ï)²9Í…'5AÏ ï bÁçŽwÁ8¹q9v€¨Po‚1ôùæi„pû&í¢*ä»˜$sð<ÿÄ #         0ÿÚ Îs—"5^	Dä‰Y'$—ˆ{QEUÙÅÄäuYØA=d—à+Ô†Mó±$í”QNqw§§«¤EŠ½w„jÊ šƒ·Ûg½ÏÚ…ÈŸé°;n_·¦û!|Ž—ßßÕzr½ 0°Õ^²& ýšíÞòòø^ÕÉ‹H;o±y~Ûo™T©ÝµQéÊô1Œ ÕX4À@„Óé»^^÷l L\™5d»}òVvÛwn¸`r(ôå{ø	†¥`·PEÛ‰›¼jäÇ}Ë‹³œ¢wôÝÇÏüßàŠÐIEå|gaFª~|ÿ È(³ñÿ q¨x¿uâc‰ž*Þ0þ7OcüoÂüqk^eý½'­éÐQº©g9Ûl„„H­A®uÓöw&< òêÇ"ŠàyC¹AäÇ»?:ðoïeAXÃÔÔÓ[¤¡u;£Müs¯ß¬kßR_CáœöSj;·1ðÔT‰Ùcs	F>±ÛQ.ÿ °è¢D¨‹û)ÊîŠeA«—¹š9Í3¡ë9=¬cÂeNN›Òø1„·®Ämè³²ÇMlV÷Ò9£ï$ô~ ET?«Ïü°Ôæ|g,lÑÛnF¤!ÖOyYè÷xr¨`ZÞ˜èÖsð‘G¡Ý¾–‰KUWNYÏÐ@"Q§',|ïjdŽ¥²3éÃæÿ 6ª)ÙwQÅžñŒ,`tQê$äà°ås¤{î31µ2„F;‰<";µFèêOI¸|€±Œuœž ON¢½n.šo¸“Ú±ßmxªV–ÔÔ\«ì,åNsž©úÂr¹KUTÖÉÐCæ$ñÙëˆ‰éë“ië*X2K·Ü<9VsœÛÓ‘C§ŽPÒíä;ìáñ
+pâÇS=`¤ähé\ÍC<Å¶h²l?Ï68ÇòÃ‹7ŠÃÆÄDa<ò`ÔX‹Cåf{8"Þ"Þ 8ƒx?¸[+ªíVŸÊ}/‡“M4“Šz§;ÝÕ†änæöoçÃÈ
+Æ²š‰nu…¬F–x%‡ü¢>éÓäG”Vy‡öŸÛÉË..e=Âþy¿×êþ‰¹:¯Ûë*Öœ€RG,23üÑKâ‰â¦²>éS‡Õž*¨`W/€‡ExÆ¡Ê#½—Xî!Ï¡–Õ,^hõJœ>­uöËÛ[pùÎQì!ÖVPF:#“ Ys¤d‘IA%²JbÊTöã¬ä¸ÿ WQÖVsØX;úØ:ÂÁ\£ °E¹_T7x*ƒ¥ §´Ï?y«WdGc¬c@Ü\]¾üo¬œ¹8MXÅ3/¡í‰ÍtH®ak‚
+bÃWd±Ý–1€Íq®¡¢?7‡—®+ñŒrP®²üÒÝqÓ]KXåÇC›{‡Í±<ü¼¼ôj)âHß˜oàŽB4Ô1½µÑèî°¦šiâ#ÖÆÒ¯À ÁëoMÊÔÄèL\Z,Ž¯­ê#òÓ£s5lzi¦¡¡šYÚUù€ °F¤hØÄ^F#…Ž¯× &‹°-sˆ„FÖèZ@Mn¶¶«ëq¨@¼¼||<mÌµÍãmDwt c ®ÓÏÌ±±éÿÄ Q 
+    !1 "AQaq#2r‘±²Á$%0Rs¡@BDTbc‚ƒ“ÂÑÒðCSt’¢³£ÃÓáñ34„dÿÚ ?Å–ç×,FJy#ª8FÍ¨ô«þ=À {{âÁ°bÊžÿ Ñì' Go˜³†k–#%‘¤6>gï«Ï {c$l¾Qèv.BvwEˆå¯=Ã3­ÄõÆJ9#ª*Ó‘ü2;nyó&@Ö:ã$l¾Rêû!;;£%®ï=ãzÔv„d7ÈOTñÿ †o¶çœ³tîe'”žÐŒžŒ_(»Éo³‹Á#`ê0§«pâËÆXõ¨íFC|„õG”‘ü3}·"[–nÏx¼#~±¡=¾PsßV/ƒ²#‰·»ÏxÃ>µ¨àšä'ª%„Sa—ƒ4'šuœ²w]šÿ 3(×L'HŠ×C†æÜ;£Ýƒuÿ ²_áÕ]D¤«W|aâ‚< ZUh˜˜¸¸²§é4ƒÚØ¼
+6'³'•Üqé*âÑiGeïÉóu™ö
+ï”a/ˆRyÂGZã
+(é9Î¶Sþ¤aSðP6ÒüLasûF×íö ÆWÅSõ«=MFJ‚Ôý)*		uu¤«g:™®€R€¤Î¢RšÁZ9N£;E¬–’µ ï«ÕŠ¦y"i«;§x·L+=<ó2ŸÎ`g§½ömÌ2þå!F7þß|¢‚Eo¥([ïÒ5foHŠR‚©½åóÎCE·Y)À Pít,¡i[Î‚ Úå9Óñ·íà¡%Ú¡uKÎV«uÅËnè¶0Pø#|õZ£‹¨lK>@ŠlðFlÒÚ?,QÅ£²>­„1û¦ÿ ~ß žˆ@|5ò&F‚H«Ó•7lÝJoï„zC¦†›?d‰{qFò‹EÉìÆ@åw} j²ÞxIÍìŠÙ2ÍmŸ«¡r…K)×sDÄ”6D¸ËE—àuÊ¾ÀúöÇÞŠ¾™Di,þxÁR‘Â4ThR_DÇ0&0RxØFŒv)]É1ÇÃ›<”<¯ôã„-\š;ÝUD`¯zå$ÿ óŸ¼D`Ê¿˜”†òœ¯ëçöÆÊ=5[w‘÷Ì0…Ò–Š= øJÂò”ÚjÉ5eaTöÙ
+FN^øîöMF”@’J
+*•‰Ý=s6˜Qº„žwÏûpÿ ½¡°6¸³Ü"™ñj(ûC÷„S¼£ ¿÷#æðqõ?Š£
+þù±±†ûÁŒ$\ß|&NJUƒLƒ!w¼Œ&«éÏóžÊDS—Æ¦ROÖ¯ñŠEtNùÊMî¯NØÈæ¹ze²ÈœÈYV€²I3²œÊæ´B³Hê¸ôRoIÛœ
+9º£$•ÜqðÁø{ã“½§©…UÆÂ¿¶Pê”SÍôÚYÿ èwóE ñ©™éyÏÍ7­gjÔ{âwÀÐ yë7e¹–ŽZzã sn¤Þ f°ôÃL¸ZZˆW$Ë¦ØmÎ"Ò­„Ü%`Í í€™Uš}½q¥«š¡ö@Ciœ´AuGUÂp¤Þ5»¶ûšQÂ·ëÚ“Ñ‰|J–y	ïÜ}78­ŠÊÕ8Z„””™g~0“¤~µBUq—Å^*Xè0Mélû¡“é·ýB'Äq
+ç‘‡zO_»<aóÍvÄdôn¶‹Õn‹á·'TÏ¯¢%KÚjÆRn$~µÂ³Èû h#Û	9ÄRnQ­p}ò±¬HãKqKUT	ŸÕú!N-Äƒè¦S³Y²²­)ºÙÒT•s‚ƒÓ1
+me6{n#QpxÅ×5Û‘Ñ¸[mDn9ç`mZÚ´°“ýJóZ	èDÖ£;å·_˜.--§Œµ 9óóCtt$(VÏ9Þ~VßeÂâª=½¦Ž'&SÚ¥Ød?ª(´·Á¬H!M­N)UêÚrmÓÆÒ,ÕzB,ð“$¬)I)¶Ä'5IK1>àá™õÍvÄdníÍñ²œ÷Žhæ0Vª©Š´†F†hÁ&@LÃ‰÷°Eà 1”ž~¯0ã­Ói
+sÁÚ£6šîÎ©5•k(U¥5ÑÆREa’”ÚaªVúX¤Ra(.oK®½ ZPUX”X™Ìdc|ÂtéaÆ(NÔKµÐ Uaá±BI*`eÎ(­SiÔ7Ú}ÉVô´LMŠ³¯Z½·.åŒöØ‹RœÝ_¸8V½k}±0ÝmG) 9ùáâ¤«KeE5€E©9Åcd2 Õ%–‚®(-Š
+ôdl¬'Ñd¡P([5ªuuZrl€óDÃÎg	µ&þ-öÆÓ…µh¬4kaÇšÓÏÕâÎ
+Üº°@.+bAë2Mˆ¥T¡²Ûn?f]&”åg¿””oh‰¾§T¶ø2ÚCh@2i6K<óéT!à^-öŒâ·3¼ÈZJ&5H óG…SÍ)bª\@i	ÏQ ÕŸjPýFªÞx†‘l”Ð¬–ÅÊüÞàá™<ßlFAÙâ.›Lm¦$T–æñ<V’NMo”DÈMçP¶¡QÒ™)hi°™&S’D³‘~‰ÎH¤Vd/{—í8÷çÉ&ážWÂÒR°m6Ë¨Ï¢7Õï…Sréñ[@:sÓ¦ºGa«ïˆ–¾‰E¸²‡
+Z[*A¥PÒì¯,¡En&y«/zI:àœ&ë­8U&Ú¹j	
+–ZQ+*·hI»®Æ¹Ìäß´f‡©Ë!“56‚¬£$¦FÁÎ«6[”ýŽ•!‰¿N*µ4€d„ªâ^T€«<Nh¬§Mí¶én.Œ‘,ÒNIŽõ]#ÐP9ýÁã^×lFAÙÊÃÎÛ¹·TŠ~<„ÊÚ«BE`yŒçuñQ›kqæJ…•×å.d6,0¶–÷èËÛ¶qSm%³)ÌÜN‰kèJH]ái”œef=zñ¸TsöN:Þp´«X›‚®‡m@©œ¹1àøCze2NòŽ"x¶[^Zc$©S³ÒÏ²}JEçh©jµ*°.8© /I¬Õ3[	ÁÌ.“E_&„‡]%Naêüaú€ä¡^ô»“l¬”ü/y\ƒk¤/S)VšJÍ«xÅ-"s³î	Òè£M!ŸîÉVÈ·tL6Whmê+h2°­I#h9ï[‚IšeelÊ?«4[8UiëÎ¶ÄìÍ	uÊø5´IKÒ²¡½+—^h(UE(\A˜)ÌAÑ‹Â£oqŽ¬Y@[”ÄV¨±¼¼“}Õ’«6_Ý-kI.oèJ’MŠªÜÒmºS·d%à¦’’•M)
+û›\ï†¨”%®ê‘EdöŽ‘–òÓ­Æ!f@!"k­)Êå!ÚE Kr²bÍë1rJFHq(ãJåMÂsÊ9“UBF.¿7[PÇÿ ¥®Ôd‘ní‘UÊ#Ö´£Î•ŽøJ“=VíÍzbJ‚•WNqTËAë‘‘‘²Èm§Rn
+ÀÍ¤ËTÿ ¢ìN½½ÆV7ƒa&L¦àT-6.åH^¿5YÎ])4Eço–b
+ª„ÏDÄÊDI~ªµ’-Ï|Õ¢éG
+ÝŽ2„Ë”…
+Î ]Á	Ô¯è¼Eq˜ˆqçdÒkÍRJ
+Ð—o¹G/Jå¶
+	B„”“"4šˆVdžˆtþÍ_Êb˜«¨ï¯ðŠq·Áû5wˆ¦“!Gr{%×LüÏèüÑ…>/Ò¶ÿ 4aCû$}¢æ0—îÚ[ÝÕcËéŸËÓ{Ìç=ÑHøË?Ê¸sãmý‰üñ¦™ÐÂ{Ôa–Ö…ø[Õ ¤Õm„Z5„OÛ*ëUžøÏ»)š?¬Pþ˜*gZb¶©B•ãõtNšL-\ã!Yïª¤ÎÍAVóÂLŠn)Xœ;\®ã¸«kS ØÏâä#=5f‘Þbï©/so–(9ß¤¤þžhÁ~(ýhHŒEZdRR´¥B’à¶ãt§1aj†+
+K@¡æj­*Üµ¥ é®›mœ–™‰LÁ©½¥Rl“¯!_­°Ÿqü$Ë.¼ê’à$%Åw´UÛ+feý§›£ áiÈHH¬¥&ñ¤¦Éü˜¢"iCÖÓ½¤€{úaŸAèˆJs°BnPL¡w³+.6Z4sBT‚DSqâá-(Ø›êËuÛlKñ¶5f¶Èd~Ñ¡µÄ~h¢é¯5.ÔPGÃ(¿nßæŒ':ulq'Ø'(|1£²¹êL`¿ŒÏcnþHÁŸ¼pìeÏøŠ®¶Ê7êî, prQžTâÍÕ«Ñ¶ø€=¨äŸeðý%¤2í{RZµó"Z¯‚ý±^G˜q¾ 8§Nc$dÈé•„jŠÎ
+ šÚ/€ÈCne6¹WÕ;Ô“òsçMù£{*o÷kRG$=˜œ;|®ãQÇÃ˜æKÇ©¨Àÿ Ÿ&Žùë@Œ?jéäÑ\ï"0PøÚ¹4p'üÎFZ=4ýSÖìQsP©_ÎÈï0šb|7P§Ô”%eä™@ÎIDÍÚD)4uŸG~Z~ƒ*=p
+ÙÓ@íÊ)ZKôf[d¥•ïuÔ\$™
+×)"ÃdSï	£«Qër0¦ÈØÊ{çE_¶Hä´Ðû±„ÂUÌ–ÇR"Ÿñ·ù–Dº#é´Ÿ¶_ã³}*‘öî~htÞë‡kŠ=ðNsÒ`cÏÐ½z:âÃ¸kÜ­t/l¢sGó¡—$¢HMT’£y<×Ôp‰CM¡I«&Û””åN.vŒÕ¬–`b–Ù“²Î Û„Jr2Rê¥Z½±J¶»ÅÑ;Vm™¹¢©’ùÒÛª7¢óˆo˜˜Ò]*cˆ»jú$èù*½<âñ‰ãmî‹¹#~§¶=­Î!í1¿¶ërŸ‹©$œÅå„‰}ÓÕ˜`ŸÝ7ì@ãôÍ>÷lû†xN„>}~È»vÕC­0ÂÚZ›Vÿ ) ËÞ*ý;<’f„8‰Ù<…ËDÅ‡1EW³J7•
+Àý$Ï¨BNIK‰Ï))<÷ûa…\š“ô,ö]ì«ÛXV£ú=pób£ˆPZ›:aB­³”Óô'4ó¤Ï›f'Œ5Ê‹°c§RËhº•"¤’@#(ålÕRžS´©Å‚TŠµ+ŸNy’$%|Š™“dxý3ø—»GÜ3Âô^;*Æñ&ÕèÒíJ·H3I):RH=")-Xj¼49ó¦G¦pK²\Ò‚ÜµÍ32:²3f»bŽ»jU':,çÐaÐE!Á Šªü!mñÐ´k½=0F½‘ã,ëXŽ.Ï0?Ä›Ÿ ©mš;¢Ó¶<¥Oþ)Þ¿pÖÃ4ó¤ô6³äôÿ ßÞÅ	aC<™èÞ’{P°ÃN ”­	(Žˆ¦4··Î»Ûß,3½I¬›dnÎÙk†_cI«YS´£Ò
+Ù¦y3B’â~I
+GvÒ‹t§$û!(t9\¨&Ôd”.$‹à2dR¥h•ÞcÊmò÷bØò?ø•û†xnËpô2¼S4è¼÷òo×³Öqj¤,ôïB<U>µ=Gqm¶µ ‘#TÊ`Þc8-Ú…Ÿ“d>%€÷*ÃÒ/Š;œzÍv§¤Bµ+AÌWÂ§æÝû°¶ÔB¹Žhò;?Œ/»~fX“Ã´/®þÊ÷uKnï“ëYíâÈ/åoGgtxª}pê;–îÅ·j¤FX„lÜ‘!p»ä<?¦'0dFˆaYã*ì¦àótÁcËÔ>M#û+ÆžwÖ3Û¶Èö Dèèõƒ¨ù´è£sÊÔmŽlîygzÿ ôÑŠ1ç»ª5D°ÝüšGöUˆy¥~½Éàç¹mŸóV-ŠåKúDpúÎã‰-Éù‰a:6Õöÿ çW4y^­ÔŸò‘óÇòË'Ñióþ\»ñ§ƒßú±‰×~_ÝLpMòû±æ‘,#E?,ö¹åjg)ÚGšÕå9è£½>z£w6ìèžGÞ–£®,W,õ&8œîÇÿÄ           ÿÚ ÜÍjTl‹ã{ës{`ƒ‹00³ÊÅ˜ïÃa†`Áš•Ç‚kE±¬0€¡yð%$±;Ü¼ôÐÃoÎ¡•Ë ÆÏãZ#+TO‰¯ÂÊI=l°ž¢fašÖ¢…ƒãZ†+5;81elNú1g¼‡ï²I'›3j\óxÞÁ#UbØ.VØÉ‹*‡-Fo®ºë¬?ààà(¯”Å‹súÂ6²ˆFV¡ï{ù|þf¿¤×ó„|Í\r`Üß<pF¥±&§ÇåFÙ5Ïl?®‰XØÞÉyÙ~ú6›>ÇÙ÷û}¾Ëb"yÿ ÎÊÄN“þ†U=Ðþ5¡u½±š81¦ˆÖ„Y]‰on4[Î—çÿ >çVÖLÖa†Éš88X ›]›´$iÊÊá€t—•ãyæ¿—ê,'ZÐ„4Ö¹Ñ›6pØL6»¡Ç-°f…‹êORØEž‘ ¢¹³EŸ¦Ìc–šð00ªÑaÈ€ïð¾Ÿ©’4ØZ˜W=+y1¦†u£€ÅÊaIŠqó5?_Í†(ÂLXÖ>u>º¯Ñ›‚,Ô\Î¬³UÏ=ŸÑòþ¿›KxQíiç¿ÊžðêßŽ·:c 
+¹y\©XÝ•	¬ÿ :lÀI›ñO£‹ã`ÍÍõ¹¥Pª!‹ƒ	ó©x¯yLÞ±â›Éœ‰Ct­lSauÁ -|ë$ó„«L%S×PÁòcrÝV›:žïG,¼-çøMZ§:×<:®,)>Ìä×æ³Üš3Ë6k(WJ«w¦§²vYl>¦÷gû³ý_·Ø\.6Ùp¶4iR!ªÍ’×U\çÏ¦Ì$Ù÷¢õ_m¡¾f¯—˜l›Xf±£Bížºà=l`j·Ô`Å8ù|ŸùG„y4¯Ïþoòÿ ’êœZWQ­hÖÕØ‚42«Cj±A‹}Tú9ôÍŒ&9È‚9VaV2Øà
+åfh’Ýnõ£AX_ì0±m¾Ø ‰kD%¢Úö‚X
+|ÕS$<$žƒÚÛ80J ,Fb¸4”X Më–¥ñ%Q«Ô*Sä+æ1é£\\#`•ž| dð'%Cs4ØÒÏB¬ªu‚¼™¶ŒÅúçþsA«Ô§ð²™¸BY‹­ ÁY+Àž£Y¨÷¸a¤­B•5ÿ HdÁ<ÐÍïk,‹•i°YxiÕÑOš3s\U×ÀZ]lÛOêà'–À6•0	Ö÷¾ØË
+Ï3ZØšÖŠþzÅMæöqå$ÂF$ss{9l4Cå´Y³5w1$·}ÿ AÌS5<°ã@bÁ7ÔÜÞÄ0àÅ”²Ø–ï}~ßcwÜú>c?@ÿ D˜2'–0Ö–4\ÿÄ D      !1A "#Qaq02r‘¡±ÁÑð$BRb‚s’²á3@S¢ÒñâCcƒ£ÂÿÚ ?Rª5Ái(ùÁB–—ñ]Þ³~ãá“†TrMZgï~O»ÑnÉÏ;‚Ínÿ &y0¤g9i)¿Ë4}Õb¦£ÇiŸ½õN½7dçt·áÄÀÕôÞ´”¼ò³MQ½8‰äÂ­3¹ÏñRÈÑ·š2sº¡FÎ‡5œ7­%'<¡ =_TrÍs¬UzÓsürs[ÍnNwØÕ
+~'ÿ 'ŠeD¨¾“ñ »Ä¨ÔbŠ(­y0È%Hî+LyÎñQÈÍo4xäÝÌ@ßÄÇ‰+
+£TÖ{åñF8nG¢©ñ8¤íE;QP¼„ßœu¦|íëTCã
+„3•~È-')¦6®ªø©¢ÁÕÕ‘%Éæîÿ ùã–W¨$}½A;oWî·õ4Ññ~Ÿ4ÈcòWçmiï’Œˆ_yïåôŽ·y!©¿Ü™ò0cñš™ù?ä¶3òö·~FŠ0ŒOåoƒQù×ß$~w¸ö-oyûŠÇ­7Rn¤. F©cÚŒ1íYíßW­iÎ¹BY™&æ ûÛ—99ûg.„ùçw¢¡jˆõZëMvn#È ì!²õêëZÐqéMÖ‚nÔØÍ3mPÀ¦Ø°(úb¾žÕwz>¢±šoT'ážóæ¨‡Âš.¨y+§ñ7õ
+wsÝãVFZêwÂèzÅSÚ×mFkÛÑ.´Ósé«1œÆ÷- ç·Ç,!…N:ÑÉGùÕÞÞð´ç{üVµ0œ.qDÃ½60ŽÛ¥Ö±ªŠ“”Þ©ÅáÓÒŽÎPhÆIÑo+Ùê½±×þÓ]ˆÊ U/äáXp]ã¼-6È¿Åzÿ J[TšäÃzÎ®ÎLÝ½\àw!Šàô—Ñ†mÍ*Ã§~ç®G?fÚaôõ"Ó
+J*J3µ©†ãTB‚’QSªUgW>(d4îZmö¼kqøzS›X®ìªFüDïš#”Øî’¡7’Ó´y&;’öÅIÀâ+‚R_DÖÜÓØ‡ý*g·|Ô+¨¨"ì5’CNóæÞ!Të#¸­?Ü|j!tAZ‘
+Ž*ž“JíÆc¨§ðš[°‹E @„wÕ,’÷ê¦ˆ5‚
+¹Ã—¬ÜÝÉôð£u+¯µ+—¢m—é_ <]†Õ5,¹qð9ÇÆ«&=
+å%j&¢Sš##Þ¾Ç)dB¶Ð{!dÒSRžNá°ëÛ€N£6\Ña¯jR¾„ŠJf]t!5˜G¹8ÐQR‚Üé8}]nÁ88ò_FøÞk~åïŸ[¡#X"èD›×éPˆµ>í°T˜ëÝ-jè‰t!DYNÀ)£!ƒÅÿ šýñË÷‹¾á“ƒ©ÛY‰'_Â:Ìze#Þ'Jãêc.g©'8Î8Å:´¬mÔ‚íD‚"›a¬7ZvôÏfÐ!F-©Øv!TòO#¸¯x‰]êíêÈ´e$úb_ÈÕe¹Ðµ±ÌOeË…p¸QR{::Äµƒ•k	“ŸD`ö–¸íÊ#„}†9Õ°Û‰‚t>ãh•ì¡‰^Ê…ôŽvkóhÇÌã³SDÎØ+y¯‰u·Žs<£ÿ ÈHî+N9êUmRQ¡ vÖèjÔ‘MaP¿7ZubÃíhì$Ÿfu·ä;³N-P90§×VTÔªàÖ£[ëóN}N³zÅ1ï‰ÌÀc±>âŠ‘¹ŸÄÍ¡ f6:Ì£­{h/kY`8âLÜvO$äš¡‘šw-0çø©.Ú¢…'ku:;Š„ë„Æ¼K1ä¬á0Üj–DV‚ëv_Ý‡’´Ëƒlæ¸6áŒ: ½žuû¤¤Ì.7üºÏ«“CÊ3¢d"ûNü^q„nØ­ŸfË‡+i¬•ÖÅ±l¯^T(Ü£HÔ;êëª{Î£ùŒ[Ð r€qT†ÛEÆïº#°¢ï¸äi†ãS–Äkt£z,apŒ7þûU³c±Xô†XÃólÙÖ‹è\hÜØ‹Ün† DÕ-^#¼EQüíëT0\æžãßràÍø§«D5Žæ¨áÐóTzo’¢?¡Íw’iøö‚ï¯¢“¨y¯ûNé‡š|3hLv–ùªlhÇ_îòìÿ ŠyÁƒïìˆB1Æ.ñqîFÓsxž5ÍO“Þ‹"DL/jÛXã½AEcŠö´P&öÙÜaæÅ¯å5ïýG#J7¸Fº1Ñ%ÂaüVþXª_ŠŸªŒx„«IùDÕ“}!û‡l“ÿ Üåû'¹¡¯œIn­ ôÄ-]?Ý2•âÍ«l!õDÄŽŒSý›¨¢}™ppêB8õ¦3Põ©QììL•ÊˆÑÙ„å€”#jókQºB(j_IêDü.ü©ÿ #úŠ¤þ›ÆÛ)ß!ìGWh[<|Ðp„H;AS¿âP½mLsmZ‘ä!§0Å§xóAìµwP’’sy&w›£25~FUµÅ-~eŒÎË_²ºÊŠÚÞß4A—FåŸÒj‹Ÿglµ"­4çt*?«­Pê?™P|¿ÜS$Am?Ûþ+ow’	°¹lC*ßàVpÞ;Ô{ª±šë°M=5PQQ5ïk_Jc DaÑæ­Ú¤¤0og@\L1Îß×ÁeÁýÍFäI7Â£#8q@or™Þ´4|Ñ\¸˜dFô,ÇÕÅLs¼Uê:ü?´–mÓ¢k4(©Y‰2e#ëZ£¥i,pœîëóF¼ñ¿ˆ´!mPm»WlÖ­]ˆŠÑ3š8¹W
+ô/ÝPŸJx×*ÍëZ±fDÚÕ…])±¥Íû‰}©íÁ®æÈ¡¸íS×êÈ‚Øº*Ñ&îCGÍª@eF¨(P¿u@…ëäNLljå«Àé^ËÙ‚Éý/Ôc.¥Lö ƒ°Llç‘*…Q’…Rò´T|Þ2*(£UžJ~š¥z'¢¦€øò¤5kwGz“º*’…W+ª{9&Æ)ÍÚ›Œ—Mr5ôí+1«DÃôÕ>,+š‡§æøÕ%·©zÙëË»òyß%!•
+B­ºkTx52¸qPMÅ^áO¸wÕ)]ddMÜß<‰³]ŸÙfèqF½4/u¡æx•.:H/r§Ü?P¨Â¡Óªvgˆ™ßVªŠ›?w•˜9ÞPâ"Ò¥wí;Ô8=úTkÆ±PB¡W¹Óm‡xªK¥J5g»˜{ÅP¯‘øcõ,ÃÏÇ.yr;ªÑQóje¶¨äû«ö–÷Õ%z_µÝÊ5ÍgÑþ7òœ£hsOê¯ÿÄ &       ! 1AQaq‘¡ð±ÁÑáñÿÚ  ?!…}ôgâ¯¶ßQE{;÷Å<í÷ÏÍ¦F¿5è8öÓ\‡XŽûQ‚ùz_$úóÅ
+,´’ýš4ë`}ü£Ÿ½ÉÍ³Ï¢Š3o^ßÎõf¸TMg¢æµDkÇûXšaUŸóÕVUdÚ£Þ+ÛßíÇÞ(±§ûhú9¢ú«ÑÛ‘EjÓÕF¢í'¬ÌÉ¸?¢æ“öaW
+1CAoú‡’cÝ¨Ê~GÇÍ1
+>óSôÕµý•[2n)ÍcwFÐR‡8£õ%ë6L‰MpˆcüëzF{~S ¥GÍt]lézÀ|©MìµûIò)ß4T.O7²¥cã_mšG<óûÅA*Ãëæˆ	Üe8Š\!Z7Ò¦„g½FCCÅ¡2U£¥ÍºWÉYùšvâ¶hyÕ)×©ZL¨+
+Ãþ ¾nB‘Ž‡4×(ÙdsÏÝ(ä­¬þæ‰h=‡³þÚ¾ð.w¢‡#ç¥¨‡Žr#æ¥ËE
+ÐØœÎße ü¨RkÀí7¨¬}i’¨ˆãvôW£ˆÜ–:oÍp$ÇoV”þý:0aûã·5¦%ç_ägZ™€-3>éJ7+ç¨Ó­ÅOm/ÎþŠ2BØvQ½0€ÖÙÎµŒïùïÕ¯Cü¢#¯¢•pÚ8Ù(4»Ã¯ü…¦=TqEjÙÎÕÌ(ðïøÇk®šúCAFDvÆGy±Ò>*u¥Šï«Ýè½žòéÜÓ.$"éâ6×jÐ¶š…¾´ÍG»ê¨PúC÷,ñH»©vu¢7!À¡ùÖiÚÐ÷µ5àƒmz<Ýÿ ’»R†Ke{mqK	"&>Ä×XèÖ	/9¤½€kIé½0XÆ¶ân'i¨³¾nlB´/&¥ÌÀ·£Þ¡”^_o¯4¶÷ü  }ÇÍ5gß
+‘ý+ñ‚sFÏrwtTø¿åkŠáBÐ4µp*Ðv4=MØtE[Z1ÿ `W `ÿ ¥gj)¬{îø®¸²~õ×ûDw9iùìÒÐÃŒ·Íß±I¹ŒÀ¼k“EqÁ2N;µj`)[ÉÛ…P>.P²Ža‘z#O÷ò$ª(¢.þB×QSšƒ?:ÙP3”¾]ÎžïOƒ-…ñÅ.Y;uüÖžÁ]ñï<}·¿Ê.Ùíéû­~záîJfÈYˆZŽs½;±î1Z„~þk4¦üûî´" ~þu Ä~û”ð$I;/U›º˜?ô$Z¥ö&¶ßþ
+^@§€ÂÒÀ¨Éº%W±£¶†6ÂÂ$˜cW ŒÂjš´Ù¸’^*È@"ï²2ª$ CYÆþšŠ€ˆ™ú¢'OÝ4ÍÌ^ý}µ @IÄ0H„á6 žÉp€<‡Ö‘YQ°j @á”F®D/GûDÁÊÕÜñ·í#ŸCø “¸2ÏŽêƒ¡†ñ§¿ÚBn¶Å¨0`ØMßÏÒu|–Xâ<ZãŽ´ävp ieRõ™(Bx4”—a>Îzf¥rÕ›4ÞŒP3)6Mú/-f%zAƒV ÕÆTSÔ©QgA(‚D"ˆ#(n2‘`Ðªš=tŽkë¢¶óÚ¬2*&°ŠZKªoü[¥LHù®áMA8õø¶¢?ðþKHv²/(¯
+`lˆ²akK¡)—¬r"3Ö¿’@Ä¸d©(rI(2’%Ä ;9Ë) ¢iF—  Ð#P(²¬BÄÅÈC8vÞ] •Z Õ\É%±ðÅ=Zíüì¥¿-–RÉeÁÑ3@˜…'ÀOÈ7xØ#^(á1vb†åtgø,`gL˜_ítË,œC"–%HI–Xe£g¦ŽBØR60PœeJ›b0$e@X!p")mCCzžÆÌ“€›5N‰:ùr«SœÕ‰‰ [3–ýF‰<rC°ÇtM*È[??4y“ÝÒ#§§]Á Â}ÖtÎ£Z Mîž­µ'p—5ØúEBYô€&d‚%EØš(Ÿ ¡¨$r%Dõ&¬"óà~úªyÿ ‚?¿å%¬©I3˜€r´Û5´%Ä=ÍGk»`6A†	^°’là‚y^ = °iMÞà†Õ“VrÀM‚ã&Â€Î¦A•¡/u@Š„¯a!µd2SÊZ¤Í1åD»ÜÐB¢	Á}Gnåsè} «®¸,"iD &ÕÒkÒénÔèQ¸s#dÖG9L#£Æ•€°’žïbî‚I[½ Æ~kn6Ï—Å/èÒ½{[r‚Ø„„É­!½W÷xEB´ÍG‰?nÊ)‹²g6.õÐÿ j¥ÄMñ@ €@ FQ7´:P!öëõAÂ csÞ* ?ò£¬³ C¨#˜¡Ÿ¶í™€—!Ñ$J Œ"Ê¾áA‡œõtþÀ¸£hP¹Amµ¡Š‚JCy±»¨¤¨$ Á?ÚÃ¥
+˜Õôm@µ¡I!’K›ÔG5(HKÑIu•¡g¬ap³=b¢Æ—NÂÄÉ	ƒ¡"nCN”Ë”¤4ÑD²$˜‹JzQÕØÎPGa°Ïz"ó\wÚ OÞ[zÛ@Ù^$m>÷ 7@g›µŠØp~]ùÊëSZÄ_?·«·ËëñµLQ†èº ÇTóî(Ü'Lž¾ªI2Ì)ÞjÝÒyQDÑêþ€ÿ (f¥mÅ¨p“èo¿hf¦8éVéDÐÝ‰î”•™#¹oAÎuÛ
+Šè‹|CüP2¤µkÐ…Û]‘CêHÐN‰ús3PBi2¸„A3„×Z ¯k³eÉPMÀl,Ñ¥•ÔPÇÅ˜ÔDÈ¡d%Ðs'R2TíSÜÁPÔ­òÔJ°À˜e¨]’:j]ÅýÞbŒic|g¤#Š¹ˆ-]seÅöâE(^Zd\íµ0™$LÇ¹T"aŽ9ú&™k I4€Ã¢~>«ë,ÓkP]b-åüÑ'O÷ðÓXß¦ÊþÅkÑkŸÁA1™Å¹×šñOUot©XÅÄßâ®(ÑB_t&÷{§ÍÉ‚¬Ñ»6u ±Žîhî¯ù@%ˆ;¨ëE˜40KFzÒLÊìzo/´â‡ù‡½ úi9…ÚiŽu²ý¦æmûO’ÊÝöË¢±—r¡¾ £×Á’TÇ6àä=x¤ƒaêdšVd¦Ó6ÚÑ-_‚Y&©‰¨’'$@ƒLL*Žá6dàBÐÖóQD‡´5:Àj@P‰&XGCô¬àwjÑN]=;È$ê±H%&’8ýwÖž%Ÿ–„Ô¹Z{Í_b ‹/S°ëO036^ÖK¦BKÆz|ª²„Î#¶BñœÔ‚¬ˆˆÝ›J@ø›£&€š¾Ÿ¯½Bòîîzýïš$2Øÿ –:Þ‹a•¥„†<:Béû¶É­WmtëÚŸÈp'i‡çjxBz‘jhÞ›½Ú*Ø–>=4pÉÇ3ü@…ÚÍ±Øsš"
+øõfœ%ÊS1þÑˆu¡Ûµeg8æ‚ TE:]kG_ƒšÄ:-|ªÀoae}zÑØ•  Áµ ª#Ä@øœ¶ÅQFYnTý§jQ>'Å3>~iÈ4aý½Û€äA¡éÌ‹7¦9Èš¼$c~vÍhŒA±oÝìQU‹Éø_Î† ÷&¹˜¤ taùÄt"…Ü‚ó=&)2Œ-.$j— F2°ƒp¯uYâF{óÞ¡íŽð»Ô°Ê£¸,9Ù“E#¹Kú}TR	@¸ˆƒ<‘PQÊB ” -(Ø‰¶ML[¤8òR$õIœ` DÑá4´‘rrˆé¨‰¶(‰–ËêJø Œ¤²ÙìlEíRD°Å¬t<P$ŒâJÅý‡îîêŒqJG£1ò2h§ ›¿Â•í
+‘2#ëÇûBËÆtí­%cª`ÐÙ¶õ0(SÅ
+6¾}ñjÿ KS)aÈcµKÔ›ûK•Ô@Nµ­‹#PüŠ„. + 0(?
+HW•Å)GY7\ÃÍúªMjÁñFü :¾+nóï—¾(­ïz1d# zb™d‰zæ‘/¨ªj8!»ƒE^u^f¤T2'"±p©CaŸœT`GF·>h%#‰¾	=)žBÄc›Ñæ¾²¬ñ$Ã”@*/™™L}3C“¼ƒc šaµ†5n€•j–èÌ€³S21Úd)c$„–ƒ1½e\¿Öƒ Â vËOÍ‘À-«])Gž5ºaçö·ÎøýƒAš^Û¤Gr½*#ooV…ó©¿NøÍlþx©È"/îÄb€/ðxXÓîŒ`¯hyÒ}Æ•:Uò1ÌZŠùjü®Á»¤ø-…˜¤…Hn @¥žh×MÖ%`M 2-¬æèj£âÂì¤S"IB0y k[Bà6ÄNìÓ©mïíz¨=cé¯^óG”D@œ=Gæ®•¥èI—‚ÇlÃÊvš*;çÜbµÿ ­û¦ôn±Jósñ¸ A¹ÁÃÈR>OjfÚ9KÀ8
+ “¢zF³xZÕ?ÐS«ÉL6,$Ô‹ù*HÀhàˆ:ÌMça“
+œ…ñ@`l»º;)óDbç!­—Öû£FäauvÄy¤‚~-Ž–×Ï9©%óm¨ÃÞ”’£éýãŠ&Nã:ÎhR®³×ošKÇlü¿Š—C:ík.ZäóaB(]çÇe©Xw“þö5 š£¸÷þ×¤	¢+rÿ =½AŽHI#‘Ó­FSb&óz4]À`ànÞ²Ÿ©C
+»ŠZé-«B›–
+/Ô)EÂ€›€RT#Å,ØA%e%KF±]34ÃF=óÿ ×ËïZ
+Ž b;Âô3CHÀs¢"vºp€5âÃøî(™3s$l /ºIÌØ!w£ÒlwGð aÑhà°Æ^hZà‡åÒˆDe2NÖL¬*T`y¯v—rÒ2RˆL &PY8Kh
+Ð’!èè#ŸµaŠÄ Ú"×åëB	;«IŠ -z·ÒˆŽ]ôÿ 9¢6d³ÐòüÒ×>{Š9míÝêÄçº:óQÅŒsäÎXÚ¬*Ù3c2tfØUóôëÞŽˆD4øš	 'a÷ÍfLéMëÜ•)/à½<0 qÈ¢%¡|¯ö¦íìP. h€'Ð`fƒ†!î.PØñ}	CÆG,Û%0Ôæ²'„AÀˆ¾øäTÈ`	Ò.hJDR:®¸hz÷4¦˜%ÉðO±­GéwÖŠ
+º
+ÿ b›æPp¬ñÇ6 BÂŠä &YÝhK@£p,ð%›µGbÃýp AØ†ìˆª3†±fEžR ‹`ˆ­{ÂÉ"d¸u6pQÉ9€M#mf	ËYÊDÆ C`Æ/ÇNø¦o£-~3ZÛüˆús[q¹¡Öm*ÄM–Ëÿ ê,IÌÖàšÊ$Á¹Z‘¡gIâ‹a$^V~V[Í
+Ü(82©£¯ƒÆtx mpñ¯Ò~â¢lIÞLÓJ,²ñÇ’zÑ;2°ÒqŽ”ð‹oŽ:¨v3Owµ,4(‚Ñ.P¤EÖÒ™LD.X€&D´ÐÝ}j4ýù4TL»lëxIBçE„€ÝÍ&H‰6 —0–-D Gº³ d	ˆ3}TÂÙC6 1“Có@Q¶°R¦b]›Ô‡ÁÄ¥kl=ö*×üÉD4³`@gšÿ •Ájˆ”{„PŸ#“¦a…½ç ë,Y7â¬&,|ù &BAÀ×Œ¥Y"h{û‹QÅFQq@G§5•‚É½áR‘ÂD£ ¦Ðæ¸°HÏ=7 É«lËQ`ºa­¯ÎÓé ²èBóô(«.®\žÅ0JÂ4œï¬}Q0;¾&ËéQ/0Ê¼—”ÎœUÑÉwcZBáÀÛm@˜, )çQÝôÖ˜¶ÇÉ“·Ñ9¥  ³{ÄôÚ* s;÷¨ëkú»P‚ ÓïŠ`¯üý¢õ\Á$ 	s)Ñ4iëÇ|Ô¦‡·¾qV€[ÓÏž•Ïu_ÅŠB¸ª‚`8Ê¤LÍŽ–ƒH„PzJ!Xˆn2í»|POr!‚ñ(jÈgz/OÆ˜723Háì<Å g`›ÑÉ)ÚÊ?j4àRý÷­_×óB%!®!4¡\M8[säè¹Í ßB@Û¨gî†ì¢?‘ˆû¡`e¤c¨,l/ÉdÀLdm–þè\ÜÄ“þ îé ôi	b‡"™ "›< dÊFŽaZŒúwÈ8lL3¡Aˆ­ƒ¸ÎJB  (mI$Œ(e@\>w§*Q1=Cµ‹›¥¯G™«ôÕÐ?VúëDÝêÓëò‡†Û]Å÷Çšôi|øÚ’{I¶¾8¡Œco‘ÒñÅX2_žhEAÏs[?‘-yÉÚ˜†é¨É‡‚ˆà4W1v5TÎŸ8ôVbé¾ÍWäö·¶§Ú”·¿¿ÚUÖBŒnws»ÅL$J™!â9yÐ†¯JÒ6Ž¢ˆÄ¨Ô.UÌbAA2ÀiE È"h€m9 ŒvTHiå7¤“¤ nºZÆ¡l–¿4ŽôGùïŠDLt¯ø ìŸ ,!®^mOŠ”-\ý\Ÿ:öf1WrÜl‘¹VŠŒg§±J-˜ÑX$àæ7ò×U9ô†.‡Àj&Zä×A…SÂÈ”\ËSG¥æíÛò ŠŒ¼xémju`Çý%P!À”<áRDA«AŒï¤9F0 #áè"®AÊÕ¡Âø %{àÄÕ›	‹¶ƒÔ~#8$‰7BK½f«®,BâŠ£2´\¨,†@)¨A~2@…Å¶¬€¹…¹Ì2D&Éòµ”\Š(ð8`KL³}…¢*(|	ä%,1#	8­Ò@®Ñ,SAˆÌH¸[`Á@è&qÄ Œ¿Å´\Jù±,U€ÂÅ¿SÅ0oÏqFNÇr~=‰¡t0˜g É€7SÛLð®0p…Z‚.qv-øTðF˜ hÁ^µ3’VØ'°LÓÎ¦Ò†RÄ‘Š°Å0ãÍ`‚´Å¤©0Ï›³î•ªÕ=÷µt‚|~èi#Ó‚çìP|’D¾oE$ šD¹`‚0ç	¶¡qPx`¿It¢°4 %^•
+åaˆ: @/ÐKAJ0tT„Iª<'jU‰L„VÈz¾!å¦ps‹ (£¼1 íL€ñ^š—šÒlt¶Œ&±”Ù&¸Ã2.U³É¡¨É+x§¶ð@ên$5
+œÊH@íØ(¡#h“sª£CIn‰Ä¹Á$Óe‚F†Ó+‘¢LÖ
+_@ÅötIŠ„„eßjô¡GP Dlt@ÉµeE.Ã#½”mlAjB7ÖE	\êêSéDcÅ¤«è¡˜¤­fèP.>`ˆU°í‘RÀbcÔmRákæjRßKóCƒ±À‡ûEAÂµÙ½On~dê8˜ƒÞAÖ(¦eSÀ1­¯m‚"¥CÞ¢n,â2"€·ÑÖŒ#­9²âä×—" …®¦D!Ä,€tA†è©„uýf„û¿Çöž¯¿º»üÓ êé.ê…Îöû¤aD(åPŠDŒ`ôØe¦(›_PnÒÞÚRÔ·íåJÓŠ²À-Šö6/uŠ3†’œÌœÅ}‡pKC}·LÉ¹TxNEØYFÁ®SÖ…¾²)–+v"„ZQ]@Žèú­«Uay>­:PÐaŒÉ©†E¢’†ÛaXÅ³£4ˆPbàØÀb¨IÇºÖo,“4„Äî€SAr ‹Ú$_zˆìŠƒ@2‹³C÷æ‚WSÞ´ê´VP’Hx4†@"¡ýXÓÍ¡ 6Ðj žûÚ­XÐ®/ŠDÎ!Í ¦ˆUepÓNÁBi¸A@B"•Ú ÔD&XÞ£ôQ"R`^™óør$È©ŽÄ“Á6U˜ÐcC¹¨ÀÆi€çè
+”w3õ@"4·×¶4'Øg™ö*Q`~ÔM>áhÅ3:éºSKzk@¬÷òuâˆ,íÞŠ  ´r\ƒb|eÝI+t!œQÕu
+`e>ašFe‡qÂ¥íLž ©#P„MCRìÔrc÷ÏZlO¯÷ïŠPF§ßŽÕ·¬Qï¢‚ŽÏc¥L~ûœcw~î†JNÞÛz…‘•÷?ƒ@‡ùl.ùöhA±ZPX™ÀYµ°¤&ë½
+×‡†FÀ¸ Ðnv’PPlD *ne Y Íã<–±BEçVÃÝHËT¶È	"ƒˆ %ˆ"Ë:àÈï4Û…ÒÍg½ÍÄˆ‡()qÃ`ØÎ‡”­ñdÐf¼¡˜þŠBø6ú¥DBÞÞ‡Š!ì‹Aù4W¯9àQåÍ´þSO|ÑèÁÿ (Z>oü­K¼M×¨ I:2cÊRå”¤‚xK"2nYµ?&Ø#Þôb=Þƒ©%z]) ›(D^ŒcRé§:ª‰E½y¤Ò‹C1¢¥99µÛæ—ÿ ßbkØ;ÐMÕrô~º(›s~Ÿ—½(³!pöÑIYŽjc7'ÏÎ´;äçßM7ò•}U%#‹]}hÍ1û½]HÔjú^ @)Ðè(ª?(`!–Öa]=²¡˜*ï—J4éñn`6$„Ü –¸—áÂ‘iÈR²4Âš©•hjdŽè*õa„Ø ™4ÐrnôrÇÀ¨„•¶”¹ì½Ì›]hA)èhmÐ‚qSc Gé·ÝD›p\“Ó#‰® !Š›„Ay©8€²C§±B€0àö.€I‹B1K·_zPâÞõò¢-ôPèŸ}ÅK7dœ{ŒP`×£Z:ÇK½_±HŸFÿ šÔ¹gh÷ŠZ:ÓDÏ±µ	ÁwÚ Í†;é³#:Q/í*RdŸy½3Í×û\+¬[:Ó¹ "5È’–¤ÏJ’ñ7,ëcª´kJ$¾Ìÿ •+³ãUªQbE½åÓ@ `$‰Ú‘ðé!¤]rp­YÔÔ&Àô$h.:É	 Ù\S¤ˆŽäF†Œë»ˆeDYy¢ÔÙ}]Ú ä‡E<› $%È0´­¥¤mj(ì÷ûG[Í	‰¯œš96I‡îô7Ó¥¯ûA|Y…×È†&9x«z†wÿ &³xæ2=˜)¥(+>ýµEî>h.®O÷ö¦¾Û¤X7ëûQ¨ ´}Qw÷M(g"&Ùº HÂo}ºøÖ¢\ÀæâŽïV}¨4{áŽiÀ_ùC†ÛãíOWë¯Ä´¿jåvYƒm»æ‡­)˜{ûÖˆ–2Úˆ(a„ˆMõˆ†f®¾”IÄ»õóVÎNú®cýI«Œ[†üe|ÐžlNås(!ˆD]5­¼Ý£b=µAÄÍU?‡aŒHÀ¨‹\JyHèh0¸‰ÒZÐnÀSÊÐ‚ò^Ž¡$·2Æ÷ÛA >}é@–~¢‡)	ü(Ö(¥
+ŒcUDpúº Ô4ýC€)rõ§&ƒ»OA§ ‚W©²4AWÔd–±Dv:oíèÖy{ôéÄ>?ƒ½[m×ø
+‰¯7?@ÄQ|ùŸâ£¨O»Ñz{¬U÷/½Lž‘L‚{/×F Î:±miªW†-ÞØ¨Û±ñõ@”wo¾‚·Ûþ)ˆ¾Zì1¥>þi!ãZ! ’ÊT``5AB"ò	~ûûõLíhBç^(mÌö9£“ë4¤õ¾6ëX<'Ût£ži¨B'É;TÊÑíd>Š
+ãÏ?NŽµÇûR³OYtŸ×æŠ¾Š{áÕ/ ¬ƒö:sICZo<zéßYýš XMºë:ŒPTÇßw Áò‹àg4ÀÀÞ£wjinÇ8’„N‰Th]÷±«LÜ™w k+C°iÕmMŸá^T`Ú‘?~Ê‰Ád™÷?´LÍö÷Û×Dq¿½êãØuäb)×zŠðúh‚’.ó28Þ€oñýíGMò||ÒÓ˜9#_zPD¤`Ÿå¶¥ÈqèÛÝ¨f(½^”õ€oð(1ï¦˜AhøõQx‡Î:Ñ~k•êÇè¦¶C	jMSIŽ}óS{‘Ç ŠösûFRo‹p¥Eðk®à69rû¥¡ •«Ðß­¢€ûÇJœ}RÉöÃ§}6¦Iÿ ^ñAù™íÏŠ8˜ÞAãJÖÞÿ h8+daP`~«rw—Å BË~º"À—òÖÔ
+SdÌqß T·øõ^ˆð˜@€òåµµÌ }¾(°×YR&æº{UÃ1‰ A—¨=çNjÛ:téR‘’cK{ý¡)–zñYï{‰ïïÕz)‹+[ÆƒÏz\§·«ÛUÇþ½t3ÕÓÓMºn¥Ék¨¸úBµI¡GCO4"…ÅõPò àÝ	'0YŽ
+hËg„fñÄLHÎ|è¨šØKÇ±Å%Áê%ŸŠ09‡¯y¶¢Æ¦É~ºÐt_¯O&‚N…~<ÓQ:û­9ÿ =ÿ ("ç·o=ëÊ‘°ƒïn”äãÄP-|Ñ•úqIsçØ¨“›ûò«D¿Ã@ Ÿ•
+(¡€Ip82€Q(f&IÖ¾IGßÊ¶Ò:î·‰¥
+4ÑãäÇZ+ºÇån™íš	Ð€þ=êË/NæƒÈŽ fØ¤Áv$@àÑ–P†fj$‹Z†­mAEÌ/ßÚ>½Ï‡ôhŽ]ÿ fŠØL½˜îÃXqšP‚(£òZw¢‰:LyÎ–©¦‘dLý”ÑˆŒV(ÿ Gz;¦×ôÅ]XY+G»Ð9	ÙÇj9¬ñqÇÒHàC÷Í:ëë¨ØÃó¥5ÏŸ·Ž”cü=4@‡2:ÍìÏš3=¿´mUwŸ´A¿äHÓÍÏ{ÐKÝi ¼?H<ÓäAMíZœE,üÒ¯M=~YÓhBû/§ª¬¯ãZa§{­k¿ªCÛþUÁ(ùßÞõ.@µ½÷büj=œãÝ{Ónf’oæŒ#(pp­ØI7Yø=¹¬ ¢ñwLƒdp*R¿a'é¿ÏZh¹ö(? ¾ŸÃeŽ³¡ÎRý¯!ÄÎµ¹ü´»ê)`N×˜Ò{ñãî°9×Ý5£åóHÉYñPw]WÿÄ '       !1AQaq‘ð¡±ÁÑá ñÿÚ ?!3¤[	þ³D™ýÒ ™§€Aÿ ÊâjB7Ä3£¬4ïe×4¥-a‘áÈ>û»pkâ©æÙïÁôþÁðÉ‡_ë€ÏüÍ7Ö†½`0|8ÎU]g{MÞw‡íè'Jä÷þ{†a¯òÉ”ç>X“
+bá‡1‡\!¸@s9Ó›]pú[!á<ÜQ¢3á>’¼ åxtpr{fr8ùÁ(js#Drß”á±Ah7¬,zÀZ<Ê3ý‰Ûü‡Â8ÃÏÁÕïXk(3)ŠÖsÌV°Üä]¿¬L¦|½Ö®ú€EÁêrM.ù(\ÅWYÕ)÷âý£9'˜‘o™•¿Ô‹z¨¡{Ô¨p°å:½éïÌe9á Œõ¹ot
+Â†a‡Ï1òž);ìüP[†!ð‹éü‚iÎç¯çän¿ùö=¡àµãH^þ‰xÂÅÝÀÓß{C–Ñnáap®Ÿò1Í0Þ~OøéX$Gövâ¯€%pP3<°êý¥üÿ Â ÀfÄèã´§ÿ &·ˆm|¥Ÿ± žû¢9%kŽDo±Œ{9Ä[ZŽ”Ó ‘§Ÿ‰á÷ç†:x‡€G‡˜vþGœÏå<Â`'ýi=ª\ c¤ÿ –/(!$BˆLìôK5
+#ª'ƒ’úT¹JÀ9Âí/‹Ülž9ˆ` rðäÀƒ9>Oò„à×O·*_¾žzm	ñ,î”gá>LÊ nVòÊë’ Fš¬ÂO0FjÓšÖ ‰zB
+²ÏCí ë½Îbd#Gâu¸Û„ì€jÚÐƒ!px¦°áDYˆ5g•O‘˜Ì’M$`à=^›’²‡‚åzÞVù0æ"rÝYk¤¬VZë0† hï>j š@ýÚ
+ÁûâUãpÆ£•°'ú![xCšCÄÔÉÑÂË÷´>ò‡È5Ûì”&v¼Sò9Ät.Ç&æ¼ ñæaÅ¤ÍáÖ‘-È5{;ÿ .ðëùrÕ !ƒÚ¨äô–¸X¤’™r0hÕæ¨/`‹-|<Å:üÄ7°×›¹³e¼&ô™§Îpfí"¢™ÊX‰XêH|ÖFÁÂïQäH!ÜÜ|¤ƒu§ðFD-ƒ´ML–˜ÂÃ0zÙ„>ErjŽÀê7B¥C"‹@ŒÖ å€G°fO|È¬CÇßoûJ—/íù…µ)G–ž21¥•¨€Tü(]>„÷Ø!Ìm´2¤9õ­BÄ{´Ýqobó1Ñc¹/0;ƒˆeMÊ¤4x”É.±=¤ù*%çEsH G)	#ìs^„7Ë$%l™ÿ |ºÏu›r–dzßÜåÆ3ÄM8<8 I,p<,³ßîkL¹ËÝ`.‡æ¶‘A(ë–XƒFÁ€…‘æMQ°,©²©u ¡[‰ØŠn6aáþ Ëq–ß þBÑ\üúò„â¬†¬ùÒb<ˆ„0Â‚åu)üˆaÕÀÏOþ‡1áIË
+¡&+HmQÜÙ‡üí>½ßêûÁ¾ˆxzý`­ŠéSEÃSàúæÂ~
+ýK"ü"òßS%±]ÆÙÖ„Á†Ú»ù¨À +B~óò!]P&é2Z:|¡ù*Ü¯èMn)ñõÿ `(aÜÞ`á<	Q×8% ç”à à&g.>u@<Ž‰û™³Ÿ¿0ÑÇ¸†Èç²¥c¡‚¡KXòiw>$Ÿð}ñü0ë‹§oÑñ§Æ| úÑ(ø7Çö›^Èp2ÚL˜‡¸Ì¶ÆŒ—®"AÀ²ŸXà@E !;+VÓV†%"Ý@v§lnØ€àE1ÁÁ;ÌæzþC¬0‰`°yäÝ}„ï—)hÚ={s€;%­~æAè:Âö¡Ÿ±\PÃÿ O‘Çñ  	ŠÑRQñ,/¨X„³kP¹œ‚Ï!¨ódõCB2ÒRäC¦€Œ)V‡Qºé A{“€eÂãh;!q€Ô&uG„Wb•?ø	‰\¾ÐýíþÄ€ªëd=9Ê0h6zBÇûÊr$¿Z¡)¶Œ­,(=ÐŸøŸöÁµšâ-5PË}b¬Îc_”¬]à@²ËhY˜t«phî)!¤MpZ 0&›ÙV0b= æ¸¼3PGp8
+Ôw(Üb6öÄËiÐöÐçÇ™~“Ô4d3ÞC‘dgÎ~a Ð’ÒÃÏMŽ`Á:Õ,2”­[MAÈçx™ù"ÂÄ…¨1©µ¢eMU ×!ƒ‘Pð9QÅ0Ï³÷y¬å:˜ChÃÜÙ„“ ²ÐòRWaPš…9:©*Ñ 2&vªË@!)‘¢`H}–
+´9™ØBs—3@^a`£AµÁŠŒ!‚9xóë1ùd@{àù@í~Ä`=ØçŸ¸?×Ò]AËQõlœ®,9¨±ÈtÔ>Ã"Äsf—„gŽÜ(¹ÁY¢T*’ PÛ&lŠ(AêÀõ#þjFoÝ$}O€> ´„3Sÿ P2€'y†Å%éz§uQ‰ LÞ‚luÑ»ÓaÞm”tr5—–hWÄûcy`dT>¹MnÚ8§	 ,Aò¨`‰‚HCƒ¨€àŽ>µ¤1ÈztçŸ 0	g­m(7ˆ$°T¸ô@ ©‹b5Á5]ÐÞ4<cŸœ~E4–î1é‰£-AÎƒ\ä% ‚
+š.§fa(¢N¤|Á‡°úD„pé(L3ä(í q˜›H@z#Qóoy"“DR:W'Œ6FÂ•x"™åH‹¢' V5Ä$# ÈNbTMârÄ÷ê¡á,¨`”…YäÏå°íîòÝûõ ‚¥u6KƒÕR":Øm’AÜÆ¬…À9„¾¼áÕº ©5€¡<´šx%²ƒdÑË$Á8Å-»©}0¿ççä¨#„ˆŸì¨…Ør‰#ØÚ"kíbÆ6eÁ>^ îñAÕÁº†ïòD” `$¦Ôq#@™tiÎƒçM€€VxÞÌ<)\v°Bœ	Õ’;Hüƒå@µa¸jåý÷¬K„*ªT§l^Žlˆá?w„Î™~ëîÆ\w(‚‹Ü“` ›T¯á ^¡mi|Ñ‚99=;p|>VFecé¬ba0'÷Æ	C/‚Ì*²¼ ÷L±D¬KÍÃptÆé£Ð5¥m@€ÕA²AŒ;`) }ŒªIòEƒª3œñ5'¡@¡~†ðvP¬ã=à¤Fé^	ÓÖ?°E
+îa÷:C­– +ïÎ :Ñ£×™ƒt{ÿ SÝ0|e‰ïØÚ:¸/‡"¹±âCÄ´¤óGp«Ž)ÊÄ]ÊNc:Ê{ï¢(‚†O€=ÿ c.ïQ×>V+s\‘î®èl­˜ÝkÎeìhŸ6é¤	YG#ybL¶­	N‹
+Aï^…<ÿ À˜ëÇAõD3:‘¢;[ß\c·_Óy¤fË ­CÉÎâÁ‘¾ÔüÇt0BÇEÂáŒ $ª°›,©ÀŠ¤@ a. îµTùð)&  â	M€tÂ0†wŒ„R€Ã¤¶‚¿4ZàáDñB>ZþE
+gêKr»€&8 +åÚ7UH+%nD©d(Ä¡ËÇ9ÌM˜Qó"à®UÈ||FÖRy±?XˆJ®Æd}×,§þv«`Ö•±»  Ø2© ØF¦t&mÑ–ö¿÷I±/ÈØž`ìÃ0Ù“Ÿá/Mü@Cxå¡‡ ‚0mÌoé€ÆAàvuÛ„ kèìn@NŽ¤T¤%Žx~Â’ŽqÉˆ×¥‚Ý¢s©/ÎÙÂ¸¡h-t}Kç/DÌ@s«q’YÚý(q€¦¶ëgHmg”q°Ûd
+‡RT0C˜²í&™±pƒvKq…à.! /,[õzÐ¾cøáíTêƒ?ÝðAQBÇQEïªÅôaBI'RÙ%—ûý”¼†<ÉöL#$<JŠáŠ¬ _›~LŽGèÀ¡Ýv³ÌÅ3Éxc&?"À	k">cÌ%N¸p/0Ø%…	®"q÷ˆ*¢%J¤yŽpªÈ4Œ‘‰x…Ö„hn‹cÑµ-Î:A ×baXï[1@¨À°3¾Ö…{"†¸{¼ÓÔmøÚ#\‹ÎÁPê" aTÞnÕºlHÙŽÆyvŒ	¹¼×„¡…
+?Ëé1Ä[K~¦`PßF
+ì_Ç¼cèŽõõ–˜84l1`#À€à–Z0ÍPÉ 44À`5KóÂ;§ÇÊ#­SÍ©åÂ:Pu ÐªBMÑDµ¡ûqcõó‹9Œ„£GœnÇ#NøYŒ¥»nX`XD÷:ƒè±„0²P¨DËè†Ú³Ç(á¹ù?â()7
+&\ oNÜ(­]|ˆ»¨Ï˜ª„—÷€~©•·G®œ Ïý2¡]¸dØ‹qÔ@Aèö².xÒƒ“Â\äîà‡$:Ù‘½JÅîÃâUö—›þ„ð‡œLMƒâÄr™59gba3¦³…Ë-Þ!,"@i¬B4žã\€ÃâÒ”‚DŒ„»I±84=üÄ0h7§ë?…Ãl¤ÍÓò Efß2Eï„€èd(”HÕ@â  BˆY^°ÁÕ¸ 1F>YxAú¨?÷°=Ä5XìÙ@Ç@³eÃüwPášÃ ‚á-wß¸&Ø£ú ¡{ÔdGƒŒzEÂÿ ÀPDOs>}cevÛTÑZ@b€`¦ÎÎÏ$åbdmóNxj{Är˜ÕH{!O´Ð?#¡Ú0XˆxqÒá Á"ž!0E#LkýRt=žÙÀéõ¿°ÁYAqŒg`#¸Ôy¤èËdE³ª9k(œ<°º+Ü@ºA"2¨øý!Aî%Ï°nóØÎÞþ&DÖCnM‰	ž‡?t†Éúƒ€/u‚p=%Uü°5j´	V3ÿ ¯	îœ¿ˆÇT/ñäKËéÁ(kÖóZi’õþ	C)ûØ@¤äƒïïX(®‘dý›D|Ì,ŽÂg€Ï?äÚ¯€òNX
+"
+	Ä{¬ë9­á+æ{ý±pë¹á»×9’åGrÊ(AÖLôn¢Òw@‡I[àÉ®NŽÉ3Äk…EÀK8GøÀ³=~±úžÄB¨Šù‰ÕGéÁ}*i?3öåÿ “-2Zí„µÛÑk…·ÐhŽ^Sÿ Ø§€1ÜÁ Z‰——·I°'#Y»?´1Ò=ˆFtðmpº'T‹Ïóƒc „(ˆË˜^&{àâOUÀx^Th^rå.‘ˆ_œð¤õÿ “‘2ÅlÏ«[—g ¸{=Çyªëˆ7ˆ„é=ç‚pÝ'û¾cßÍóÚlÂ™lˆ¥qƒ—``FCY´9ÌÒ2<>ÿ ¹Ñq£‡–4é†TN¬äq¼¸uGÂI÷?É™d¬¬~mX†t ŸüŒÒùÌØŠèh¨8@¤{o´:ŸÔ,q¯v‡Æœp,ÿÄ '        !1AQaq‘¡ð±ÁÑáñ ÿÚ ?!”"Û‘—UBñ3Ò~ü¡c×Æ”Ó7
+J4.‰„ 
+ª¬	ˆœ Å°j‰¥ ò†:"ûò£Ô©
+Wßâ6?‰Ý {~²UþSè$û”è¿ªÁÿ 	2ÈˆMØÍ–»¡k®KÈAÛ&‚HÂj"{‘ƒ=ÐXZU"¢‹'“Ü£#"nŒŸÒ¹AÛ”èþü(µÓaÀõ•rŸî¹%ÿ P @<" tÅÞÊP[ûûe=ù@ÀÓnPŠSá)Ó	‘‚†hšúh åhP…e[¢‚?tÏÒ¨×?Å5²µ2?VèÕÐ/UÓÇ$<ú»Ñ#émOA|¼£FLO‰Ê.w¡">SŒüYi‰òFøSEQ~“9BæU”Eåuºº0J†ØT•Drm
+¯Yóº5í=3Ò8}ÓÏ'å8Q-ºHuG:0Q ÅiA®¡Êb@E‹ª¡Ž§²¿cT:öPdMç
+ˆmÐÕ;¡‰6n½Œý—¡D~z½¢fÂ*ÜíÂ¶KR(*(êõþ*åït‰"…Ôš¦@ „‚†ˆÙÝ2 Å”ªÙH=ÐDŠÙ¯tÐP‚]1¯C_„IRrž>BvûPU ;Ep%Ð€?d½÷ýUžëü‰š…Iê@L¨É®àK& h"Õô!àÓ¼3{á¬²“ÃtmŠï7)õè(z„W°N'_Z(Ä}2>Ñ$@“¿`-LÏcul\qW”^ÍAFÊÊ€Ð{Ø\#U%À©Î ë‰~×Í‡ËÁU¿9þ+…)*›ŒIrX%fÓõ2E*Fìg=ÔD©,ÌÇ$Iu¸P €ÑÉ%CqÝ 4`ðd.%M1YaÅÐ
+X¾˜OèÎ|_‰[ÝI'äÙ6iöüy@ÁYŸ5¬wty†0ÕQ¾\¡‡²aï?JÅö#¦ö11’?~PÚ_“áDOÊ4QNP”ÃcæŽÈèõŸŽ†èÈ„Q*Üa0u7”#az°h>Uç08F½”`Hg.e‡Wæ±»*$JÕ,kä¦^¶¿Ý D`‹° aÁÆ*±¥À g'/–ˆ(w™AdèEŠy€‡`¨Þ9tHb>Ñ¤v=Ð´O”ïwýò˜T.ñáP]	¾Aw¥ñ…WvîËßøAÊÏébñ?¨¤Æß…LK–ßúšÝù‹¢çäO‘	*Õ¨c¸DYY—¤~<øs¦×P˜(rN¼·• Cðˆ©¶’"ŽËðQ dìÊR&Oaû
+ûU(›ü#]§î@ŠStN5æe4^$Õ›±DœŸ„]‡‡«”­7E‚2ˆ²,‚s" æè ¯yE)å“=;¬|¢[åItLÙMVŸU~U¿_¤,TPgò#¨Î–Çu2­ñ,f1(aQÑ3µSN0µE t*P#6[Ó2Îþb6…¬••5v €Òyžè‡šÚ6Z–º	h×Ê"™2d¸¢ˆºYY¢ºŠž~‘’Ú'C«2‰{Ê‚£¿…C Z'‘rÔÉxBÔ¢"´"¸r®R˜°F¼1-HåÄ9åƒ4%‘ààM
+( ,õM*Û †ÈBZs~è²ýç»¹D)cBß¨ú“µÃªjîŒ»„òH?Üá;´€HÛNP[‚EÎƒá—æøTWcÏC„˜9tyŸ×BœZ&<ë*”pJeÂ<
+…CôµÕKr&LJ€tå”
+Zè¦·÷²e¥ÅAÒ»ÆKì,5÷Ê"’]Àm~Q'©l²àÄ¸{c4rI|~*¾F©Õè¡À1•DîÅÐÖQÜ„Ž%'µPf.‡É{žQœEá“¡ïdbG D€-º	:þÇ¡ë`®Ýñ:	;!cê:A™ñz
+¤É@¼¦t Á1î›ªjtèþèPî‚£®ÍÓM	²~üÝAíÇ¬¢`ÎF~oeF,Ãñ…ŽGG¡Ò5•*ŒŸ2¼J•ŽÝ•ÁEÄ«Ñ†îš;‘•ifº\ì¢!Ñ¼MÐ²‡x9Í±°Ð›4‹Å1]Qó€ Á°IªÂN‰`Â[M*¢-^JL„T¨¨¤¡d‡¤…Ð.; 0v?h¥öÉ3¸Dtb­âæpÕÿ È@1?¡g”³2)Š­¦ìQ‡OÐ¢\"Ž•RìŸÐgÊ8t.Ã8¹(h‰A’è*bšGÇ¼4À¬Æ ŽÈ# ’}Ï6f ‰)sÍ–86Hnu9É)Ü$Z‰&­Ð(0ú)Ùî‹·¿HµW§æ‹¸Odl1Ó=Ý?… ï½ìƒyÄ—0Õ©Ê”Bã¦žSŒÅá À.A.É±ÝŠ8íR_iâ,ž"àHw1×{&¯ÄxP  
+Ý¡N}^è5èßòÉÀ] ÕF²ˆ À&E†¥&'< Ô”#AÌHª¨—Uï–ƒÝëdâœ§ 8ÿ dóA P‡%k¬	PôBp)Ðèá¹NêdÒ;ídC{OêÈ|"ÍK[úû£8³ÝµçÂ®
+3¢Ø±ú š·>„RhîÈŒ–CGšh6ðÄ:­N5Ãªûc!àL,—1àB‚àá”`n6é(ÝJêåT¡(¥åJR ÉPáÚúÉìŠæ‘±âlà¨¡9pm[!‘PU®FÂY0™C2·.`	•ŠÊÀ	²ZB\þJ4n¹"RôAÕG¦¦Sˆ‰Žž»
+§Ùr›¸Wì¨ÞòG¸A;;ˆ5vxVÞ“³‹T¦²9f%É$k–	ì©ª?Ñ7—²ƒ±Š4è‚Hw©käžÄ‹È…¶ãÊ¢„"Àþª
+®ç¢õ"Ô!q¬(¡qP°ŽÝ	¹’¦³d"30ˆ|”Ši$0ðÓ²p°	&2©rÁ]1Þ›DFTŸ¢ dV¡„HÃwö:&5B%BcÐ»ï(¾ÚMóT(þ?Šz¸7âèõÕ­>î«>ûÎ*®ÄÚ\wÈUû¦¡4*IÔáÀ·}s$f;Ö–ž§NéxÙ899‹¢@Ò½	ªžûÙWs,%Ê¯ÂNf±î›XF;lt”¶ $îO‚ûÂ7,dÊk‡á{µNJ({ªÆ%„¡ýY#vb1í¿ÅÎC ¾îƒ‚&Ÿ†¬[å„òT 4#_õ1«©Á'¦¿Hö1í~–¤»Pâš§æ2 X²g4(0¾SÊ¢P%®î¢ðí·­8S4´û€ðp–ÑŠjØ™"ü×u‡S_õdçìŽ:" Ô{…R¢#±ö9Š’¸G:Túxb™QÌC8++ùrA0`<ndê@\K£#Ž¢HsBm&Ú²›ãjÔtEO{þxªpÝ¢Ô rtEãB„D‡KæÆÞU’úÿ › Ù±¤†@—G^‚µþˆ¿˜ZÈ<ÛUh`¼Þ©Ã v/ÞÎyØ‡Ä×ü•†X~\Å´)Ý#Î!!ž&¡tn2'/ÉÒ(\yt
+w#sµg¶Î‰Ø/L©†UC>³:&¬¤ô#ß	‘Ú¹º`4N<Ú*ÆRõ‰Y®2uB7`q qcPFˆ	èTOþ¬®5	âyÒ-¹Î»£ „Z!ñâÈŽ j±!¿Bþ¶ÀXý½ºh£ÈŠìÄ\NE_Ð¢m@Ê™ €Ù@=† tgÊ˜
+dv”v¨j?êÆ	—U¯"ã¢¯ Ö§(ŠÛ‡¥	@ÂÍQîQ PA@å  Â8ÙÝ–"/7êÀ4ª±{qÚÈ
+†öÂ ŸM%3!•îÏ’ëý¡`îFå$JâÔv @6(M"‡%šÿ P !Î)bõì*„×™­¡Ç2ò]€õÊ0 €#@p&eŒgºe˜pZýA`D‹€®ÿ ‰’Â]Y8¢¸²í«‚¥"{Ï)î:@Ü«]9B Ðê>ÉUÎÐzñ/v„äƒBÙõûË-ìEƒ‘Bš×#%É/¤QÁhjòÊè…Â <±+(Á3²	îâ\“QØÂ¼vìÎ~Iðüu{º_ÄB+;þ¨$,Äüº+Ÿ‰ysè²YÃûÀð­hÔþ  Á‚ a0ÐœuSˆ¸D2Á~TæjÜ,‰Õ¹e$¼í“„d‹@¥ÏrŽB¬òÝ	pv;nô¡î«†rPO(¤ ƒF€Ù¾+TÙ¹Â_‡„÷;lÔåT	Æƒcd$ˆ"jÏ±C$šbV®¡ÕL ž­Ç½º“":A5qƒÿ ^&ô¨Ùö$Ÿ´ð‰ÊrQ$‰R“Ð±½ÿ @D&H¡ì¤ªª¼&Á‹O €báð•+/‹og@@ ±Al5L¶Hli>C ~}ÑG}Øñ§úŠaíA¢0 ‡„p'f)ßôÉîŠÄÄ&Àdd±ÕÑbËK0¶À„©·…ÐI	“õÒT©Ð"÷
+¯?s|!ÕbâÃ;]G6­ByYW§è=d.FÇQnSâ¨ž#¹gQ5øì¬l‰½Q…U6'+Ps©àiZª }úÈ£Ÿn¬]…ÜqÁÖè(xR8%²Ât,È<&@švN­^‰œL0}tè~.2ÿ Wl‹Ä³0êFš¢(/ˆ~ÿ Å|³åßH8ôt
+ÿ ¨§’þÈK>>
+ïH>ÿ Tk†y¥Ü ÇO.„kû(„¸V“'jô ‚,‚‡XT Ÿõ–	À‰Ø‰„¨S¤û„@ó÷Tpå¨Þÿ ª V M]q­?ËårŠuÏ×ë¾©ÜôâŒt	®H|‹0/³÷TØbä¼*ˆQ€@°ûÀ j—
+‘&šûÈ;ÈG¤ùE”Ø"¡¤\RH™Z!fFBwDä’¤ŠŒ‹Ð™ºÁï(«‹˜|¦@}€"n€|(J’.ˆÑA@fWOô+¡á7eçF«‘5Ã½ì[å0!³:QáÓÎdÈaÒlÂ,å|hY†$»sÂvÈÈ+dôÚñùï+ûë	žQ¢K¶žA_ÊÔë^è¼¸¨î€EB:iV˜NÉÊÂ!D¿	œ.A,akøTÕ@þ-)„Ô*ŒB ’ƒýBJ¢1*ªt”/Tø›(á?%ï6#ïeAØ|"Š½{;ªhÆ²ó²™ÕDAÃ2=øR°&ANBKB‘uˆx'Çt rü|ª•X@ Q qªu õD"*¿Q3³º£;€îþ û
+¥pù)”D™{ ™-å“ˆÔ!?°S†&ŒŒú}¢KŠÝ“50éEFf±`í™¡E„<÷ûáœ˜ÀúE7ØDà÷Ôäyj©t	·Ëº”›snŠ¢*£Õ3+]õ]Ò}=QŒ(*¦¼'7Èå¾ÐŽAÐlY5QH ØO§úŸVDÂ!Xòšû'¤ü§¨î¢måÓvFX·úuò…Þ† Õ\a›ágÝÉÂ)”$8åêÂ#ž†7DáÂ¾ó#ØW}û2ysg“üA”ÖA5èt­ÓÑ:µQ„RœòjNRv³ñ)HÀt|” ¯ñù¨ ,Ã¢HHF±*ª¶É‚‰·¡h asûåŠà*ËáAÐ}'cá>^í„esÈ:ï¤G)å=Ž½8X ÓuH5ÓÊ&ûDàÇô~¢†KN‡ŽC ÊWAqd¸„@4%ý¢aƒgÚ€*"‰Mé‘„û£sôQBR¨æÔ•è»§Fsïún·>ÑN‰Œ¸º¼–ÖcÒ‚´‹‘²‡ªäóCÚ-#åT@/6å‡tM~…ý>R`Îé„uNÿÄ %     !1 AQaq‘¡±ÁðÑáñÿÚ  ?±œKh»8JF<×A†
+áÆ“+pÉ”¡K.¼¬Ó!9ºZÖP\‡·Û]G˜¸=`¡d ä
+¨#&á­Ó0§¾Œa3ò_i¬ðE!iÀ	ˆhëÇ’,ÎfëïÏù·=öe™÷×â‘*˜“/³½¨I„HJŽ0b¦˜qˆ‚"Q‘äÂæÂÉ(ƒUYÑÕ=aŸ˜Rr·©Ø[¬óÇ
+šÎ°ÐîR{·®ƒ¦Ä‹)PWG_)°
+ùd-öó¿<Å`µÓ-8»U?¾Âec®¶ïyg|¸‚@g!¥M.9!xÉ6™NÚ²¸Îx¡4c	ˆ²g¼c«Ž, Érbô˜26ïÍäÑD	T†p,•c\ß#‡1‚k¶cã†DžåÌÉ&TmÞ:ãL³Åýó9ßýW½Î¦_¾¸Ë+ŸÈÿ <iø	òþ?Þ9
+Ø,iüŸýå¯÷¹Kë|âüßñÈb~Ž¾_Î~:[ï!3ïûÇ#FÌ|…/¿ß<ŸwÍ¿Úx¿%ÎŸÇßóãáÝÿ NSZO¿Ç»ÍåþûÇðÇxþ¸gƒËøÿ ¾8BÅ Ì·É7¹æÅ‡"àèÔh3ZxT`¨Žˆö7uà´,ƒ¸Õ.ôú~xÎ¤¸Àé¿so @PˆÆ'šÜÈ'63_&	üü¼s »BŠ¼ÌÖTöyoŸ­¹s¼Ç–2†„@åT:êÖH(ª¥'rå«€òÚü²ØîbslÌ”£\Sç¢Î Ù´ŽÙÇF›ytÎë1‡§5éšåÝæ–fâÊ2\äã0d=Õ©¯YŒñ. :ÀY¥¹Óõ™0ÁB§…a“|¥Ë‡£Ò\f6iŽV|G(2ö|$ã¸¬?4ä'cë†ƒ Á ZÎÚÏf8˜-‹ŠÍz¦Qa¥¼=–²ÏC.ÊŽ±ÎµµtïGÛä8à°:cÂÖlÎôño(ã s³¸¿>R¡ƒþ|O÷|œÎ*u³Ÿ÷µ‡%þþ_?ó’å{ÿ ½rÇ„¬öçvYÈrl{_'Þþ{ä€AŠ?ï¿\Šñì›þN«[»ûþN\+	ì¡ëÞøØÕï¸¿›üsÆ_çúürhwkïý<NPþßÇõÿ œõÆùýþ7Ë•þÇžf§Oï÷Žatl2`Ppd¦êQÀ`§eØà¼½hcH\2¸˜aEá›-sKÙŸ‘ÄiX¤8)‚öƒÆBW©Úƒn®“Vj¦¨0;\¡ª­”	ÃÆ¡sè,CÛ]pQ¹ûGn|åëâðõ–HÚÆQ…Å“Í—¨7Wû‰.Fù½ÁÙ) åØµÇ2E[€d	A€G‚áËˆCæ¦—Ã°o6]ô=!âÔ`g˜ÝSr£èRï¤øm#Ú©Œ©ÃÙqvÖbË¦«éJ˜é8j-0U3àžÅhô!B]¨2eAÕÒäìÛ0‹D9 HÔÆûàà
+`?»a¦syYa¼)MÂ•{. Ö*,Ï
+M|ã€Ø9v,¢/“Ãñ/	4ÈÉ@@ëÈ—s‘¦¥Z‡áF Ì=˜4²ÄgÞO¾ŒñYÓùì¸ÿ @tU®}tß+Ù7ÙÔ_üyÃ^úû÷ÄS/M¡Ü™7O|.ÏE->8,˜B÷ö¾{Ä}wßj6o¸~uÂÇP?øÿ ®¹‡,¤;ûÆø½.î<ÿ Ùë8óU]gu3þùÆ¾ùèýóýþ1Æüÿ }¼¡ s^à—1Þ.C/\6xD¤uH¹LÎ5¡[ƒ…”è>	¤t72 ‡NÛ„k× ‡°B4¿-
+ÂÂQ •–xÁaI4ç
+”G®cª?Å‰ÞyuŠ,¯¢cü<`<ˆ ÌF«AÝU¼4”,õk<A^S‚ú6rvi@15¾FFX½HÍ)èËk™ñ(@ÞžK1©2‚Ñ]tFt—•e1‹‚D{kMðE7òžMdMàKÈQ:+|®Œž/  ´ ±;f3	c‰ÎŠj€y(háu (Å11´hí5+»íë$Ë—4Ü;@¨\…}ÍÄápÙÚÜ#8d`\õ(ÀÆfe¬`<ã<ÄùlùÆß˜|€Œ­‘†T ½Óã‹—øÿ ç0ºµsù3ÿ 8˜ÎüŽýu¹Ãeÿ ƒ>ÕåHU0|ò¸*¯ŒÖO|©Àç¿<#ÇÏÏó÷ßYî¸ßŸ¤|Q*}øÿ yxÓ{<ï¥×¯[ï¶Ì™«öù×-Ñë_9Ãïß(d‡‡ÝÜ
+Þ,%]ÉÞü|ë|Cc™<S®ÿ ¿÷Îg3øø>d×êo–«#[Á†‹ áS<ëÄÈC©¯p](®‡d*Bâi6'Š’³òá%ÌüµË7^Æ€xÖ¢± CÀƒ*ÃnÍK‡™¥U:DÎ|ŽQ\Ä'Q7„]ÑÔdXÜ«“‰õQE…Òeë<XÑ1…ªÉ[3Ø‚Ìò™X)Ÿp6©ÄžwŒJg t4´j—ƒ?g«€2aÆ·!ÆvIŽ†d\Jm¥¦Î{$¨Ê7@
+¤Ë/•ã²”¦Á“ñW:#˜š~ósë‡i!Ù™C·px EPã°9¬åÈË0ë€ÃÝåoLtÞº‡	ƒ­oº<V “œÈ¾n@ñ×0ÃÑ2½93ÞƒÁAd­ÒBn!XãÇBQÌšQ:Äà3+=‹¨H²Çë\¯­vð÷ùx¤$Ç8e˜ÇŽ ‚¾c8ûÞ/ò"N‰µ~d“9÷üÔãË†îð3(2õ\Œ¼€Uü=IžËóÌ‰M™¹×¼úß®¸PË9s‰×ÖìñÃaÐ=÷ýõï„*è›ÇFþ¹‡Ò¸a“>Sdï}ó¬Íÿ çû\ìë¯,z/­ëÏ)¿åøëüóÆø†1/É÷ÁÚ<¿®a×~¿ó_ó›QÄz¹`’ÃS²“]rJ66ÌÂààÓ/„†Â… ìŽ5ÓŒID”:zXØi„&á¦=7,ÉEB9AXBLeG¶0Ò ãšE±@NK	Ù£unÍ“C%UI2Xá¹T@åEˆjJñfA²R`ð"Z°0…6b•…ƒÁê„,È-À\¤QR,r	d¦1no&Tƒ$6˜.NâJþaˆµsäÁôðÕsÂ/Rø4€øás‘§«@"aŒM—8—#ÚæRÊ°Jã%§	Wî™À” qð3¢µ1Ž‰ÌõèÞkŽ9Y\«™`EÐI×"öšx¡P$@ „¢a#†¦ —™¡z”¥å“&•ä0Š<2©¼®JbL*(·
+¸²µ³Ao3
+aïrj~ç3¦	Y-Ãáòø>øY;q‡^)òc/%µ˜?¾yDÏ‹zuK“~G¯Ç©Âb2¦=y¢>þ.!Ú-ì,¾ßõGbÿ ¾g!3\®³ë¿s˜ñW¸;w~o\%Äù÷©ë’ÿ ¿÷ŠÈ|ëïÏç>Æ“9·ýûÏ<póÿ Ï×'oùÇëˆù)—95B£Nð‹@b\ÂG%)(‘aŸWI x:ôèZ ÛuáR!ƒ)¹ûÀ«8:Ù”4$Üò%Ï0›¯9 ÂÌ02Áâ Q ‰¸‚¶5o˜f(„C–¨”0c`åÁ8 e§“Ä€g¡ñÓZÓ ‹Í³XŠG.)ç¤¤YÐ»ÄÉ\(rRB­k‹nCòEòFøõûÛh.˜Øá[ñ›æ©CJB¿lðô›£F7†ï)éyá,C&Î+ä¾”ÂÆI@@x»4XÕø¦Dg·ÐZs9.J¯ú#Fer˜L
+®A„LF1§À“™im³Öÿ O¨ã#–bUkà0âÞJ~‡É°|{ÿ ^"ô½Âvü¥“zà¬ç¶ÂKçC„ƒ\|E~ƒíÅJ¶t2Y*‚-Ð©,Šb©Së,S.uãxæ»£='™:žÌüò!†S2nÌþK×1Ámû0ž:Ïë<+I–`lïTÎ8Á@â£Ê™ŒIì)Ž =¬Ü'ç~}{x{ßïýük›š×þ£ý÷Ì˜p×ûÿ œò²éÿ ?úSÇ!ŠS}w¶ðà«Ü)´Ž7‚7 
+
+*P•'NØ…pg%¶YÂ±ÐÅ
+û²ðQÔ‡ PI„µuÅåhËe„[Hª„SÌY\V®Á‡e-æ,@Ê,Å=@‚Œg…";áEŒ‚‹Ä	S<ðD•ä,^, CvªüádºÈäLÃ“˜½3-UpXRÚVsˆ5
+` g83%æk¸S í¨¢ÖÄM6˜¡½F`W¦gLó¶÷ÙïÍø‘â)ÇŒEˆ"¡¥ÀãùÑ{€õ¸¬W°¯/M;lpf®o1Ê²<ó`œ9ph„)²Ñ(=#ÈÑÍAÜá<>,ÛŒð©öPTedIn$´Ö/J&¢É¥|Jxì!jø¹»óËáºèW¡*ß_àaR$²`·qÆ³®7a•7‚7ß0 ˜ðOòTÓ§’©mq·N«ÒäÅ7WM“ÌÝAp°	E“tqZ÷l²Y¦‰œ^8€™<ç·yùøäÓÍ#rÝÈ.7Ç#ÓXtöRW|YœTžóüŸß||•ý3ýüð°µr—AþýñÙoÈþç3Ÿà7Å?›Àúzþ>qÐg‡" 
+ì:ÚLJí/Ð†.CÀp ÛŠ©Ð(oBèˆK ‹T¾ùCÁzÊMº»¤@j¬‰S¤áÄaÕ»A82dyIÙz©R”ƒ„QŒ`ÙdÀí¬ÉP[-§“¤Ê
+GÌ›N‰!)Ž	B3œ  Þí5,È~zËÃ-Y4	Os§„9ph#Yg¢('Ï•	 ?ˆÄC»Ç;ðÇeÊu…²ÉÍU¨3M
+G}¡UòP$£¼ôªØTÐï‹j–ò+	1D'–ÛÔQ‚špÖŸª**ÁL:XÊg+–8Ì2†”.ºÈáá(Ïn ÈT
+—¾ˆ›æ€“Aìö…2aäÍ1¶„Àp²#ä0ðÜÚôþ\özz;ðCgu‡3bÌ=eÎÀÎïÆúŠüñˆµg#F®î=ñ€ÙÐAÃÜÆ:S¬ûúS4Ð€“ZL;NYg¶hW@ÁÃÚ8SAÜH2‹»°p4`ÜL Õvà«Ñ²p 
+h«´ÓBN#-­°æÓÐ½hò­à­9/‚ÉÄNñÛ`Ü•
+\9 CŸ6Fï„éqó}ÿ ðë|ZäÔÏûýx¬=üç‚A{þuþóëŸ°ý›ýì§|˜UR± ^‚vR‰¨ø3Œö)Ð¦2d
+½„ààAŒÈ«›ãmqÀ »T Èx.{^øQâ*²Ýñó´Lp©L•uE2Hpœ4gèYQ	DX1We÷‰àìh`#^‚ fåÉª^ô*Sµä@ï„†³
+lOŠ²
+Ìhã†\4eK‹Û¾®¸$1³^Å§5ÃäI|¸*làqm‰@`Æc]7âÜõá­\ò¹A)Hø(„áÚ§¢öñhLLì‹1q—=0 DAÀÃ²[ž€(0ÕåB¾TpÞb‚Áñ0à$æ¸MÐÔÜ¬7ë\ÐR X€Ñ	ç4âE¬„|â3:9@ÅÀ7TÏÇõÃþPçAûOÆ8Š¹'}@ðå‹`´á	‘‡€7÷3Û–&ÕÝÑÑ‡ß³® ”÷4NcÖLÇxõ'88_€Ú,Lç×‹íÓr“dF2æ=bJ¦ f¤C×-©G+ÒN‘\†ã–.­œð4£°,”œÒÎf©ãX˜˜Ë|•G>&FÁã…fÚšmvåÓÌ»íxp(£;Ã0qr1]‘ó'`2p2½c¹‰Kvë—þ'¼h=0 ìf~á%$ŠÀ9ÆU†Z€l‰& 4½•ÉÂÍè$ÆJ†<lœ%6¡¥XÇ¼ÈzÏÁf*Œï,ÉpiŠq–¦FÂà‰Fµ¢bÔÚ¹RÍMœõM¥3VƒÜÉD€£;±Íœ@ÈÇ‘€xÐd|œ}\ôGÛy)ÔâoF]€"–kh'&Hé,X†‘Æ:û±æ¢àß,/P¢h	^Ê dCâ!‚HEwÕ¢äíËugÈ¦ åÎ	F¸iEJÁ3ÁŠ	Mäå€mLSAÜè…æJÀT€‡Ï8’$|<3iÖé£ 3œ^ùÄÖH›\ ½.ùS©S†„11Û·
+Ç%&–…6fõ¹t
+"RÉÛGÙž¯Ó€4IŠ=š¶tk9	¼¨Â50øâ›hu¶3R„èŒ¹â˜‰˜&×Èó/‘1Ð4*å‹SÊZƒªn 61Á§0˜ãˆ%´\ ÒµÆB*ïÔ*›Á™A]<ü†1ë‚·µ[]‡RÜãZä
+Ï³XÍ7Þ7=ð²+›GÀÃŒYËX"÷ˆƒ8KËï‘„Ìïba^,— ä!ÙNÝ›l`.ÓX@éK*è”@Üf	W¿ÉÉã|BŽr4pçõÈîÊp‰ØÇíIòp¡KÃw„ú]œX ž@a höòbà1¤H<DÑ³$ÅêÈÄÌ5ï_0Â ECQj¸·n0Y\€“#síãÅ&…~á0½Kdq†é¡€‰1ÚòÓñ¢s±_ó3šQ¼¦,<ÊxÎ®û¹ØMÆJðùüFù©x‰”ÂCH•,Òè‰–EG@mEå•’DâÐŽÝ Õ“&y‰RÀ—†Æd˜3ŒD‰°^
+Kß·*`¹¢Þ–Ž'H3&fC`äWÊ6Ê_[Ð+JÇJòX³(	"\Ijá²ˆ8ª;ï¡=ÛÌ-Êîâÿ |¡%¥éÐ¸áí «ò¼e½g ±—ÄÝ<•b8Âa—'œîcÔÇ%„ò–I¶¿çŽ"<Ó­0†Ú!<ñÄƒäƒ½R!Ñx%Œg )3ò`´pÀa&5ÑŽ	§k0r`éTG¾˜Óp²‡‚´ËÆ”¶aZ™ón*oãŠN˜à×ÏdÀ}òX´=uNýÿ |'}”s«f1Ÿ‹aÁá1°Í ÿ M¹¾yn)7±orouçóÈ7 Ÿº¾¥É\Ð$ðl:È†¯ãÏf&š¡P~Ýë6Ù(oc1ó7\$Ì—8Ójb„iÈ–zÂj÷Ìuis¡ž º(•wÃ…ˆb‰!P(·ž±CeŒRk„©ê‘Ç5ÄÉˆKø2+¨>iãpn5dÈ!Òp(oR®ï#°ãð …>jÖËÌ«Ê†
+ÂªpnH™}Ð²Tù:Ÿ"€©ÌÃƒàtrµZ/¸åP`ÃEY€cÆbÏ¶X°NŸáLùSM®rÀ&}CP‰\óigÖ@M.EÙzF˜Ã&á™šDÛ¨WÖ<ÃÂT6½2™êx¹K†ôu3,dÁÆ²†¦Ö¯¥ñkÄ8è€ð0TWxGn,µÃ6mµê™Ö9š©mŠp(ÈfËÆQÆ{Œˆ42®`áa±`Êä·‰ðr7Ç‹Œ
+ûE8ù#"^Åðö »‚HÓVšEû€²™Qè6LØzà§ Ê<,^½òÜq $
+7‹¢~Iä‘'.dÁ—ébæo[Ëxš<~Àêl‹Cd ¦®md#˜U?‡0 `âx1I©ø:ì¼¯éu#Vß\“pþó¯¯ë®
+§Mòd°?ÃÈÈßÓçÜ‘u¼Wn¼zßŽ­Ã7Œ¿§!z¼Æòâ ´4çÅã&Sé<txùåV,:84’œDàYq“¤#3*‚ yà.Â® êc­å}9²p™ÎÌ‹dÂÞdEŠçØÌ2Z-†òr1ç5²Y{UƒÇá$G˜Š‚ætSøfTçWÝ²‰ÓnÃ[Î\öµpÁiœ½d* Šñ—fBjƒM’üølà!€ShV;ÍàÃžßANÿ ~„!Êù&Ë¼¶g®EÓ6ÃÑ0nCùÝ%¬°6,|[ŠÏe|`Àj½ë@ÂÛén†^K2%'o#¦x.™ƒ+:wŽ
+e²Le¨JÒó@à1°Œ ŠîxNìÃ]/ß—Cî^<9ß¨ð{ÁÖ@ð÷@jƒ£Éc"f³”8YÏ6W¹œ>69ºÈ¿#Xxžy	@dÔ@«éœTÁ½¼¦ÖRÔI)ÉÅ[ 7(ÓÃ>ÁžR˜Äƒ"s4–˜Î'(ßÖ\ø•)eU,daL	œö&Ev8‚¢Až°E˜:‚ñžÁÝ”îX5ìR»ð/^ñüqª~Jïÿ ¼Ø"¬ôŸ†øçWŸÎ<wçë\I¿š¿ä¸ýònw¥õñ©þß#+Ö!GÙŽpòSØ½½mw œBÄ "3KvÍQûˆâ”¦Ô¡ÃB(Ît.qtƒ‡$èEÂB”—Æ×›—Uî(+•‰S„õìí‚h}NNú'C&C_Ÿ`B1…øtîp¨µWŒm‰À=¸8ž”0‚ÉWS¢¼’4réËùØ#/AÂ:‰èÊ9¼H ŠvÜÚîàÀµËÑ=`x†”›%¹fˆë”ØÃÖØ {0%yËT‡IÀÐXÅ¡Iœ‡¤´QRtüùH\œZA³&S¡Šø›¼*ŠƒöÁSGNßw¸"‰Ëåêí8ÐMn‡9ætÆ‰3,’#aQÏ…$)é«n)ss$6 ÆÖ1Dao'´{#¤ÎS'[í8²âUÆÅÁººŒœö$r(l\}:Çyãä9–ˆ1;.³’Éx½DÂ+ömÕÆ‰Ñðh3¡ï•Bx,\ëØÌë¾¹%TBPÈ˜ñS ©^2î‘Á»¹„¥ÌÖä\eêER A¹=°y #d !‘þÍ½˜¡T.k®†_¿8~g®"AO“=_®ÜYeÏÌzÌóóÀiƒ'•¾qr<9ñÍ®©|þ§¿\Úv®Œî½¢Vs+¹ï¦]iüs€P©Ë¡ÓyÁâ¹s„àà¬”9¡©g0Ê+fa"¥ÖÇo!nñÆZp"
+|‹Ç Cp®„.v24¥8gï>b²ŸAx´:ÙCáwCõá¢]É.+›)ˆ5V•¨`á<Š®¢eúZ$ø˜uªÖCžc9™–‘EðÚØ£Óc…HÜX.VèCåâáÎ‰œ¸, g=Dx«R£²‹ßFKÄc]0•®óÂÆ3äk»31 GJÚ‘¨È–+’Ä2_aT8@\ÈäaLÝf¹#èl²¢€†’nŠb‚ VkJ£P¹kZp-Ê+êeHxåG	ø
+d·%“Š7…lQ†¢OÌŒ…Ñl9c\È]Ú˜1ºÀ¹l<ÄT¬™yIå‡}çT}*ù\Ž@ŠÂ¢í`?`f, 'l9BÓÃx¸UºìÐÌßkBˆžPÿ MÑ%ÄÆ@Ëž¶)9«‰HYÛÐ‰F-Ë^m$!#$a‘„9”ƒ'âÖaÖH|-FÃ@!ˆ¨ˆnFç”5JŠg²sÙ`E/ÜMx2œààHÅÏç›ùñÑÇKoFGÐ¦úÇ×:326ZëÏÈ[‚L»XkaÁˆD¶É<c¯'Œò.ýÀ]Ÿ##%lÎyÄÄFœ‚åM
++§2ú(3‚/c…[d
+¤ÚV)à[ÀÞ¤ma˜$QK“ÔlI¤¼ ÷a^P·ª2
+ßv•ô	:ˆMÃe<œÆåC‹mùÑôVÞ¦àiêp‡§=^«àpƒ‘Hˆ ­ŠÅÚ$\ò¶€ ø%—Á2JfÞÁ„i‹˜MeD (@Œ
+(Cxh[€ReâŠÅ´ƒr"™Q.€…wÃaLÚ aCHN˜h‚%‘:ˆ#”X:¡ÑpŸ.*À`Áèl4 8¶+qqynÂà™xMJ±pƒ¢;ß=ç-¤¤f1Ùï’
+)û#ý‰¾‚ >\íG‰ãß#XÍ5AhQÐqÂ²†ÆS5¢³7×2%ô¸/’&E¯—n£¥š³tâˆm
+8/Í4ñ–f¶GJÍ¾s©ònrØóª³o\ä¸ü8ÁÍhtÀA;
+äX*Äy°7¼t¬dbÌs8D*ˆ©I6Éâ›ªÞeØ‚ôQ|ƒŠó­PâèïsÎú²¬ºÔŸìðEviÂõJ§;I.±ï_z:Éë—òVÆobÜç|½3($˜f0·9~g3TÚŽÌÁÔ_ª·‰e,­Hç¸¶e#Š!yj€Ø“ð^ƒËLlqTà`Ç…D½-J&ÎhÊ¢À½e5BÛ$%œúÂ/è<•ž!BOâÒKÆipŠ&R§>Èî,xG¸Ü„FŸ~"´´{¦U#xÍ‚N8¬tbdÐ·¼VÙ‹v È¶“	Ä Š0`—t¢ôðuW`Pô*){¨vI™Ð
+õ~›/¸(ÅbëŒ3…ˆò¥4Xváå'@]²ÐØ=7|"ƒVÉ~Ì9àDË¥0t|“Ë<C4¢Èƒ2­ž5Í@NÊÆò3ÐsÞg^^¼±o}kŒä«bÛ>M Ñ‰Í£fFÂwc¤nÄxÌÔ{ÝÝ{Àû˜ÙÁ¤„Ê;*elÿ JŒÉ>²©óÀHÔæ¹<¢"Gáß ‚9„Âí¦ràžL™»™F«ë ÷Ž,ŠZ³#×Ìà~%	U´h%pËÅÀêc“§AŽ³‰„K¤ÚÛ»ÉI"î3×¶ElƒŒP‘ï& !^)c0 ec4SOV®—U’dPr
+ußãæÁ¡auðý alG²Ãç‘:x
+ãs¬¾Î3I5‡]öÛà|òúÄã9ÆÜœÓg—m€²)ˆX'‚¸X4`d@0p—4;.
+H#ðÁ°«J¼¹‚ 	\K ÂðThôÊ rsO(Üò…ì1iÜÃPHqL2SB”;ôaizà¿'‹Å~DO0¨]‰spŒÐÙ÷ =Y’a|fšs¼ƒu¨'hIéÍÈšº—`DÃzöˆÎSŠ˜	–ô[ÂÑÆ:ì¼¸‰¾*rEÊ2ÏÄGJËÒ%ð$@îƒÖÖÏ˜¯nlh^WÑŒÅÈ¶0ÞÔ‘ä…L%LÜMà0’>ŒÃÆÜFÌ½w”Â¼’M‚:Ÿ‰:éßüï9…JDšçû#|Sâ‹ÂðKQ"×‡æM‡˜VKf8L–±ñ!JŽ¢7»0{ EÞ·ž<Px–S4×n1&5ÍàÒ2ÖLg£j*.oJ>ÏË<# ':ymNÑÁŽÐ5UÇ”-(9Z¡Öœ"BÛ¾ÎB=# â‘ª@åöq'ÌW’åDÐQ4Õe@Èà»=žÄ( †Ç‚ë¹Ü3€¼G+¯(DŽ–å@|ÂÊ€ë½TRœÌ“ ˆá‹Žb;ÞwãÙög1\^”6|¦·ÅYÙtƒ©µ~Éï˜žv&úÐº$•ä¯
+Ñ“Z š„SEÒH‰† ˜—n1XwLÂ9#ëD>‚TÇŒWmoè(eÄG&àU$[€'Œ—â9 ;&êfLýL‘{?´J‹Ù·|vkRƒ+å£Wj{TOcòF(L5LE®LÕ¸eãÁæèž¢Ü#]Ûm<ŠQP$!LÛðYÐ@aðÜ'BN„ö<ÈåPmé…ÖK|­6¶=QÒù`‘€¢4í¶0gÂ™à”­\€A¡bFV"§°ŠôÆÃ›¾z@ ™"àtcÑtk,"óR™Þô)ºÊÈù Wb¯‘­Œ¬E	‘T#©p°!=á>98VRåÇƒ†.›ß	E“8Cw€Ž2“]¼yÓI÷F­•8}À•±‚/kJÅ”ñeð=PÜIÆ.U¢Ñ¦¶Nl‡ÆG¢ôCÉ¾+LÊâ2°6¬XsÇ”!½0{4pa²K¨°<±¦jRü|„á›û»ù&ƒÝögHv.€HSQYÔ°½žP‡hY¼q×±³2à1O(Á±s8¢µÙ@je1ïYÕ*¹5À2wä•9š‘á>[ 1áJ “¶àJÉÇ1¦¬ l­šñjÞÙ<@E
+z(v3Fö4o™ÙQG‹™cC¼S~8hÒX*™4t¤üçAdP„°¥Â«3 ,M³4ðEõ{J|É` p2øˆÈvÔ11¡ã`,|AÖÏ>˜às5U`À@Ç*rÅ˜VªÑ™rf>„åÂ¡®Cž)>îH$5ù/†ƒT¾€Dn¹™…É‚u©ž^R§ÝC"±TÒEÀñÖcé˜Ò…c;ÏßmžÎþŽc#®¼k£ýãŠ¤v½Oóß^³Â¢Sµ3ŸzûyX4˜“ëï÷õÌYßw:{Ïÿ 1*ñI!j¾¢ENYNn4¬k -åp"µ”Z$¢À¼yÉã;™Ö=ÿ ×1ALL„JÔû;À¢X€WnV­9‘ø8vq•‰2™°i„¶½¬WoŸU‹ÄHÄ@Gˆåªy«xÅ\§2ró ÐUrêáÂôr	`Ânaùkˆ)n•8ÆiGö/žuúnÑÎ
+Ñ ™W[J•)IŠg¡ì:	SÆS ë‡Þpo D7³~0]Ï5h¢XÉø%Úgg/iÊ.écEó±#d<¬·Iœß¾9$|&3ˆºíýW|m<E}YyÏr†¨ˆ[W·ûæÓØÑ’Ð${ÒÍkŒÔ ‰ÂÐ ~Ï+3>ÙÆÏ$r‰@¾àŽïFcÌã¦ÇbN@{$&)½³Øø„ÒñÑå!çzë<ÒjÌ^÷ñrañç˜AÎÊwŽüž/Ö¸1ôö8Ïûïài½gëß_[â¯öŸ¯SÙ(éÿ §öûF!ú°”¹^Îxíàh"7×Hêža¢Ù“D:—r/3ðÅŸÞ›ã«¯v9´.×¥‘Š—ŠŠÂŠMÉ bg¡Ï €+Ðó½.}eáù
+™À\‡qwÆnC.yéÛäâ9J‡µº„NÎF -22`LmP]ceeƒdyPK™›ëƒ‹ £§dzÁç×0*ªwÝÆIÍ4ÍW¥B#‰fn²t
+yäá-Ç„ªlPžÏ´#êó; IpÈ è§ØŒ|H2¡l*+æQÀ'ï¦!ÄsÒ<)á#¢Êøñð‘É+Mg‘m@†˜oè™SHèA-ùs÷2,:<¸&,L©É©<F{2qî+àÅÎéÃ›i…ìÈóá»®X¯+½ÿ ómß\Gm"1Œ“÷³®€ia{¤ïcÂ=-<„‰áÿ ¼ËW&Ù%"Ìo\ö{c9))5l%—¯"‹Â€JÓFg}ùq†FeonKÜÏã\ìLfLAºð:¸qÂÌ†0ž#‡Ë¬ðÕt`è>‡Fißæ¿O¾õÓûãˆ½K|ïŒ¥|¹úî|qCWËs|Gÿ xRœ,|‚ùqÓÇ´CG~-„½râŒ t]`©‚­åZX²Oà]®n¬»¬ãµœÈi1Ç«ìØøÃQUž.Ò„‘aü v+ðMñÅb÷»w‚cÈüœÄºþ”½¯`”p³7\š>»üãG&[ñÕÍºn¹’×o˜ÃˆË‡•ë:vøúþ:ãvOÙ<Üo|kWVÒDÈVˆxQ”(%†;ÜvÎjFÄ/”5&àè¹P“jE"­5±5nÇ–7y~p	XÍJösƒÃk@A§ˆUÓ9áƒñh‹ì{%í€¤°=“r©0‚X¡hÌaP&-#j#´W®áý{"<$Ñ)X–lý®u$0g¡Q_4;og y&Žr_¼ö×$h:{Ì,ßž:•|ÚVî !Ø·jY'eÇ	5ˆèa1˜2ê VÃÓ0*¡ÛÆC©x™Ñ4Ò00®EŒƒYxj%ïkQéÌ[‰˜p›”£Žõƒ?E'Ê2 ‚`—¯=Üp˜Þogo}<ÅšÂérŠc1ÍKÐª?.ìÆ>sÙZÔê“pÔ]óoò2=¤ô<ÄT)mhHÛ^dé§ÚŽø>ªc³h*cÃÊÀ Ûô`°•Ø¯1á—H8ïf)¤^&’V9É„c×&B1•·'v\q@õÙ|öð‚3 Aòlt|ºÁXýtûwÂ®3Úf&qúuøâù)•ˆ·&5£¢×„ªÀ Œ˜ÜNwBåjÀpøÁ Æní5ï¯||rÀ
+xæïÔÊYD]1ÄLŸc€3ÉS<tèS„š"ŸìÐ¸á“Õ ‹tgUÏÛÀ&5¤&Š{#`Jí‘Rð¹/LÑ ÷3,S“4oâlá¼Ì¸6
+hÃE.QëÖ“ÑðUG%ÀÔ!£9Š†?SDÇFÌî’—ÉìñÞuß4a±3c©C5Oþ¹T§Âá üŸz|¼¨Ã6Î'Ë—ãgÔÚÐ?7Îo,CùÊn©ò—’„nÈ6>ÈåIÆán¼ª`¥>FØ³BA´|ŽÛb¤xs/ö9F &G3mz$ëc³Ï×¯ÀÌÁ~	ÌË°j§òzs·{átÈÇ°oÆ3G0æÚLW?!"8…Ë •ÍécqÝâaøDÌÑ‘ù-*är2àšdÆxäcƒXA…¥Là9@Jé!îúp%ë +€ÓÖØÃÇ±w.Ñ< Íª›H)¹n‘rç©“ñÀ*š3ÀÚ—MùqX1¨´ÌÉé2l_•fœ¥A2‹žÓñu|ú‰tQÎ&`ÃÉáfqçÓÕõ®J„vÎÆ­tëˆÊ|‘<ò²õñ¡{š¹ÏþËò}ð|
+	dQ[ÀšµŒB%¸9 1x¼œFK	jy8” Ë×­=áS>÷{àaºX?n„²qÌ `ÐjÆ Ëmž
+!6M Z’q”îDÄ{0S~4ÒÁÕ
+²2|4Šzàƒ.œÉ¨A>QPS ÒÐ»Œ¤	Ék¬›x%’¡¯ÃSâ»ðÃòK˜ÁdPËÀÆ¡¾QÆ½Z}ÐSpH"hb”\@÷ÝœNHMLT(v\ãPžy…ß%s3ùåfÕå	úô÷Ã	a;ÆM—}ûåÞ€½ËXä~¥æ:z 2v3b”H2A°"1nL!X „Î,.ÌÑq7Lœ°Ù‹¢.ø‹´B¯E&;ùÇ*úNÚ<ârX¹¼”WˆÌ¢„n„êòœÖ0¦ØÉëFáÀ³ûÅsqUH§^ÅÎMƒF=i–×–…Yš2’W<¤ânÌ3}­1–Î
+ ©(üeWð)6ò~”©àBªe¬“šv1´v‚¿Ûâ‡lRµv_ofkÃrxb
+ÅX..x:â=ÓòÐw?1}‘o¤ŒWO+¦êò‘LìÙ©ƒ³á‹‘N½dï³ãEóÈÆvøO·Y3ÜÉ"~³Py‘Nˆœ‰6Å’Ç¢QÂ½0qlÎX¬>î™·}òBBÚ³hÁ´$5€L nyÜË{$ ­Ðr6¶ÕuÈg"eít3¡¾§Ð(4
+8+^—ò³ŒD}á“@Ö¹_¡l	.d‹“…»J1ßv·ó8Bl,ùê‹¿<È Êa`’æÓÌÇ\¶B‚„pV#¤ˆæ†ëYž®‘íé¿Xã\J\Èôp8òð\K0¦•Õw÷Äø£@sNÎìŸ§&³gi„ì"tcœâÇ¥’ÀÔ§ä`“b®ÌïÜqšë|€±Qr›œ€-Þ÷¼V‰ƒÐ³©Ô˜!üªÂ„J0tPSšDô –§£„eÄ”¤'€£å›]ò¡ŒQŸ@”&pLçŠöBëFà#3.C\Ø‡@OËg`+Œó’Š;rg4ö¾3Ì1y=¹×ô#×0¹ÎÅOÍéÛÇt¬OocJ$¸Ç
+ÝÀªÇN›Å›aŒÜ9ÝÉØ…ã³•ËaÉ_(
+žl9›Í^ÇGžèÀ/xa!?5pÄº'£|•àûc^paÈAR‘6Ó¼6Ì’Á…Æs”j¹<£ö-Ãýû/!#ˆÑ=XdÝÕy^Âv=zqÁ Ð ÚãQÓ\­ø8Â	DthÅâ)ë‹#Xá˜¬Œß›"²ãú!½Î86ZûL&q¹xUDS#4/ï}0åÈf½hCàd:¤I–„´•L¥ëÉEpÃ·eÐ*5°[0+³ŽK¢›ªIJÉØ†UÃ+ÌçË²=þ¨äß=vCÃ‘X±öy½n¡öµ¦ÃÆ¸[Q«€]*&á ï‘C€¢»ïM¹=qÎ'jÉˆTÍ,¬ÃYÂì#•ôã²g\SÆJ–-]ä¬ÌïŸYLEi1ÂT°Ï$žKZ55ñº±½ð›‰12vœ¡ËU8'i¼3è9Â°wp#&ïj:^Žø × Âô"ž,z{,Ûä¿gp9ëæjç;^Wêˆ®62 ã\‘(“-u‡"vŽ5ËpÊÜ£—õŽhJçAÓ0ÉI.\š9}àÃ&ŸxK=xœÉ¸=&D«µÄíY§9(fAÎ[ð¹¦¹œ£!~€MÌ«—	44¶®‡›·2ä¶–˜z‹«sŽ¸P¿p
+ü–çãÏ•UÂ0\……§ÎÜ,¢·GÌµ<j<«M3‰á@½¥§ì˜XeŠ¡0ÂôsjE.¦q¤d5À‡ŠŒÔM;Œâp‰‡®çN¾8;Ýq©CÇ³Ç\ÖÁ‘Oâ™+Ey€ 6x0 î‡]‹|ã×..0c×|@"ºì ª†šyˆ@Ktñ¬7°8óP}ÊDÚt^M¹ÇzÞÝ#HŽÆkg-ÊžyÅ w‡ÝNª]°Ç	KŒäWžNzx	3FÃé¾B†DÓ²OÌ^f+³SMã
+ëÎní.×)Ð7<9ìL'‰v.ê×³‹ÀBßÊ¿µ•ƒD‹#i*½çÞ4õó®€ä6$ó(¶¯ß#ÜPŒ÷­ót—ëˆS<äö´SÔ×ß|d‰†sTË$‹˜“208“rk!ÃaÛÍç`¨!Ó÷Ñs3Å¢C¼ ¿;uÝ¼%Ì/uK­¦28Ê¼EîD¨–T4ðŒŠ2{s¾ºõÀLL‘@¹|@ižl…ÆZ+ä$µn¼]#s(üáyË.8!Jßi\­ðwõbÑdX°å1‘•ºIy)©!„Æ;üg|¶i@ÛøËÖÜqÁÏ†ƒ(0
+—ûâüìP³Ô§–`‡¸ˆÈ¬%ÃLÊ†±ÃC¯3.Í•©<%'þñQKÙì:r`å†HËàÓ¢æË’ñ\ŠÚËß¥ðx1ÂhÁAÎÌÀ»ãñTÚAä‰zÄy•t®°‰d ºjnðÏ¼=ï™!Á5êƒ“~úÎxãŠG0`'äaéß6èØ3ófÖñ62˜îúñŸ¿¼­¶ÒŒƒ£ó6o‚Åò“7¼1„5…;s¿’ªÎÖ½s|BªìÚ%LÞ™ÉçŠ_´#˜v¹½%Gå®f‘¿-fíŽMñ)ˆHlQ…ò÷<rAXÄ®ø0â¤œî’z»:5‡µ×&°Š
+çôÉK¹¾#
+‚Üaý˜Åa¾5¬ÈWÅðmèùåÃtÉé>3‡ß"PCºœýõÊn˜O	FžyÅ›b=œk§‚Š°z·¸O}qaEXêÿ ÊM©½ùÖ¸ˆøCÖëåwÿ IÍV©9A³Í–ñ}°SöÎ×Æ±üpeŸ|›è.×l"Sg[ù\ñÝi…Ü„¬Ëª–É99ý€÷MÃiÞ9d:1…²'¨ær öÊRŒ’Ó-ÓÍêš48?¬ýµÁ„,b·pg¨qÀv†r²g'q+›µL6öuíŒ™f¬v¶c.Fc”ÂÝ08D§£zÇ·	"aFiÊoÀ­Î^ÔìwgÕµùR¬·äŠÏ¶Øœg=Ì¹¾|O!ëš[iË,¿~ø1à©³#\CBáXB‡ÏS¹ó±¦ÞÓøYÕxÝ!†€w÷ûá:_–×þ¯\¼!¹äøßñÈ.µ;,ÇÃ…ájK2ÍZÑs²Ä 5;BìïâPœ©· åhèv»›5Â×+ÊfF?5ÀýWÀ [g‡aW$Öv˜uÁ&®H‹“ië¿¾-k]^ºg¡sžøíè ]Íß|Îb’2¸ØÛÔýñÄ(ÕÁ ¹/í®Æá+J;ÖòÜWŸÿÄ &       ! 1AQaðq‘¡±ÁáÑñÿÚ ?*:;¡„..ºš‰r
+&ë õ{ABDŒck˜Gµ£¦JÄ#·ÀÈÂÚ1ÞË¬­®4Ll7:ÿ  mŸ2`'# …Ìr@Px³{;ö½	Ñ¢³ô}U¤<V¾ÿ JH	Ðô‰ÒnjH±»<«z3@ &pËK#¤ž Qv}tWìç4uàH=×íV†#]c¡·N†ŸöÖÈÍ¼»ëWÔOnäâ"Ö½D]Þø«b¤¯sÔéóYFí·Ú;QÉwyçÎ”Ûûµ×ëË«&Ä¦Þ*'i·ú:h1‰wWëŽ
+ckF5'@š-à`Ø‡¹é‹QmãmªR˜ ûœÞ‡N\Oá¿:$»x½=HjíìQV/nu;Ð#<½Œ@øÈ©R1¢–ß”›ý]£ƒæŠŸ½èÒÆªy¥ñìQYqs–¢ai¯1££“›ˆíZ|ˆÞ¥Xr,Éù"ø¡7›—àqZÔe:ŽR‰±½ÇJ>Ä60¹­S$Æ$ï=„R	 v»{†(Òd—Q…½íHÞß–”€ô€jaœ¿)²#˜ë‘
+1ùB¾ô!&X€@>þ+=˜xïùMƒ ùÕÏD#tDÏ-/HëºçËë5veù7õš"ç7´»¦³ÍÞ˜?Üc|©V}Ð˜L½6+Õõ ‚ˆS¬kÒÑSDí=Ÿ^
+¶b8†JŠ+]‰ÅûíÇE BI1l¾œ3PNòbÖÄR³“:køèg¨÷½¦†JÈ·£ñØÖ~<j>F]–hÕsçœµäÂå¢€-Šz.îÕ-¡c_í(Û~_[´é<¾”Éh÷õÞ¿çºò¯AõE™²ïóL$Ù>L¨"ö) –ÊG¡Û àH¤âN`ŽÚJÝ`eÀ#cöÆB©BDYØj7ñ'¤†Zè²g+Eàg‘º=.{-u($d@(7Q©£¢8ÆÛš×†ò·fp£¼ ˆ$XÎýnßmBRCœ‘`$¶ˆŠº6Aù	ÏÔŠ" >º-¥û*—ÕÛäqÅ8Jøë½Ù«¶Ö—±¾´I‘
+w‡móƒ}éŽ¶4€-ïy§ °ï‘	_¨ñA¼#Íó¦ß  /…÷,…Ä>ç‡×¾ÇzÔth¶µ$LCÃý¦êoÀ9›ˆs­¬-¬ïš¸—/ö±½0r )½ÿ …K›Î—t(s¤1Ý~B)˜\çZÐ²*€†RÈŽ~Q s,m×Ïj"
+þëëÉ	“…1Ït„7ƒ¿4«Z”u—ë½!Ûz×°FÆoñR§>áFÒi°ø+Î0
+¤±ÔÝ5£Þ¬bûæ{Fàü¼@ «/Ñ;œo@stØÓ©Q ;P!,€ï,m£Ô‡]¢ÍXX€w¾âŒáXîLºŽ^ƒÓ	³i(ÏµB5si+ëvK‰Ø ßcØ”µüdk‘}S1G# a"g]6‡š1%`Â3‹YÞµ@#×[!›QÐäœw1“«¢b\,ž§°Bâð´jŠ Ú €ù’	xVL¶ã¦‡Cd<®Œ¾ÑDÌï$¾Ö2&E#qÉÏÐ o'ùî œòÛDmFË²AH6ROö/C%(ü¨=±kößÍ5Lg(Y­£jSC™¡4„ÈQˆoÞŽµçðÓ¬0ØŠ Ý%@ °Ê<WÙ÷º¾A´Þ‘Õ‰*Ö£åh+Æõ›/àÅj°lô·_ž”$¬Ï/A>_6æi«ºþ*Â3Â«ÿ )ld4ÿ ‘¦ôC¾px2é€=¢ÄCú £ÜDŽÌ•¸*ADÜÏFOž´" ™‘¡&Òí(bâÖ1¨ti¾´Ad"J%–€±êPˆ&¾qô%z4Âh°»†ß´()î†™p¦€$¿eÎiÑÞ!ÁÔjô…¨C¡
+ðœDÎÈø¬™u}mr¢U<X‚³nÈa}ZÔÐød{ù4\“=J×Mzõúk>Õ.B-}[DD‚&æ d›¾N¸ŒaMYL]¤3{¿ì*9…ºÓöftÚˆìÞßœš/µõþzÍ«MëoWŠEèXú Ø7ð¨ß§<ú§.åãÒÿ (¥ý|ê0zg 	ÈuÏØÑz +:P–V Zô-k‰ÛL}Ðc·9mé ‘/œtS ¿9jtélé¸á¨#á6ñRu1=µÈ‰VÖ³&c:)|Å…kÇ9­'‘ÃŸŠt‡K¿}ZÅ¸(…“;¼é¹/Úu Û§ãr×ò€e².è„ìÃŠ@3d†&'U+=é²¢UôŒ\Žï!ð(1=ñ`uFŠ±6‘ºÑ‰¾h…—f‹ØËeJ£2¹È„„€™,E2Øi0„²ì™4$§6_ÀÄuŠ(h„‚‡+«,Y‘Ši½šÅ÷'M‰dß?î˜3¼£[¸hz ƒíÍÉ©@!&M‘ÒuÍÃô@¡û|…OJÁº„Xs<Š#0B_Kã;æ…ƒºÇðpÎ”Td¹ &‹ºhŠå <7 ©Î’ßçÍ+V ’˜º„yžÇ÷¹¥÷f©jÑ¥ål¸L2!¸tnò;nþ¶t;‘2` qÉ4HÐ6ÛGšTž—[Õñ
+d
+g	£­Je¹›RÌú‰ókiE½ÿ º|QgìNÅ»ÖÙ}ÊÚhÑHüOã^Ô“ñÏçz'¿ƒÍúPâò}ÏßWA|yüÄû¯Žb¡1~L‹{‰ÖQbˆA ™”’rWx‚íâêEá‡×Yp‚ËÊ±=(Ö@‘85E0Ê ª|;‰Â²ºT*z•¶0¡uæ…Ó<D¤ÐI‚GT›‚\	ÎXÀ95=q’¼aÕsÑIìLI…°$lÁ¸nC[ ˜³bà[+ .”Ì&¡@‚
+q ‘Â0h"„D€SÔD¡^äYÅt´
+A¢®aÁ–ˆ&´ 15À–ÁLˆŒÑ€ 	h@bƒ(2Ð£D=Ál°¶IR-P†AŠA›äàjÕ›Û»#}p")è-DC†xÕ³ÜBy¦ÂÈß
+Ì˜@ÍãÈ7±ÃèhP À=‹Ûê†J
+þÛmË¦²FèóÅN×Û£M;ÐmA2P‡•OÂ!*uZô,–vs,©Ðd,`²Ä™„"W4S>ºõÓ»µJæÜ¿e\çÕœñH6.€Â1 îY¤ˆ ºÿ Nh)=ÿ ¾tÒŽCrç/¢” ¬ÿ ZåéL?6çíèQÑÝ¼uæµÛ¼pß¤ú  ñ!	ƒ Á5(2ÒWS87½.èe %’PBÈÍ¨Žð§JbæÀŒQ(oÄ›°‚sMƒ™	cL….(` iM
+A:QF, ƒ‡a‘‹Ú„z	¤DÀ˜,,‚°ÀLk€$¤¯*@ y()É¶Td&ÁJ‚È¾jh„‚D––Mh²°ZEÒ¤‘0TVê0à2¢6ØQ8 jhd# Lir…L^ð˜€< $ÄŒM.|¡»–….ìj ã¹ËŸ³w
+¼éJó{¦òk°ˆ»|è ‡aERAew®v§Êe9¨\H„ De‚p &õªiJez˜¶™4¼™€“‚}\K½­Éò$O[SÂ)æLj› 'Ö‚Ç,/p;æ)s ˜  3–l×jURHÇVe­pZÍ $é ”c
+ (Y—	”–&oáÄ@L“'¢Y]b‡I.dÖ€×pmB–äsZ~6<ô 9ïN!'È˜=Ž.mH/eïÏí^óÛö‰s?å09ãÞÝi¡ŽqõîH =ÏÍiU  Öa>‘B(ø /y!#7š+`µ¾ð ‹ÚÔH-:‘ 
+Àj>]—ëý×ë_nË­Þ¬˜<ÓÓÎÅ¢ÇclkD¢W'kÑ%…\øõÒ—cÎcz·Âÿ 5Q@Hÿ £‹¿ü	=¤sŠ„ÉJö…Ð|ñÄŽÎ–ÛGÐUÄJÍ9Íùj(œÕÆWÅ8 Ÿ­7Ïk+Ñ‚'¿”ø¦ ÌiùÒŒn£]EÅE´. át…†6‰Þ5F’HtÉ›¡®îiŒß\ðká‹EÆÅÊ`Œky£8fŒ€P%‚˜½Ñ±ŠQ6áci¸©ÄäQ—%PZŠ
+-$˜ˆ žˆ£³¥¨¡ ¬¢¶A©™$#YÔBMð§€ðBA—v¥*†dÀ±%!$“uÉVczk‚Bïz"úýKè ·O¼Þ„×¾ÝzE@Ûœÿ (Fœ÷Ìêd¢ A#,¾ÊúÒ'°;”4Ž”À€tÞ‚õ©‰$ÀÙsöžM<_z+;t×ƒzOö‰µ·:ókÓ¹¼ò8«SçëýíŠî¼R%ñî(Œû¡™ñÞ9j'Æú_Ïí6?Êq¯CÌ¾´©°´ü Ÿ\z¡£ç8i‚<ùµY™‹*tÂþ|ÑâÇç9&D­ô~Ö€ŽK\	0zkjQ$Ã¾MÊ"c. ½¾2â€:×“Ó!ÔƒZA3ôpõô~Àc'}µé4²%
+úè®{Ð€ƒ`ŸS99q,
+4i&,$A]S*(ËÌ^£Q$ËÈãxG\*4e€Q°âà4A 5©¬g. Œ°,$$¸t…NXï" @”mD“9v2šèŽ†tlw	€FêöÕ¼w÷³Fš @À–„/š°z}¿«¥tDXÞúãhñL±=4÷é4m9Ëþ}R›³­@zcOñY:LgŸ9¦Ì /ïÓåéà³¤ÜÞ„¼xÚ®|þøéšÀÇO{E@ˆëÏt !´¯sFEN£7úëYÝùíô¸]'œíAgë±÷§j 2ôç÷Ý!gOßšº‚í~h\ñÏòµCÞ™†%ÔÄúåªX:ØÈØïæ‡q¸z1¸uy#T‚­àþt£, ‘’›¹F°e[
+(g!™¦’ÔË„´)ÙE"Ç`„E±‘­7—žû|Ð#qžN“ÇEütìó½#ÇÇ^Þ¨€`€{cŸ”ÄÁ˜: ¡1Š9.XHèƒ¥KtnBû1ˆÕ€Ò‰};f¥KÏ—Ž”ch×ÆøŠ¼lRÊ eÐb‰lðm&‚oxµïõB`‹yûÑt®S€‘¦3ˆµ(×¸óíû£*#wî† "Ãƒ¡BÍN˜”l}``o0B z¤‘*·é€°1%i	 @eß¯z
+¾4ã«z^Ïž¨Í\s¼ÑVg=Pçå7÷Jæ„.~>ÿ 6¦™ßÔëOÎw¢F§#ÝèE>£á®­P@)Ùÿ +®x9z™®fˆ0F=fÆ…>zÉ6¢$r
+L6òÆ•‹®¸6¢¤{ ä©‘fìõk7.hÍ#3 ÅøEH°}À~-ï@EÀÇNÜ¢}¯G[üøÿ ‚ÜŽÕ.GCŽkJP e€G·šPKÝÉ
+>ÆR	 A$ ƒvè‹ipÏNŸ4WìŽãÏNkl(cœÇö¹çš2yÏoŠ2JÎ9TI^WiÏÇ¡B1¸Ä	"€å,IÑáJ ½ha9òØo6òf‚®€2ÐP¨fJòb…Aç¦ ¨½¯¬þ*^OÝºu¦™w˜ñFñÕÿ ?:íO+~oAÉ–~?•áù D~ŽãìÐssÖÔ¦ûÃOÏçh¨2M¶¡ œÎ?.¹F\çŠ mBÌ wOM±FZÒ`‚oÐÝŠq,‚n
+DAÞTêÐ1e¸‚I,_
+eäP$‚ôM‡¤Ãs°™& ™Pš‹
+ê%hw ‡¢Âÿ *M: ¼™Ð<;ÐÚKDAò6j’Ðýïu¯œ·å hï<ð(]øsæˆytN¼äRæiœ.‹·I¥0!¹K?Úx	Íð9a®ºˆ9„7·ºJ‹—~5àb“üåè°AƒkcŒfŠwPè .Yïµ6&QyŒ<D—KFrz,›ÞmÞå¢´€`Í[¯&
+A†<ª(25y”&–  ]Á Ë¨€H_Ö£Â 2P{\™Æ³kº*0EäãÅüNËç9½ L6!ÐÃs‹[¦r¾ªðG+±X÷ÿ ´¿<ÖB‡š5ÿ ÉŠkÏqžÕ"$dàé¶ÿ ”L;ŸÑÎ§þMÉ]¿QMÇ×ŠÅ  )‡¼NÆ1EŠ6Ò`¢FºS@v"n-„l ÞæJ,xf““Ó©!#@ÁŸ}ádBÔ•³("O°E[¢H_p‰ Mî†“(ÈÅ6å©^:O›+‰¿?»Ñw8óÎ
+~MGZ éC  ¶(k¦])C¹<8úŠ_açùhTÈnúcûPVý9Íh‚¬^-³}gâˆÁ2‚Â´óÂo.”°D7ÀQC"¶Ãã(žašp§¥ÿ .Ç I8D Ã¡€ÐÓ‰
+‘i&˜Éua½÷úŸ&¦fCwõÏt®˜©Ûåë! ˜ÒÂ”7ç-PÄúçšÎ^,pjKFºŠQáKÌºïƒZ ^8:P¢ã~|ºWp‰ÂÕHÆá[cb3©ûBÙz<8M®.ö˜Ò(',´¼FÒBr)BLŒ]8%€u£È”r–ÌØ–FB¡NÒÙ«õûÁˆ”(‡çAFÁÄ0¡ÌÜUŒ>šXa(‡%)‰HS¢
+ø*‚IEÍ‹£ëj4Å ÍÆ9¿^”	€mÒÏöŠr¾ÛÖŒµ÷‡óAàóÆ††D 
+|U¢b’QþOzÐŒöß:˜ a«ÒNŸ¦€¨Ë7öt¨ë§3Š ‰7,lCçÕJ–+ ^)ã4ˆhçA‹l0Ub&6A»Ñ Qš>ªWÇ3P ´X'çÁ`ÓAB7=¸-–‰AÌ=u«ð9î^é¶¶·zÈÛYÏNM~3/¿‹å]Ô*qmnëûœ:˜_Ç—u6 €vKw“çGM ÃúV¥×§!ò³wœ+R±ñ´ÇSÉ¢ ¢óDbÚÝA¡ÂjVëóAˆ–d”›™¡Ì"Å‘*W âhˆ°ìoŒøiÔ·¹ ûæÐïBb”[Ód ’—ŒO$µ´AÌ!Xd«à”ƒd±,S
+vräH0»=Pêï"x$6kÑcâÔaH4@€¨4„\hvxÑÐAn¹j›Ýyµ"éõð·š^ÓËQ†°6-ýf€qd¦»ìqNQbëÏi£ü;è¤ªåõaB0é äDÓ&ÉLòh¬El
+¦/hÒØ½Á†`Y…À€"ÀH”Klàc1-~t´ÔÐ<N#)á#††YÙö/ÅLl”Šzzý§H*^ÊŠbwïªï=hÀÁbtÍHõ¨
+9ß‡“D-t¡ïÒœÀ‰#Ç?Ê1l­üÏí!žÓuâ‰ŒôkÕ4…qÎôL•ÚŒ 	D¨´­—B(§²f-‹lf¤aJHl6`Fúq ‹¹Ý©ÄÐÍÆQ‰+_æ”ÔD,±…ÔÓÆ€{/Z˜Ù ‘èØª!‘á KbòKjÂÒ\$"DyPÚ(Å0Ä€^64ÔE²F±€%×ÜÚš¶Š``J˜öèç§>t¡N'_^o¯üeÂÖ'þµ ^2¾¡¯‚¨4°6y÷@JÜN£y]¦¦,~OØ¢.ð‘¨¾bÔPrs†ù¿Ý-Ý  €X£hÄ0¤eTlÜâ• ¨“0‚` ˆÂ:›ÐæÁ‘Fq ªÂ‚à[c "[Pbø¹ Á±,„:ŽAëÍ|\þÐ[üÜü~E*ZuÎ±h.sµÁ'­þh‰£v×Ÿµe.¦M¸(^¬)L¿?ÚRüëD•Þ9LÝ~Q>ÏZGóûD|vÕÐ¸ñp@Îä	õ£kw¡O¼©26¨ Ž‡¥N£°o»mü(9¥ýÓô®™¦”q¶¼Î] ª@ÅÉ.¢°K ´–Õ šÎ× @¨3EÑeb#¡!‘z
+N‘2¦ý†“M	DH²˜h"n ˆ0¯o‘>Öò @¦ÚXŒŒ&˜mXåÇíHâ÷Ÿ—A­±¶¶ž”v/ÚýbÖ—E“€0PQ¹½(µèø^ºükL-¥®ýqßíXÞü½@ó¶•9&×:sùBS6ù­13ÀbêÖçÙxc¾EF­n:  Ád(‘´\øà†…¯f3×ï)h86!²7$ƒË@´j(ïÂpÏö…À]ÎŒj>Óò,BNËô©7¡?@	"Ð‚2•Ì…ºæO~Ž´LT L£ºddM¡qÀ™'ªIHkHÉŒ`^¡Ž´ãIŸ^“®†ê=›å"E° e€ND½ë4tPÎÐ£¸h&„ò9;Ð—”áÏ“¦$–¨0!º?-o ¨-7ÓZœð†àAO-#«p²ærYÅ’’FÄ%§s½c Gl›$ÄT'fM·'§g	,öRÑƒ()ú!)jI e¡QrAµ“UBÖ ÑâÐ¸@%´ Û¼ÈA`4¬"€™}è´ ¦2@j,õ°¢€‚KÉÛòŽ(5¡¸!4º&w Å7E9ÁD	éÀ?›Ð÷+Lö®vÊ°59§o÷Êk³Vt| -†ºE‚›Á¦L  #$î ƒ/ ò‚ÐèÐë›è’KJÀ‚!
+â6C	 HÁ-@:½£Ê³À$”ê@ÈLÌ,˜½Ó4zM„XHÁ
+T¿‘†	˜òË1âUˆ=]àZ…I•¨b.#R.¥4HPA „Mžk¯ÉŸcí3F Â)³a)±ÅË-À(39!’A¤!D2IÜ $è ¨(ÂîÀ©eÐI€8QÒ€b,–
+XÀ !H_\·WMH‚x ”Y;;PEØÁ ,Ì­›UEÎ&A°(vƒZK¤DFwbQ5}c`‚ä4k@–€Û‹°d©Ñ
+$	$Ë1Bö.~šÌíöDRFŒ+ Ir¿Ê$a$ˆ9ÐŠ™X¸šÔD¢KXÛ|QP"’§qk!˜Í0·5P4[`µªæXs™°R4Ì@DA0ÒH‹¤@ö ªHT‹‹p’¾ä…MÞÏè¬acÚ—"`Þ*‚Ü-qG("""D` ÉešŽA¢g  V6 D@C%è­JÏ×¿<°
+üÿ hAl‡Ùê¦cÌmöVëX&È4mbÕ€ôq0¾¼IG½CD’CLàIe’	 FP",éTâÑ˜©Ó`	Éô ©Ã¶`+RÞÚÑñ“ p"Ò`’ dF‹94žè“&€*²mˆé$Äà+
+†¨ÍÌw92A7r¼ƒV²˜¼íÑC£Þ—ƒ$¢	¾žñ*@~¬~(e Ë½•¦P¡ $ë‰=[ÕÃüå>åXÈ^Li ­rw¬§Þ‚$œæ<“ä¹ÁK„_½\€æ¼ëXû¬P=s½ •”r1ýmÂÉ(4$Mèm1–u³¥¦"Š€&£$L®²id‹ò/=”5ÁH	eÀzâX!ixÐÂÓ$mVZXB®"ÃÚ(µ&ÂaÑ	à@:~\í‚1jAB-‰±P¦M÷ÂQ¨˜$Aš;IL%#ì“³èÈ!À´Â-/V$Hìº"QÊÏŒgíûK±¶k5Ü¾"By½9âR‚z–g7¢
+ãâ{ª
+#Aó"Œ$XJß“Eƒ¬æ‰$‘–Ý”®kÚ˜ÒjD`È‰P¯@ ù'€5ÔÉ‘0…HŽ¬›Ü:'ATÒ a%Þˆ=*8Ï]´ Òr´Ž¼½#kG^LU¼ÛÏ:ÔÁV|ïH|gœŠ#c^~½*ÁÍ§å¿î)í«÷+*#%§_œZh4{åþf‚ºsšÍ-q#çœÕ† 8ù­’!qÑI%Fe|:?Pt‘Dg\P•2@TãY„!§H0ê°Tx‡E N€’qv:ßÕT(AgsÐ	‰ Œ˜gj;	ÅDåñFÆCžWYFU	D´£`N]CüBQ X©LŠhVÛR1xN(—ŠØmVS’¥]ÎbÓ¯Ð‰ä;Ì @Clm4mç)}®ßá¨2)º#ßmi‰œóÇÅ^ýŒô¤µÒãš^‹¾­ñÖœï·ŠÁFûÎBàÎà aE8º"Ô€5“ä PxAR7¡‘ÊsJ$QÄ–e"UÃZª>¸ÿ äT¦Hâþa×Üÿ )
+ïã­uQú? »Ç÷{QŸ‘ ÏE4L^]¶Çj]Ÿtb'óÍ¤ƒò i¦µ{±ã@­{ýýø¢ H’XôJ_J—ªè,ìhH@`$ Ö4ŒLe÷q’×j"\uOnb´ºóîŽdCk"5cP `ÊþÐÊ44>¼6D7UbeŒ` 8ÐW¤l ðI¡Kr¢’VY@£ö‘Þ•9˜^q¹t%•¤ì	$±©¡f‘ØjB/bQ~t¢\#ÃËº(Ã Ë6ÞŒéŽ·çZ2éA;ý›Ò¯`2.|ÑbÆ;G:UÇ#êïÏÚbÐ§5 9@@Vâ$Á¦ Já0$MÐ±èâ˜°Ð‚Hô™ÿ hñÓ¥ÞÌ+{4%¯[mCr7 ›k~+o½\¿žÏi§^}ýÐ92Möéê‚(ŽÃøiÒý;:„@)'NGN¯NMÜÿ )}ýïcC¸U@“‘ä¢ê(Z¢²ïzµ€-&Å]Áˆµ €$’À‡is Ñ()3˜e91¸¸™×Aýé@8@&°@hL•ÿ Î@Ô˜O_‰³Q(¤÷oÅÀ0Ò²0;Å
+Lc)"ÀD‘
+sFDï¾B³àUjû‘ydxM©¯ƒŒPNd‘€-!ŠÌƒ5DùàÃà˜MÌTX©d!‚KR˜°`  Èß%Õ[ó?À!ßO_ïÝˆà_~štŠ›ó:ñÑ[ºö-GëŽàÙÓ÷Fx!H‡rEŠë¤fš Å ‚@ö…±¼¬÷&&Aƒ3zÑA>¨‚1÷>(µj½|ãò€Û9ÌÓšb,tãÿ h€	?C/j$øÇ>v©YïÛ'<½]ù}è‡À7ßz‘ŸsÎhäeŸæ´^†Œ×òŸÕ§£q4î\dNÚ¬„ÅŒƒŠW3t>("åá©Ÿ…Ãëåjø~(Ž$°B,:&Âiæ¡‘½Åt7¡õ{vŽ†€E½œÄsæÉ&-–4p&‚À%ä¯s¯z: ¼á„	(å@#*¯ öm¸ôDwÚÅ^"šƒb¢t @ÿ  -0ÀúDM\EH„°"ÄÄ“D°©º,-ŒGÖÁ!²`Á)› !Ú®Fy¶çæŽ‰¡Ø>ŠÇÎô`æËýž”– ÇÏú¨Í9Ö3ï=æ’ñ‹õ&Å©¢g7Kšù0¡'jgv£–UùA.æH¥jˆ‡"˜ Ñ$°7xvé¯wËQ¿n~Ñ2îùþÕÔ†¢N£ýU2B;äÎb‹¢æu®XõCýfû]éµ‰ý|íèØ:Ÿß³ uCÓ¾ÏñÔñ 5=Æ~ûXÑ/Áe·8èÅ÷`9§J	%ê² XsŠƒR_ë=u-ï½±õÎ*LÆ„ƒMˆÜ¨$æ54Ø©’‹ÁÇ]ÁDHosQA7ù©`’XdFÇæŽzø¿«Ð ’ÞËá"Š¤$“—¸ïÉT H›þm¾ÛPA ,‚ŠÇP$	¤ëC0„ÊÖFi„}üÐ9Üeh’T@¸‹¨”Ëåö¢‘¬z±Kö"ˆ	\çOmÿ T[¡(âEDÄ<Ñ=kcÇ“Lüˆ¾Þ}ÑPkbpiýu$5µhè`
+6ä¡cAP“¯ \4qÄP˜ íYƒÓu»ÉfÐ„ˆÐB¶	3ˆ&(Aªî7·4C	fÇîÎ‘9ŒÃæ–H$¬{tþ_5¥Žƒ­\"ßÕ¥ Œ0GCh!nÄ}pÑBÌ^<^¥›Æ"ñ›:T7ÚédïŽ¤Ð0-ß;âî¬Ö0$;Fžn\Ðä€Ä½fæÇ®¢@Ivµÿ ;Ô1“µŸ~Ö¢»˜AyË´,Ñ
+¥œ¯’{ˆ¸w½|¢UížÑD4jÄ=_»*BÓ¼?Ýçzt10 _k®b,=67üý ’Œ[]Ýª%aé·"÷§‘°ÜLœ9Þ54Ã#iº
+b¶tc S‚‚K:& –‹
+Š.
+œ’7äMü‰—ÒGÉé@ !}”6ÓZÄ6okøšÄ‹©	ˆ|ˆÊÝÑä”/ðàñQRõ9Ïé¦‹Û? rÆ®¸l?e}R&çÔ¾iÚA’WòàçÅ´{'¶µl gš>!D*ÐÆ ¡A®äE¸4 — m¨ð){z/ÜÏXñEA_ZqŒÐcŽŸ:P´„ævÏÝ•]-*%ç}wb;Ž½;x¤‘[÷ë|P„«'\·|ö¢! -Ð»ø#_X¬’EÏ-@23®òkÒ8wlÅ´¤Œ……¿ùî¯ú€¸Û\Hòh+1yyh"Zè?¦‰OJlðYü©_5lÊ³èÞÙ÷IxF\aÜ„é!	RDf¨„–šZ#BöØkËÑšD ›ƒB•Ä—.„TƒÈì4 #Bñ#£´åêk8KÛÒzŠ\ ¯?4` C0È6$iƒLVmrMiÌ
+o õèƒ™œMC‡
+êôZQCƒ|3noJI{}óæˆ1Ð÷·†8gH$lþß´B†ŽjQÔRÖUÇ?´F#ÀÓGÒ8h`ÈÝâVÜ4ÀO#äoæÊZ…ï§¬ÄQ ÿ œ!ZŒ`Tüˆ;Ú9q",È"™™l”K¿ÛÅ	’¤=ºÓ€3¢\·%žÃÉ¡Ä(;íÏ—­ \káûUn<_ÃñjsbÄ£ #ˆõ£ÜKdûŸö¡ˆA¨Ðbô#rPxò¨Òa`É÷¶—Ÿ4B@óÝñoF"?®ýôº¾´c6Ø6FÆ~uÚNÁÅËžƒP jÇ
+ëŠ+&[#©t *œ ³ïæÝ(À	:¡°å1¨Ü`ÓŠ @,¬,2fmÚ—_¯Ú¢òr{zÐ¤ËúßÍ³@IÈ"PH­Ò‰›«ký'Þ‚~H@ b:]¬šxE-=`IœÒð0Ž÷áÖ˜&Z#³vJu¢YºVg¡h[yÎgô^ Ò=4Öbô;6#ÀBLdÇJ¾	M h™ð—ª« 'TV½¢ˆé“ã®½+@º÷Ñ­ò;Ö€\µàðw¡âv6Í¼¹§,¼ËíÌÐpµùÊŒU¨13§ªwà#Ay¦²_'ÄgUCk\ñôF¡3ú×ê&¦dûÈ,ýÐˆ{ƒWÏNl ±àj.öþô¢YjN×óü„ã§îŸõ£ uµ”ZïLÑ3¨h˜gç<t{d4S·=ÒR-äØ·®Ý¦³Ë¡ŸÀÃ4vs–HzR(€?£°ÝÒaDã«™uŸDÆ:žZ˜a“w›œVÁ‹r)­!h&ù:”ÍüÑ‚\ŠƒÚ ¯lszM_#ÚwzŠAØÑ€¤‹Ó\‘Xa…‚q¼š(.ÕìÖù¦ƒYÃcÐÂõGK1?H¢MjS!±´‚ïj)‹†Ò·N.+n©gøR)H X°¼Î‡JÙ8h&àw¹&Ý6Í LHqÍâ¿ÿÄ %        ! 1AQaq‘¡ð±ÁÑáñÿÚ ?ìiŠD ,;urÅ=ÒeûFO¾ö¤„GÑ	ï@úÛ¥6bÃôû°¡œ—¸eí3G ±p$.ÓŒ’yq0"Úå7Š2D®¾ï×æ°	ßÌQyD©xyŸžµh
+ÏSé?í$C&~;ã&ž	LþiÅ…0€IÉ÷ŒŠ*ð^noãâ '¥÷Úœ wÛÜÐ	 IÔ{oM ëÂ¡FÖ{ÇgE(ÙûÍ¿Êìü·ù@3ëŽ¾Šæ²"aúÞ‘lK|š¡¬Ôh¿6ûfŠä¢Í8Ž×Uq¹@Q_öF(M µêG½o­OLPu9ÿ yø­(÷ßMwPž ÐhœŽVööÔç\þÎ3]2?_ç°aiñŽ#ÝéóBGdÐßcòè:\w¤†|uü¬2åÐŠ/ßó4n¶÷¥"74@+?-•sÅ8œ;6=û<DÉ‘.Óæ-Õ–ŒÀÁ‘ß“AÞ‘³ÙQœŸ·£å	µG_"ˆ»\‹s{ž´MhV¾ÀÒ‰’@NïŸª˜9tè374s‘O­^Ý3BÈ'Aªôº€õVFØ…@]:ŽîôdÌ¶·óñG#«qsñX,ÆŸÛRÖþŸ=i.áJöôò·kü§±ÌS——´çH‰7êÄÙ Ñ¼YÅ£ùBàAjIÓ þèáõ~ÌM*Îˆ9ºÎþ(È»iŸv¢¼®îÝý¶(š¢òýÅ^Œ”	ú]T€Ü—×,Mû÷>“Dí§Ýè»Ê«ïƒÓª÷z€ûìÖ‡±ççš…'ßc§ge8÷ëz 6íE{Cs×ÓùLSc#½¾(ÈHÝ·ö€A= b€ä¢Îã]k2=±–¹9þPZäotFñ&\+P@M€02BþQ| Úó £Ðµ¾Æ(ÃGÅ4dk=<^Š %´ü.÷ ¤T´4:ûÖ†ºÅ·Êãò… .'ïEê«žîÓBC±'üåÉÉ¿h²ÎM¨ä€×ß8˜¡’¦ô#	}XOR?/ZûBzktÖƒK";|N–Í0D„’t+:P€æ K+È;o%TX
+Çù{ÑPâDK±—…ÞÔ^¬¦´Ó@¢9‡D[ýÑvZž¿Ê,Aê´#ßoD.ö÷¬üÐ¨ÌG¿µ7œ¼Î_]hl$ƒ#ÙˆíPsƒDNv<ßöˆXoÞÐkÞÓ;EIî/Zü“¿¯ùDæ=ÿ ;:FÇìhkq½½ý¡C|{íÅ	›\ûÓZ†û3žzóXqŒ>šïEHéþOÄr@—’%Ž0é¸Y%äßF&íª;p<€~G{Q›·¿ò”	(þñ?âÞ„!Û¬|wïRÂ¹ðÜïÒ„¢WAhÌê©`–H9ñc•@PÉ|Ûz¼° ØWÚ’àŸ?æ”@S“ó3ÔQÊl û®³ñI‡˜k¿â©ƒŽý¨Ä¦5û¦éºAÏ;Ÿ«Q¼Á¾ôE¼åW¹[<9Ò‰1hYÉÙ¼ŠA‘‰@7	#)«L
+2 –µ&Q”nè…dÃ/~TmäÄï	Hß¯ç¦ôC37ña@¬ÍˆW¶žö©Ö C‘¯›kš0Q¼yŽ‡î¦x¹#¥s¿ozP}x>è†Œ~dÓm‹õ “{õ·¾Í!ªÓÏ¯"ûùïØ+Ñ‹F?Ú"k®¾ñ­gw7÷¥:+²;{ü£"Û‘ù]um©ƒ œ-ãùMl_îÔl-H‚åeÒŒ"	p$y.Ì”Õˆ`CXÙýQX6EÙí÷˜Ìd­VþgÉ *Yü;â¬²ûŸB,ž1üÖLÑÀ‚±Úß&Âˆ€Ò´vùÑLˆ	¬¸×ÓÂQBë©­h$ûÿ Mí²§ƒb\çA3·ôR€J¬§ð[*Ñr‡e¶ÙJ½0ÿ ®M:¢n£_¤~Ð„„ Æ´¤P(ÅàŒÃ%¥djLé£2ÞEXH’¶Ì½Z(ˆ•ŸaçYÖ¡Ä3ŸÒ:«SBÚü|;^ŽX;tn˜‚tCßUGŒ‡oœP	šõ“‰9;¼“EEýÁår«ê{¾ŸtÁ1ÁôVÂu¿3î•qß®»×<ïw~+×üü¢ëp`[SÑ{Š"OýÞ†bzpi7rcn´x`›qoôÁa¶:o¶iîž|÷“BÈ‚ì¨ƒ=`2Š"rŠhEŠ,£“” 5¦¢‰ží¯ÚNõÿ yÆiÀZ¸û#°Æ”Q'a"å‹ŸU	-¬è!ñ¥NÔ|›gÛP:$¦V¥b\!Ö`¥–ž,t×¥FS@'âüÐäLY6Æn<kF$ÃsäISÚœÈ‘u9ßv¨, &!Y"ü>•{,XqÚ 8Ép	-W+íjj¹ ƒ¢Ÿ¦¯¬¢‚†ÒKÜT$–”ÆÄ†ô§+‘†¶ÑÞŠÄ@É$”­û—G€‚‰r1#¸Ë«†o9´ÑZ–1††;ÔPq'L÷÷4`Øý	¶”XZ6&ûûübKŸ£Þ´ _Ð»ñLY-véÅÕ†W=oí¸¨,ãßx=(¦Œ-ïZ<x÷;fƒAž!‡{f…¨€Ç\6^!õk$ &gDÝèŽh²@`&/£+6akAô•É_[„^<Ñ‚)KD A8°¹º ‘#h ´ 5Fô“ØX”›ä`HTˆ\¶ŠA	‚–mfõ ›22 ±`nh’,’‰ ê
+P20 	qA ?œBC„Þ)HBE œÀˆµ¶¤!š	²™„æ…|à(„LŠÂÎÊDÍj)³-µ°Hà$Â&Ú…À	A
+
+#f\Í1C`"M a@Pé„»œØ&”ìŠU-RÅÉkg$âŒáI÷¤«4$@ 02
+`Áë!"az,/JÅÜ$!Ì¡±Á‚#rÁ€«# Dw`€8ëM®Å±$¥  æ·¾ˆ7¾xÒõ`›d«Ñƒ{Í€Hˆ C ( @¡ªS@2Kx 5´€¼Ô `(‡D9F¼¬¢ˆ(%“ªÇÆ˜ìUã[>h‹šíí½Í
+H—ÅÈ‚b
+a–,)„Qƒ$±ð58<¾Ôtbþû÷AÛN_Cè¢Cw§½jô}ñÛÞiðÏHw ‚,°2èâ%ˆ,¡"PcT(G0@ –c ÁšMˆXd“bƒ 
+tfÂÉæD©Ýä“*CD.€ #@odÑV% 67Ð ‚!GÈHÌá$˜‡N{p$ÀÞÅ# Šò`pvÒƒÇ 9N‰!ÎXqqÞã~—ØTtbLŽHØæÊ È´’Ê°(Œ@B$p”¤žŒ
+ò	UØ‘‰‰À(ˆÄ¤ ¢œ°A2•“‹Jý"«1`_™3R ¥çm;³‘ÕÝè¬à–kfYëLä¡ ¤Á‘	’aA@	rFB´²4µ!€AŽ.!Ý1ó/ß¥HeŽ×¨â—N „€ˆD"!0E
+ D 9¡&Q¥±J	˜@7	&ÊÅ81¡r	I„ÁR “2ˆ!Ò„4¡à–‡ƒ™ôÓB¸…^±ˆÂZHÜ¢•ˆð€¼š³¥ö àÁ…Ö‚³¤Dö—èÈéM	v="BàÕ(·îk>îËmë0µÇ·_zïGl¯“æŽ¾›3çJ–›íïåwé>=±§È°2!+Û6¿Å©ÐÄB	 ÏAP‰Â%”¡ Ü»º#A€§lì$–LZiQˆ¸“•åË`‡J<½gÊÏn•8ÑdNÞNœ*0Xgñ}V)mÑëo+C~W¾Ú!€»Ôk‹iÅŒé}>(cQ—>Üúi’2É6ßÁõPöûlCù¤È%¦ë0g¿z`<2÷R‡¯ly¦)‰Åö<u£È„ç[­àN}õR@$'dÿ ß4‚%ÈY¬JYå„@2ð6ž3’ÕyÏ§uÉïWÓ>~A¢°0M|X¢³0™.»Š	 ˜‹€0‚H„“pXtD {¬G-ÝTÌ l@œHâ¨¦ÇI'ev›Ð`ˆ¢	€1ŒAš¤A-+èí@KÂ3k@ Ð6_Èš)il¬ Ø,*¾a"(`E2‹E‘QB"H·ó%(Eg¢Œ7²ØµiO×¿ÏŸ¡VÏòi£ùq§ºÐ<y÷½.	h†äM£ÎWZ'`^½ÿ Ú`Xè	çÛP€ Y'WbõÇJQÛ{Xä[­PäêD§>)
+	œèÌÞ~`*s Ûú)ÀŠÀîÑ>§¥3®`_ióR0-%Û¯#½¡ƒðJXg¸µGWìQÀÙPZçã’(œû­2&-a¿Z{Üøß¦	ž>(‘$‚Ä üÓ	“~ÐéÅ&õ‚ˆÏiuSÄÝÁclõÞˆ‰z>’/ýÅ.,>×Îš|T@‡aŸ9U6@a‰ÞŠPÇt~Q†ÚH„Ú,Üšx¨d›+È\
+"Ård4&³båT ¼JÂp¦J —AÍ¸@1dêaŠp”œö ­•úÅN D# %føU†dEØêÈÔ0FO!€Æhìû(ŸÖÉ IídÙ¦Á$¶b¬K0ŒÁÁü‰«œ8¸ä»S­¶eà) ½\d@,K08(k`Í¢+8õ<YÐH$ÖÆ_³­$Å>ŒùŽ~/F72'F5Š9jlÔµ¸–h` H¸Ó1üÚœ0GžLíÅ …Z•âÙÙ
+94ZÆÐ-CÈèL.5œOŠ›1Ãn•¹#t,~QÖioßözÞ&±bN éÓn¥Èä3ŒH:°jCäŽºmP7Ó_ŠjnF50Ýx¢A#iú}»ÐBéÎcãš÷Ü“iHiú79œèjRÉ Ù.¿_FÔ·ç~p‘ù¢X%Æ½ôëFCAx×^Gjrÿ µ>ëuk¯;‘ò¨¥p‰#ð3Fr^DÅ$\‚E\Ð\Ê•6±€¼$dÜ",K4<EàEdÇE3tîÌ5÷ C"¥fíbc{} ùðiø›÷ú´Ó
+qõïåôž~¨0Ø†Q½¨`ìƒ?¤ø˜éÐ6`{Ò£“(\yÜ”pØü‘³­¶À¥¤OŠrM	O:Ã€;«nÐ8³ª4°ÆVÿ cåD„¸ì cêôK¸V†{òf´ÍÑµ1@¶ÍíÉ„Ä™îé!Ž¼ãùB²•*•J ¬‡Ãrb‹2K  mòÑŠÞ`743kYÕÍŒ èpGƒD	S¦ÚÀ×yÒˆðçG‘+jœ„nÍ¯GJIØ-°øÞ‰3ÏŠ1û¯í	 $}ç½(°–Ûú¼.ô8šò>!Š~ïð4ÅJ—¿>õ¤ t´|»[ý Œë¯¿)ÜŽqþ:Û–8u«KÆÅ·I:šÙ"’D†á&Fb€‡LâìÊù[.L@jÌ6“	*Ô(Œi+a8…HØ"`»!ÔÒ'A™å¯ùFí îýÔ˜Ìùòcúh‚NÜTS@ sãçW@/­±ltŽ”v1b:sÍœ½~¸ò=Z;lN
+‰„~æ¤ÃÇà®hÀml´€¹ ‚“ÔDN’½Úö -‹³w‰qý«ÌøË¿¦Ž?N‹ ¡?ó÷.¥€¦7é¹Ô­¨ˆ¸óyud¥¤ +ALÁUg:~ã+%rdì»%°2o&D±IbT ¢Œ 4;ëŽ`!à€m–f “2S€Ó7«Àµ6§Ca#WÑ tæ„2(¸ó0;XQ!3ÇE÷ÐŠ GŸvT„Ä^»=isžœq@Y`§…œÆ(ÓuõT $ßM9T#‚Ÿ.š±³{³œÓ’$/ò<Uëìµ×ñÍd['a*á˜²$ÞÃ«	‹Eð7v0€0Haè…¹Qó2pN NÔm’B ²n‘™…Öˆ“­Ew|!AæMŒÕ‡© 3~þEd_ÑG.‚p}ïÁëG=ÎO¤˜ä^ááÿ ”œŠ
+ßâ1–#Co‹\Ê¹Ú{šX_Í³ZùõÖÎš~é¢sŒñî´	Ë>o]]Eƒ& ‘c$’0Íù¤0YágT@<öµTZ d£Íµ-bônËR
+¢E"A	&Y!’y(  ¾÷:`Âù·ÕmB	†áúÿ (ûˆÒ?Ÿ²¨CC¢tÆ!SŸm‰ñÞš3¸¡®`®Ÿ¬,17D"\:êÝ‰ñZ`ä´ë€ØzÇõùã½0D€Y£@3~ÔL‹¯ñWÈ+?ÌmXº&D XIu®gD¤9-bÀ¹åK{ÍE!˜ "†Æ±¬Ñžƒ °0ž‹$S8 Rˆ1h@Ø	 ¬Q„’b1F7ÿ ˆL³J"ØÀÒtƒÐÁ(@d•	Tº)"Fœ‰# ""„aQÉ ÀlTUÏßû½ü]#1¯®¤Mû“mV{
+Eõï4Lô~}ŸºØµ_oÝX
+ès`r¨œ9 i—½h…`5Î;©”ƒ¶°ÜÑØ6‘»ìxÅkBÌ¡òuâ(À²‡ßG1@0"˜9A‰‘®B›©Ys0rè»Qø%ñ¶ÈA-V¥£ÆI’è^K!ƒ‰Ê½ÈNh˜7›“	v\«I€©R`Ó9ŸÈ¡	XsEË Û÷ßæEë¾ºëæ¹"Ú3ñc¦j
+’I¾g™¦Ëƒ×;ÍlîäÅüÆæ‹	F!‚sÏúhKI•ùþE çýïD+ k¯Ïàf=ÍKëÿ $
+%uÁÅÈµ¿jzâ%ï ûš5(A“¨$Ÿm¾´ ¢L•ÒvvÆ—¯@ %‰ÑÈtR)BÄ  Æ£At¥@œ½™™«‚AÑ& pšº$I¢Ô	 ¨e;86Xô†‚¤ì,4H”d¡edT¨(RíA aä‹r$¡€i{iC"U8>Ú”#c•þÑWï½){å4Õ¹
+Ë·8˜µ:Š{?×.<Þ	µrÁÈÖ×‘ª‹S±°«¦ßû¾ÔC%‰\ D!2ö;²¹%!¡Cj*Ñ·\OÐìdM &É2”ÑÈ1ƒn#‰À±%°@ªJ@²WôY:caI¨Sì&,Ž¡X$ìY’f	˜6¨	©$7<
+ˆœô¿å8© Q½½šŒ]ÆôW,¶¼¼éG „âgDc^^s=Võ­€ÈrW]ZóSC#èÇ}4éD‰g¦¿˜û¤JP¿›öwFE"Ö±Ô÷û¦ÞÙøþÐÀØÇ@É1&Üfˆšßooâ­¤ccŠöžžõÃ)”Q@Œ—SØSäTé  ó1"6£DC 0,!8î¨LŽ…22H0#.°„™!p°	`»hØ¦ŽYÒ(€*‡HÀœ@r:TøêúÛnŠ…©9œ+¤ˆÍ#EÁ¯)}­¤Ð2£I"N`³† )E›ŽÌŒ¶î•)¸zë/¾û­,÷&óï¢ŸòŒQÄP¾áQà æ@îV ÂÄÖQ‘1Œ(&ÁÉ£wÖ‰}tIZníHE‘‡ºÍ-pJJÚéx­C!4£‡"Mè;ÎðÌŒß0úÑz[xÔ$z¥J£C©
+R%Ó‰"h]æÇ€Ð2b.	¨ó)0d(º0}I×ÏÅ"§®“FûüöFG=ÌPg$ð¶pyÕfŸhF-Ë4ºs””^äÿ (‘ [3dJø÷Jðd9Ô„wv¢âîK©ók¤¸n‰×;íV@{ß¯EþÈPIÁ÷] @|÷ÛPÄÒ``‚éØ¶»þÑžP*ª““P€bŒÀHh»¸cS”ö¤ DLN! ÈÄ¬Ü‚60Ã+°‚T.¨$   6
+M…A‚½2B72Xš2 ˜¥‚’ ÄØSgØ#Ùm7¢)…³ZýÑb/B$ ˜iØº‰Æpa76@2R L‘	!º \h Ä¯? ž”;gÙ­&câtƒk÷¶FüuÉ¥{èãJ-ù[¸ûÎh¶0Hƒ‘ïSRÁãîEŽÑ¥a$¸r4ÞáâÔ’É$c#ýx NlÁ^#«E½hgD€¦€¤€!O„æÀˆH €!™\êS*Bº)ŒÄ¯g$AHz }™ nvR1I’%DÆ“]ä$Ý¿)âBLuIÌÓè!ÔµYÞg]PÞïò„ò?Œ|i] à~¿µC¨h¥‹ÇZÆÁF@|[j9˜)å¾|) Aq¨A¶1?ÑJgßÞ&Ã¡¿©£À/
+Ü…Mâ˜Ÿ@A rÈÁè
+Ïj	gÀ²5².;²-¬ê‰ ÉÜ7G0A‘qÁ˜Í„ƒq3)°L%a Ô0PÀ[¢Ä EÁ¡€1"’ ](ë¼º¸
+-ObÒþ Í# oµ*Ák ÎŸ"€½/ ö%ÁO*4ÊdK$K ‘p('ë [ 1‹	ºˆØ¢/À[!ï³_Nz~üf¦“óÝ_¥(À!ÁgÍ¨ ¹h5Œ¯“S€6³  µÐéó·jQy¹$Z~¨ÖœÏô¾U “Ð‹N;ƒkÐŽ!¢âiƒa%–Æˆdd%abÒ2©x²)‚ŠA­–QL¡Qb¤$^­€Y %iRnà”diXE§DÀnh@º än‘2 $I"ÞÌLÜâž–ˆVX’uåEÒ©h,Y šLNPc2›QÌ ,˜ß@‰YYÀª.	H&H™š÷Cˆ2@2Ä¬H‹-à †
+lÈA2€k"-¹Zj(‚=„˜Ä‰h, LÊÖ  ¤À»ÅØL‚æj,‰D‚X[¸: oh¢M+N÷D©€s’eQB2ƒd15	M@jH$šlÁÈ$PÀz»Gœg†$ÜQ½Àîh‚b@X–€!I´ˆè0Ai+ Dà ‘"Ysu2Å„QIÜL°<dj¡ÂL_L‡£ö Fém©©¾~¨³>¶ë¬*| à”!æà…‚6S0YI e†&¦AÆ—v]–B!sØ›.…Ð¹wü~sFrgý4O¹ù¿J—@ÆLßNiÚ(†?žÞ€#ˆ‚,¹h%˜
+Ñ(.×9(²@ƒ60u‚sD"ü$‹IšÂà„áYØ0Ä Ñ2rn„K „(¤À  FtRHL—D’l$k8KÑf°~RŠ,à@]SÔZ³$,'$O­‘$…ÉÅ”BDj\¼ÚÑ"zQh8$(L3~+0@‹²DŠˆqi¡Œ“m€Ì0§›Ðèc°5!¼/Õ„1ŸSb 0bêI LH ³ 0›¡F xÄP1aõ"#SL€b†Jâ,5,ˆôKÙ
+ (²µ§jò‘¼¢F{Rš6MÆ?³I’äÍ‘lv¢EH¼²@ÖÃÁÑ02[YF4HÀ¢VÃ‚eZÆ› €‹,a Ý—r¦lI³RX€‚“Rä`¹  Cºb˜r26PŽóV«@d²%¡B¤>DX
+˜€ª	
+}FAAÕYxHæËÚšÊu‹PÚ %ã‡´Ú@‘|b!X4ÝSclëpM‹ê·÷àÒ ó××Ùáeÿ ˜ø¡ñÓçØ¢`Pˆ²&ÝEd¡FMÀ	ŒJÖH$rB€Î%Ah $"FÁÜ„ bEF@a 7‘@`v%FTŽ P'b‘Q¤(£„DÅ2 ±†ÄÓ˜H³2¨M´	‘ a¿¨;p&Ž€(“iVAàF¡„Hkl\ëAÙˆ’Òm»û rÄ¼IÖÇˆ§‚`Ô‡.Ãô:Q0ÂŒÛÞ;È¢u+FG>éCHÍ½"9Ä-È N°/lz˜9ŠÐ w$iJ€4®Hù«H >›QàŒWÍm.(‹(S=ðÍê½Å,¾CßºÄÍÆ?Ì×Â¬xý¥²zd­Å2H$ ˆŸ(ŽjðnE!qd‰¦æ’Žb3°˜ ¦x´Q¡‘€Är2QRÑÜ#êði!›ã²ŠÃ1È#€a AÁ° ÅœDÀ0“Á¹Ñi¸An@AVÊÅJñ‘B$Ð‚èQ¼±D?š€À0˜ô·eL„ž0„˜BÄ€š¡ò­âh‰‘aÇµÄG¿$Gy‘˜þv B‹´y÷ÂŠ¤ñÏ|ûÑ ujçüš,	êEýÅè?¾ï@1pa>_\v¡ÈŸ~¨É*Ñú6(áFs 4ÏâŒ/‚H¡À™½4;-=úv©„µ‹{ûAMH½ÿ ¿ePÉ=¾SŸqR„W\hjØþoÓý©À÷ý4+ E¶WßÖ‚ Má~÷G¡	‘éý«T¼Sàýû½€2À>Ž–æ¬0âOŸxuan´4~¼ŸM$smV(e–$›Ú %®´àIpf.ÚNôÈL&ñ(ˆÀ2K€£#%†«Â£'†"ÈL”²@‹Úˆr(Pð2Ä/O`’H‚P hÃî‹ƒT¯þÓZãŸÚì‰"§€D¤Á`ç])Íî^k=[iÒ€,BÀk@1†x®>—‘ÈÌ(§ %ˆ,Üíj;%··Tvíƒ½…$Ž—Ûò¯0®¿4|mÆýð¨$}ÆT{„0ˆ½ÀÇZ1¨|nµÛâ‘<kãü¢{¨üûjj&	A"  Aæºc†Dœ ¡.ŽÙBƒd£…¡Å0‰ k\ÞüÓÎ/‰Èïë¢Ô­}gÍxÏçˆëE –oÐzíFw‡|}ƒ€€²vyÈû¡Œäìý<ýP®28ü­K[ù/;§âˆH°Ñ*Džøÿ -D«xz|mEL¹3Ó¶ÔR_&úÆ˜â–Y n¾ïÓôKxK_v¦©$’‚<1åµ(@[ŠÜÃv¾®w "‹Ü$ÍÎ”CeÁr ¬qQì-˜V,Ý +1ÅŽA"pAÆVØ“‚`(áIáVV 9èGÑ6ø¼QÁbÁ;ˆëÖ€
+m-=wJ‘$@$rAüÏÝ9ïLRø	H](Š7±Ûz€ "°xÒŠ
+M.F„QÖqµî™ ›¼Q£	QÄBÏƒ¤*K`ˆbìLo¶hEFáz€ !$JëFBï¼ÐkNßFm®–Ò¯S Õm:Q`°¤Ä-Z-)$‰%	Ã7¾& ÁÞË±’»Qˆ°% ?»aD€ƒÔ “a:°;¨¶µAÑãQ©Ú8‡±›÷ëæ’@H÷7ÿ (æÐ#]ögâ… ^žj„@&ë~kÔ%ÿ  Á	XñáPÌl±õjà;f1ìÐe€gsqsïÀI`t]oQ _@‰ÖÞýå$k{ß·¢)r[f}µpO¼	Š,rjÚ—ÍBpâQ}¢ÒÅBæo7ßQpA’Y@P±
+àÉ •1@ €£€¼Q Ðä¨Ž`‹*D,ˆ j	Iš‡ÏÔÔ¤À³æ{"ÉF1õC€(ÛoI½1œ‡IFbW*HSV07!Ä“¥€]è1ÈË$ÒT,U± rQ[„_9²¢ÆBYÜ¾|Ûª¥JFœ) ¬³‚­À!"'«(‘r(‡'µ¶ílô Afcgöy¢€a ÃÏ1ûµ]Ñ:èLc½¦hG‰û
+½ýöÝ=¡Ìœ·j!àÀã:Trö=Ã’ºsæ Ä—¹b`iš:è­¦Ôz0z{kt¥MÜÿ i¢'ûŽzMIäHH×‹ž‚¬ÚŸx¥ ÔÚÝ©3N‡OX4–‹Öá¼¥WãNöcaò3×ýtsÓŸÛ»Ñ‚~¾ŽÔ³@JûÙLš¸*Ý>ÞÌS½­ ú?ŒDØç<Ð2Ùwƒž(`´¦( 6ìV"]	X Ð" îK#ø8Š¶£&âÓô–C²Ad0Å`[IŠ;‰*¼D7Ø v,€Bî½,*s%\íDDË,mìz !©¹Š
+U
+%Ð ôÝPa ÈùÂ«#!Ï¿V¦ð¢ÂCp@Úd(¼—hŽO=?‚œ ÈcòZÞ€3$±R¬‘:‘M@%q!	PÊQBÝÇ¿WÒšdJÎOÔ“æ€‘ Žâ¥­»ëz‰ÿ #]©„FùÌmSÁZ¬l·¢`:{j°btuÓùKA×JLE”èóˆ Ï v D¢ÁŽ¯ëêŽ”ÆÚ¾pîBTeÛùû¿ >iàÉ7¥ß‡JFÜsvÎâ‚€,öù«¡ëûµÛ¶ÎbhI›§Ý¢‘h;ï›PØèEÌ=ÿ (qnâÃ{õ¢"@«èÿ ·U(/L¹CÛšØø]0óâ›PW€-htTD†ÛúMí÷Vi2É!¦Y27¡ 	]"… ì‚è’9fIE‡°ËÉÊr ]¹%0Êƒj0QÉÜ€ð4;ÛÜBQnšg…$lI¾œåN+^™‘®ÑDò@‹Ý€ÐIœ8¦ŽI5vò3££®Ó ¦"Ü‡DØÇŸŠÁÖÿ r½Ú³_÷ë§Õ5’‡³zNÐ>0ûô¸ ÜûûPúæúÑwgÆoù­1@3·÷gN`æÇi¦‰³0ý{Ö¬.[¶×‹Ð@Ö9DK–£‚ Š7n¹lû*›¬Z¼kC&L-WëA(Qð×ºÕ›2Ø·Z‘‰m¹²÷ª«¡|¾wáÑ§¢Îþú©ÙcgètP _E¬;¹Í,XX2yŠQbÝ^4wµç¼P¡6V¿ow¢6 À	ÈÃçáÐ¹ ´½Âw¬D£pô÷¬£îv£ºH.úÑòO Ï¦^3 \“ ‘Ú¢ €.œ’€ n,šÃs22TÝH62‚-ƒ:†F¢k:h"wyú;H¸aôâs¿bh‘ ð÷§šŠÌ¼qûj99]¼¥ŠÁl+lˆ&$™T…€dÍp. ‘I\§´ß·4 ó–ÿ vû 6/r¯J$Ü–†ïÑÐØÏ_y C¶Z­kPb1}½u`½&Ñ±þùÆHßë—ž(Þ‰ÐüÍ­|Ñe«{ÅÖZâŽ	–còû’ehX¾.>èà4˜¾	ññI$	-iüÓœ †õûN±¸ù+~‹æt°÷¨µ®’ n?£ ~gÐ4ìpÔo¯oDÔ‘Þ-oï5„,Ÿb'¯Z ùykÆÔ”ut™Ò`ƒ@¾5âFH¨ê½*rûÿ h 5ìÃ~‘þ Á¤r(›ÆóŽ”D$$£íïƒZ‘F.@îç ~­9‹
+[dŽK  µ‰ÑŠlKMÎÅ½:éŽ	º˜  0®Ý VXX— ™ZÃhc	¢¸i•€µD,MÏhøú ‘×oz¼U’`™cÝ©¤ÌêRnV;Q@%p L ÏDF´ÌNñ”)Ý´7¡LC…üÚ9]ŸšE4¼[·æ3W„¸Øh#Ó@ ‘ zÝÿ h™G~Ü&„ás;Ž¿”Â	eu¾”\;{Ÿå)‡{ßJP%ŒÅÔ€1enèÅ‚×áÑhÉ!‹ß1C1a(£rY1È‰ˆÞù=M·{ÒŒ´O•1©Ònø£@Ä´k½$äŒêp*ä@(¯<‘BI^ÿ ´„.m™G/½(d¼=—æÔÁ,”Ä×òœ£eÇÄ¯³ œ˜ÀmjÅýâ˜Zç–ÞóBúGø>hìg~ý¨r™þ£ÕhHmY[=_Ê,`š‚à4|ëA‡‰Ïgµ±ˆMÆÜ©ü©°¶@
+ÀuKA±šÍÐÀAÕ–YEFFæt¾ªØ0ƒ˜t&žhdÈ-PøµñÞjî ~§j©y“?ÌcZ8$Át3­9ÉjA‘º˜eu]@@&é!ö¶Å-ý}3¦°Ï^½)~}ê# 71Ž5æœì-EÀ7øû«ä=üµï«Z´€zÿ ¿è) ™»/]°hl”£ïçz,=—Qû;u¤1!F.å!±ùð@Ù´D²yWJÂì ï’qwÊ¤É#îØ›íÚŽB3èøÚ†Ê1´¿Úˆn‘ptÿ v4PA&yPµëD €°ríªØf/ qe‡úùV¼RHN`åÃÈüÒ·eÿ €l#š è–§]ý¿“.›rYñ3Cv%?Æ •ûÔcÍÀ!úõž´z·òûÐÈÓo07ÖâÔÓa+£y¢ÉŒœ—®@¡á(mÁ)#(=³jq	8G ,Ü—¥YL3	e]è€Ã¢P&Û¬&á“Ú€1¶ª4Óíª KX<ü=jÈ÷9ø?SAº¿×PÝ}u2ˆ@H°b^ÕÂ(ÔÀ|À•F$Û`áöôh„ŒóÇKÓIÔö]¸¸µ'ØœÑT6ÿ tr+§×ŠÿÙ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     $(function () {
+    getMorris('line', 'line_chart');
+    getMorris('bar', 'bar_chart');
+    getMorris('area', 'area_chart');
+    getMorris('donut', 'donut_chart');
+});
+
+
+function getMorris(type, element) {
+    if (type === 'line') {
+        Morris.Line({
+            element: element,
+            data: [{
+                'period': '2011 Q3',
+                'licensed': 3407,
+                'sorned': 660
+            }, {
+                    'period': '2011 Q2',
+                    'licensed': 3351,
+                    'sorned': 629
+                }, {
+                    'period': '2011 Q1',
+                    'licensed': 3269,
+                    'sorned': 618
+                }, {
+                    'period': '2010 Q4',
+                    'licensed': 3246,
+                    'sorned': 661
+                }, {
+                    'period': '2009 Q4',
+                    'licensed': 3171,
+                    'sorned': 676
+                }, {
+                    'period': '2008 Q4',
+                    'licensed': 3155,
+                    'sorned': 681
+                }, {
+                    'period': '2007 Q4',
+                    'licensed': 3226,
+                    'sorned': 620
+                }, {
+                    'period': '2006 Q4',
+                    'licensed': 3245,
+                    'sorned': null
+                }, {
+                    'period': '2005 Q4',
+                    'licensed': 3289,
+                    'sorned': null
+                }],
+            xkey: 'period',
+            ykeys: ['licensed', 'sorned'],
+            labels: ['Licensed', 'Off the road'],
+            lineColors: ['rgb(233, 30, 99)', 'rgb(0, 188, 212)'],
+            lineWidth: 3
+        });
+    } else if (type === 'bar') {
+        Morris.Bar({
+            element: element,
+            data: [{
+                x: '2011 Q1',
+                y: 3,
+                z: 2,
+                a: 3
+            }, {
+                    x: '2011 Q2',
+                    y: 2,
+                    z: null,
+                    a: 1
+                }, {
+                    x: '2011 Q3',
+                    y: 0,
+                    z: 2,
+                    a: 4
+                }, {
+                    x: '2011 Q4',
+                    y: 2,
+                    z: 4,
+                    a: 3
+                }],
+            xkey: 'x',
+            ykeys: ['y', 'z', 'a'],
+            labels: ['Y', 'Z', 'A'],
+            barColors: ['rgb(233, 30, 99)', 'rgb(0, 188, 212)', 'rgb(0, 150, 136)'],
+        });
+    } else if (type === 'area') {
+        Morris.Area({
+            element: element,
+            data: [{
+                period: '2010 Q1',
+                iphone: 2666,
+                ipad: null,
+                itouch: 2647
+            }, {
+                    period: '2010 Q2',
+                    iphone: 2778,
+                    ipad: 2294,
+                    itouch: 2441
+                }, {
+                    period: '2010 Q3',
+                    iphone: 4912,
+                    ipad: 1969,
+                    itouch: 2501
+                }, {
+                    period: '2010 Q4',
+                    iphone: 3767,
+                    ipad: 3597,
+                    itouch: 5689
+                }, {
+                    period: '2011 Q1',
+                    iphone: 6810,
+                    ipad: 1914,
+                    itouch: 2293
+                }, {
+                    period: '2011 Q2',
+                    iphone: 5670,
+                    ipad: 4293,
+                    itouch: 1881
+                }, {
+                    period: '2011 Q3',
+                    iphone: 4820,
+                    ipad: 3795,
+                    itouch: 1588
+                }, {
+                    period: '2011 Q4',
+                    iphone: 15073,
+                    ipad: 5967,
+                    itouch: 5175
+                }, {
+                    period: '2012 Q1',
+                    iphone: 10687,
+                    ipad: 4460,
+                    itouch: 2028
+                }, {
+                    period: '2012 Q2',
+                    iphone: 8432,
+                    ipad: 5713,
+                    itouch: 1791
+                }],
+            xkey: 'period',
+            ykeys: ['iphone', 'ipad', 'itouch'],
+            labels: ['iPhone', 'iP
