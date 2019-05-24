@@ -1,6 +1,6 @@
-# Project Title
+# KCC ERIS
 
-One Paragraph of project description goes here
+Kabankalan Catholic College Educational Resource Information System
 
 ## Getting Started
 
